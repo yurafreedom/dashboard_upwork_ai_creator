@@ -24,7 +24,7 @@ TRACKED = ('AGENTS.md', 'README.md', '.gitignore', '.github', 'catalog.py', 'arc
            'data/application_plans.json', 'seen_jobs.json', 'search_brief.md', 'profile_facts.md',
            'portfolio_map.md', 'profile_draft_en.md', 'operations.md', 'automation_prompt.md',
            'tool_catalog.md', 'user_request.md', 'connection_status.example.json',
-           'Открыть каталог.command')
+           'Открыть каталог.command', 'recovery_20261109.md')
 MERGEABLE = {'data/projects.json', 'data/practice.json', 'data/availability.json', 'seen_jobs.json'}
 
 
