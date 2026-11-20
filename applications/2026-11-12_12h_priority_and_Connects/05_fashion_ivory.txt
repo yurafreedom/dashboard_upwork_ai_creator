@@ -1,0 +1,26 @@
+AI Image Editor — каталог одежды, бежевый фон → ivory
+https://www.upwork.com/jobs/~022120370600950440407
+
+Hi,
+
+I’ve attached a before-and-after using your Monet photo. I matched the beige studio to the warm ivory in your Luka reference. The close-ups show where the new background comes through the lace, and how the shoes still cast a soft shadow. I kept the original square crop, skin tone and chocolate colour of the dress.
+
+I’d suggest a $50 fixed-price milestone on Upwork for the next two catalogue photos. I’ll match both to Luka and deliver two full-resolution sRGB JPEGs. That includes one round of revisions. Would you prefer the original crops or Luka’s portrait framing for that first batch?
+
+Best,
+Yuriy
+
+PROPOSED FIXED-PRICE MILESTONE
+Two catalogue retouches matched to Luka | Two full-resolution sRGB JPEGs and one round of revisions | $50
+Объявление опубликовано как hourly. Согласовать fixed-price offer с клиентом до начала работы. Следующую партию оценить после просмотра количества и сложности исходников.
+
+ДЕМО ДЛЯ ЧАСТНОГО ОТКЛИКА
+Исходник: /Users/yurasachenko/Downloads/1.1-MONET-DRESS-2.jpg (3806 × 3806, sRGB)
+Эталон: /Users/yurasachenko/Downloads/HS26-DR106-LUKA-DRESS-JDE-1.jpg (3002 × 4500, sRGB)
+1. Редактировать фон Monet по маске, оставить исходные модель, одежду, украшения и обувь. Кусочки фона, видимые через нижнюю часть кружева, обрабатывать отдельно от узора и кожи за кружевом. В образце Luka фон в середине левой стороны примерно #EEEEE8, правой — #F1F0EB; это ориентиры для мягкого градиента, а не сплошная заливка.
+2. Ослабить тяжёлую тень старого фона, сохранить контакт обуви с полом. Не переносить золотистые рефлексы платья Luka на Monet и не копировать телесный тон другой модели.
+3. Для подачи: один JPG «Original / Retouched» с парой одинаковых увеличенных фрагментов подола и обуви внизу. Если нужно показать совпадение масштаба каталога, сделать отдельный необязательный макет 2:3 рядом с Luka, не растягивая модель.
+4. Если используешь Higgsfield, Image 1 = Monet (редактировать), Image 2 = Luka (только эталон); выбрать редактирование по маске фона, если доступно. Отключить стилизацию и улучшение лица, если такие опции есть. Если узор кружева пересоздан, вернуть оригинал поверх обработанного фона и доработать маску вручную.
+
+EDIT PROMPT
+Retouch Image 1, the square photograph of the chocolate lace Monet dress. Use Image 2 only as the studio lighting and background reference. Match its softly lit warm ivory wall and floor, gentle tonal variation and soft floor shadow. Keep visible contact beneath both shoes. Preserve Image 1’s original crop and subject pixels, including the face, skin tone, hair, jewellery, shoes, deep chocolate fabric, floral lace pattern and scalloped edges. Where the studio is visible through the open lace near the hem, change only that background; retain the original skin wherever the lace lies over the body. Do not transfer the model, pose, sequins, colour of the Luka dress or portrait framing from Image 2.

@@ -1,0 +1,479 @@
+Бюро — проверка публикаций за 48 часов
+
+Выборка зафиксирована 12.11.2026 16:23 по Киеву. Данные Upwork получены 12.11.2026 16:25 — 12.11.2026 16:52.
+Фильтр «Опубликовано за 48 часов»: 94 из 260; вкладка «Видео» — 71 (включая смешанные проекты и стратегию).
+Активная публикация, новый найм, существующий отклик и возможность подать новый отклик — отдельные признаки. canApply — ответ для текущего аккаунта в момент чтения. При canApply=false причина не установлена, если Upwork не назвал её прямо.
+
+Вся выборка (94): активно, подача недоступна — 86, всего активных — 90, активно с нулём наймов — 76, активно с наймом — 14, активно, уже подано — 4, закрыто — 4
+Только вкладка «Видео» (71): активно, подача недоступна — 63, всего активных — 67, активно с нулём наймов — 58, активно с наймом — 9, активно, уже подано — 4, закрыто — 4
+
+AI-generated 30-second keynote opener video (tech / cloud / AI) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120878089402768324?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 12.11.2026 15:56 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 11 · наймы: 0 · интервью: 3 · 12.11.2026 16:25
+
+AI Video Creator Needed for UGC Ads, Product Commercials & Social Media Videos — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120867541648840186?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 12.11.2026 15:14 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 8 · наймы: 0 · интервью: 1 · 12.11.2026 16:26
+
+AI Filmmaker Needed for 2-Minute Cinematic Psychological Thriller Trailer — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120865776052424251?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 12.11.2026 15:06 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 9 · наймы: 0 · интервью: 0 · 12.11.2026 16:27
+
+AI product video creator for an ad agency (long-term, 5-15 s product ads) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120858670523913722?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 12.11.2026 14:39 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 8 · наймы: 0 · интервью: 0 · 12.11.2026 16:51
+
+AI Micro-Learning Video Production — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120821115158946928?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 12.11.2026 12:10 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 10 · наймы: 0 · интервью: 0 · 12.11.2026 16:27
+
+AI Video Creator for 5 Short Product Ads — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120818791056315898?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 12.11.2026 12:02 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 14 · наймы: 1 · интервью: 0 · 12.11.2026 16:27
+
+Expert AI Video Creator Needed – Ultra-Realistic High-End Fashion Campaigns — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120815059481551984?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 12.11.2026 11:49 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 15 · наймы: 0 · интервью: 0 · 12.11.2026 16:28
+
+I need AI Images Made For My Website — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120782870914174992?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 12.11.2026 09:40 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 14 · наймы: 0 · интервью: 12 · 12.11.2026 16:45
+
+AI Video Editor for Performance Marketing Ads — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120750521594844666?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 12.11.2026 07:30 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 15 · наймы: 0 · интервью: 2 · 12.11.2026 16:28
+
+Creative Designer & Video Editor (Paid Social Ads) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120729405649216624?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 12.11.2026 06:06 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 8 · наймы: 0 · интервью: 0 · 12.11.2026 16:28
+
+AI Product Photo Editor for Jewelry Brand (Cleanup + AI Model Shots) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120707144654315342?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 12.11.2026 04:36 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 14 · наймы: 0 · интервью: 0 · 12.11.2026 16:25
+
+AI Video Production Manager (Higgsfield, Runway, Kling) – Australian Property Brand — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120680184763046851?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 12.11.2026 02:49 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 16 · наймы: 0 · интервью: 1 · 12.11.2026 16:28
+
+AI Video Creator for Instagram — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120677671001345595?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 12.11.2026 02:39 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 8 · наймы: 0 · интервью: 5 · 12.11.2026 16:29
+
+AI Animator for African Production — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120633631683828675?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11.2026 23:44 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 6 · наймы: 0 · интервью: 1 · 12.11.2026 16:29
+
+AI Photo & AI Video Specialist for Outdoor Gear Brand (Lifestyle, Studio, Retouching) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120586997212486233?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 20:39 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 22 · наймы: 0 · интервью: 0 · 12.11.2026 16:29
+
+AI Food Photography & Creative Director — Hyper-Realistic Commercial Images, Video Ads & UGC — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120583045236762796?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 20:23 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 22 · наймы: 0 · интервью: 0 · 12.11.2026 16:29
+
+AI Image & Cinematic Video Generator Needed – One Documentary Project — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120568085246368684?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 19:23 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 10 · наймы: 0 · интервью: 0 · 12.11.2026 16:30
+
+Amazon UK Product Listing Images, Enhanced Carousel & A+ Content Designer (Supplement Brand) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120565667841721286?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 11.11.2026 19:13 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 13 · наймы: 0 · интервью: 1 · 12.11.2026 16:45
+
+Creative Strategist: Write Meta Ad Briefs and Lead Our AI Video and Image Editors — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120565114370513836?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 19:12 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 8 · наймы: 0 · интервью: 16 · 12.11.2026 16:30
+
+Performance Creative Team for DTC Brand – High-Volume Meta Ads (AI Videos) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120564115818305168?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 19:08 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 14 · наймы: 0 · интервью: 0 · 12.11.2026 16:30
+
+AI Video Editor Needed ASAP — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120563970045487276?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 19:07 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 20 · наймы: 0 · интервью: 10 · 12.11.2026 16:51
+
+AI Short Film Creator for Fashion Brand (Mini Series for Reels) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120561360055719568?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 18:57 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 10 · наймы: 0 · интервью: 0 · 12.11.2026 16:31
+
+AI Travel Food Videos — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120560135753013849?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 18:52 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 22 · наймы: 1 · интервью: 0 · 12.11.2026 16:31
+
+Seeking Freelancer for Product Photography and Promotional Videos (Must be in China) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120560060026810321?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 18:51 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 16 · наймы: 0 · интервью: 0 · 12.11.2026 16:31
+
+AI visual content creator (photo and video) for a premium webshop in the sleep niche, long-term — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120557886893145427?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 18:44 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 27 · наймы: 0 · интервью: 0 · 12.11.2026 16:31
+
+Premium Pet Supplement Packaging Designer & Product Photographer — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120551846104797677?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 11.11, 18:19 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 10 · наймы: 0 · интервью: 0 · 12.11.2026 16:46
+
+Hiring: AI Video Creative Editor — Meta Ads (Remote) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120545125497109143?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 17:52 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 22 · наймы: 0 · интервью: 14 · 12.11.2026 16:32
+
+AI Image Generation Expert — Photorealistic Images (FLUX, Stable Diffusion, ComfyUI, etc) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120537148047965523?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 11.11.2026 17:20 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 8 · наймы: 0 · интервью: 0 · 12.11.2026 16:46
+
+Video Editor for DTC Skincare and Body Care Brand: AI Ad Remakes (Ongoing Work) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120531322853916277?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 16:57 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 15 · наймы: 0 · интервью: 5 · 12.11.2026 16:32
+
+AI Product Video Creator for a Specialty Coffee Brand — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120530561076555423?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 16:54 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 10 · наймы: 1 · интервью: 2 · 12.11.2026 16:32
+
+AI Creative & Meta Ads Operator for a fast-growing DTC Oral Care Brand (Claude power user) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120528307007144406?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 16:45 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 20 · наймы: 0 · интервью: 6 · 12.11.2026 16:32
+
+Video Editor for AI-Generated Ads | Full-Time Position — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120523663108947283?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 16:27 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 22 · наймы: 0 · интервью: 11 · 12.11.2026 16:33
+
+AI UGC Video Editor for Fitness Ads — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120523645654400629?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 19:27 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 5 · наймы: 0 · интервью: 0 · 12.11.2026 16:33
+
+AI Filmmaker / VFX Specialist Needed for Cinematic Documentary Sequence — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120518211294378056?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11.2026 16:05 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 14 · наймы: 0 · интервью: 0 · 12.11.2026 16:33
+
+AI Video & Voiceover Creator for a 30-Second Meta Ad — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120516571671817887?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 15:58 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 8 · наймы: 1 · интервью: 0 · 12.11.2026 16:33
+
+Bearded Male Videographer / Photographer for UGC & Premium Product Content (Ongoing) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120512120069034477?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 15:41 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 16 · наймы: 0 · интервью: 0 · 12.11.2026 16:34
+
+E-Commerce Graphic Designer for Jewelry Brand — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120510494620139990?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 11.11, 15:34 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 17 · наймы: 0 · интервью: 3 · 12.11.2026 16:46
+
+Professional High-End Photo Retoucher & Instagram Grid Designer — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120502328097247725?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 11.11, 15:02 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 9 · наймы: 1 · интервью: 0 · 12.11.2026 16:46
+
+AI + Photoshop Lifestyle Images for Stair Railing Products (Paid Test, Ongoing Work) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120500423641070231?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 11.11, 14:54 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 14 · наймы: 0 · интервью: 2 · 12.11.2026 16:47
+
+AI Video Ad Creative for Home Services & Marketing Ads (Ongoing, Per Video) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120499845704426682?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 14:52 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 17 · наймы: 0 · интервью: 40 · 12.11.2026 16:34
+
+DTC Brand Creative Strategist + Video Editor — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120499055998267039?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 14:49 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 20 · наймы: 0 · интервью: 0 · 12.11.2026 16:34
+
+AI Filmmaker & Content Creator | Personal Branding, AI Video Ads & Creative Storytelling — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120492526063325677?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 14:23 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 12 · наймы: 0 · интервью: 0 · 12.11.2026 16:35
+
+AI Video Editor — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120490811749301877?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 14:16 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 15 · наймы: 0 · интервью: 3 · 12.11.2026 16:35
+
+Create a 40 second realistic cinematic Ai short film with Higgsfield Seedance 2.5. — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120479727160651423?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 13:32 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 7 · наймы: 1 · интервью: 0 · 12.11.2026 16:35
+
+AI photography and video for E-commerce — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120471308097700310?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 12:58 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 13 · наймы: 0 · интервью: 1 · 12.11.2026 16:35
+
+Take a Product Photo & Earn $20 — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120466430243372661?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 11.11, 12:40 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 8 · наймы: 1 · интервью: 6 · 12.11.2026 16:47
+
+Get Paid for Product Photos – Easy Remote Task (Just 1–2 Photos, Fixed Payment) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120463756316262870?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 11.11, 12:29 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 9 · наймы: 3 · интервью: 8 · 12.11.2026 16:47
+
+Technical Product Image Editing — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120463054171514042?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 11.11.2026 12:26 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 14 · наймы: 1 · интервью: 3 · 12.11.2026 16:47
+
+AI Video Editor - Fix AI-Generated Ads Before Launch — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120457691288282298?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 12:05 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 12 · наймы: 0 · интервью: 15 · 12.11.2026 16:36
+
+A 60 second photorealistic video made in Higgsfield, following the script and direction — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120456897942262253?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 12:03 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 11 · наймы: 0 · интервью: 4 · 12.11.2026 16:36
+
+AI Performance Video Editor for Meta & TikTok Ads (DTC Apparel Brand) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120445200402431315?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 11:15 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 20 · наймы: 0 · интервью: 1 · 12.11.2026 16:36
+
+Video Editor for AI Ads — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120432788640081082?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 10:26 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 22 · наймы: 0 · интервью: 17 · 12.11.2026 16:37
+
+Meta Ads Video Editor | Beauty & Skincare UGC | Direct Response — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120432508195633815?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 10:24 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 20 · наймы: 0 · интервью: 1 · 12.11.2026 16:37
+
+Ai Video ceator for mens barber shop — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120419670408476744?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 09:33 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 7 · наймы: 0 · интервью: 2 · 12.11.2026 16:37
+
+Experienced (AI) Video Editor for YouTube Automation Channel Marvel Explainer — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120414343367229045?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 09:12 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 8 · наймы: 0 · интервью: 5 · 12.11.2026 16:37
+
+AI Video Editor for Short-Form Ads and Social Content — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120411325286530387?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 09:00 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 22 · наймы: 0 · интервью: 0 · 12.11.2026 16:38
+
+Food photography editor and retoucher — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120410125458206367?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 11.11, 08:55 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 11 · наймы: 0 · интервью: 0 · 12.11.2026 16:48
+
+AI Static Photoshoot/Lifestyle Style for Dog Bracelet — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120407019329425901?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 11.11, 08:44 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 11 · наймы: 0 · интервью: 0 · 12.11.2026 16:48
+
+AI Video Creator & Scriptwriter for Dubai Meta Ads (English) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120398078140458170?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 08:08 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 9 · наймы: 0 · интервью: 0 · 12.11.2026 16:38
+
+AI Image Editor — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120370600950440407?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 11.11, 06:18 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 14 · наймы: 0 · интервью: 11 · 12.11.2026 16:48
+
+AI Image Specialist Needed for E-Commerce Brand (Editorial Product & Lifestyle Campaign) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120364293644165591?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 11.11, 05:54 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 20 · наймы: 0 · интервью: 4 · 12.11.2026 16:48
+
+Singapore based photographer/product photographer — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120332181556143290?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 11.11, 06:47 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 10 · наймы: 0 · интервью: 0 · 12.11.2026 16:52
+
+Cinematic Video Producer — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120329052184334819?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11.2026 03:33 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 9 · наймы: 0 · интервью: 1 · 12.11.2026 16:38
+
+Production Brief: Image Centering (700 Images) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120326221082542550?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 11.11.2026 03:22 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 7 · наймы: 0 · интервью: 3 · 12.11.2026 16:49
+
+AI Video Creator (Higgsfield) for Faceless Social Content — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120325666503279062?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11.2026 06:20 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 17 · наймы: 0 · интервью: 17 · 12.11.2026 16:38
+
+AI Video Editor - K-Beauty Brand — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120316029588535959?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11.2026 02:42 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 12 · наймы: 0 · интервью: 13 · 12.11.2026 16:39
+
+AI Video Ads Specialist | Commercial & Promotional Video Production — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120312376271830645?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 02:27 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 8 · наймы: 0 · интервью: 1 · 12.11.2026 16:39
+
+AI and Digital Composite for Five High-End Bottle Product Photography — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120306923626298997?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 11.11, 02:05 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 11 · наймы: 0 · интервью: 11 · 12.11.2026 16:49
+
+AI Filmmaker for Photoreal Social Film — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120287558760210903?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11.2026 00:48 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 10 · наймы: 0 · интервью: 0 · 12.11.2026 16:39
+
+Cinematic AI Filmmaker — Narrative Film & Live-Action Integration — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120287417247989365?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11.2026 00:48 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 11 · наймы: 0 · интервью: 9 · 12.11.2026 16:41
+
+AI Microdrama Video Production Expert — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120283541632717293?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 00:33 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 8 · наймы: 0 · интервью: 1 · 12.11.2026 16:51
+
+AI Video Production — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120273879662067317?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 10.11, 23:54 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 6 · наймы: 0 · интервью: 0 · 12.11.2026 16:42
+
+Product video for Amazon & TikTok - real footage + AI scenes (kitchen sink soap dispenser) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120271730860336314?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 10.11, 23:46 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 8 · наймы: 0 · интервью: 4 · 12.11.2026 16:42
+
+Product Photography: 200 Food Items, 9 images per Item — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120271424020238819?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 10.11, 23:44 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 6 · наймы: 0 · интервью: 1 · 12.11.2026 16:49
+
+AI Image Designer for Amazon Listings – GenAI + Photoshop/Figma Finishing — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120243630755199048?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 10.11, 21:54 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 22 · наймы: 0 · интервью: 0 · 12.11.2026 16:49
+
+Photo Editor for Jewelry Product Shots — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120206579280880826?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 10.11, 19:27 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 10 · наймы: 0 · интервью: 0 · 12.11.2026 16:50
+
+AI Video Editor for E-commerce Ads, UGC, VSLs & Social Media Videos — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120204321111220695?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 10.11, 19:19 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 8 · наймы: 1 · интервью: 1 · 12.11.2026 16:43
+
+Youtube & Reels editor (Cinematic High Quality AI Educational vids) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120201548659499479?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 10.11.2026 22:07 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 17 · наймы: 0 · интервью: 0 · 12.11.2026 16:43
+
+Photography of Tissue Products - Toilet, Kitchenpaper etc (26-047763-01-01) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120188237544423029?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 10.11, 18:14 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 11 · наймы: 0 · интервью: 0 · 12.11.2026 16:50
+
+AI Video Production for Futuristic Theme — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120179243909599715?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 10.11, 17:39 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 6 · наймы: 0 · интервью: 0 · 12.11.2026 16:43
+
+Senior UGC + AI Video Editor for Brazilian Portuguese Meta Ads (Long-Term) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120177304553104570?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 10.11, 17:31 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 22 · наймы: 0 · интервью: 5 · 12.11.2026 16:44
+
+Senior UGC + AI Video Editor for French Meta Ads (Long-Term) — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120174004020138467?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 10.11, 17:18 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 17 · наймы: 0 · интервью: 3 · 12.11.2026 16:44
+
+Apparel & Accessories Retouching, Background Removal & Colour Correction — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120168288133293242?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  изображения · публикация 10.11, 16:54 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 14 · наймы: 1 · интервью: 1 · 12.11.2026 16:50
+
+Full-Time AI Video Ad Editor for 8-Figure Ecom Brand, 3–7 Ads a Day — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120168087550164597?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 10.11, 16:54 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 22 · наймы: 0 · интервью: 10 · 12.11.2026 16:44
+
+UGC Content Creator for SaaS & AI — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120164286665915031?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 10.11, 16:42 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 11 · наймы: 0 · интервью: 3 · 12.11.2026 16:52
+
+AI Video Editor for Meta Ads — активно, подача недоступна
+  https://www.upwork.com/jobs/~022120162741067260375?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 10.11, 16:33 (Киев)
+  ACTIVE · отклик аккаунта: False · доступна подача: False · Connects: 22 · наймы: 1 · интервью: 8 · 12.11.2026 16:45
+
+Hyper-realistic 6-second AI video – vertical, with music — активно, уже подано
+  https://www.upwork.com/jobs/~022120512622672482797?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 15:43 (Киев)
+  ACTIVE · отклик аккаунта: True · доступна подача: False · Connects: 14 · наймы: 1 · интервью: 0 · 12.11.2026 16:34
+
+AI Video Creator for Cinematic Lip Balm Reel (Honey concept) — активно, уже подано
+  https://www.upwork.com/jobs/~022120468288008009800?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 12:49 (Киев)
+  ACTIVE · отклик аккаунта: True · доступна подача: False · Connects: 9 · наймы: 0 · интервью: 0 · 12.11.2026 16:36
+
+AI video creator for an always-on product video library (underwear brand, ongoing) — активно, уже подано
+  https://www.upwork.com/jobs/~022120219875639212104?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 10.11, 20:20 (Киев)
+  ACTIVE · отклик аккаунта: True · доступна подача: False · Connects: 14 · наймы: 2 · интервью: 4 · 12.11.2026 16:42
+
+Generative AI Expert – AI Product Visualization, Image Transformation & Creative Automation — активно, уже подано
+  https://www.upwork.com/jobs/~022120204510676795862?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 10.11, 19:19 (Киев)
+  ACTIVE · отклик аккаунта: True · доступна подача: False · Connects: 22 · наймы: 0 · интервью: 3 · 12.11.2026 16:51
+
+AI Video Creator Needed for Realistic Product Promotional Video — закрыто
+  https://www.upwork.com/jobs/~022120580202970633872?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 20:12 (Киев)
+  CLOSED · отклик аккаунта: False · доступна подача: False · Connects: 8 · наймы: 1 · интервью: 0 · 12.11.2026 16:29
+
+Video Editor Needed – E-commerce Ads, UGC & AI Video Creatives — закрыто
+  https://www.upwork.com/jobs/~022120449728825064087?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 11:33 (Киев)
+  CLOSED · отклик аккаунта: False · доступна подача: False · Connects: 8 · наймы: 0 · интервью: 0 · 12.11.2026 16:36
+
+Stock Photography Specialist Needed – Premium Haircare Brand — закрыто
+  https://www.upwork.com/jobs/~022120276974865891798?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 11.11, 00:06 (Киев)
+  CLOSED · отклик аккаунта: False · доступна подача: False · Connects: 11 · наймы: 0 · интервью: 0 · 12.11.2026 16:42
+
+Social Media Manager & Content Creator Needed for Spa & Skincare Business — закрыто
+  https://www.upwork.com/jobs/~022120162144882440264?utm_campaign=LLM_chatgpt_MCP_jobpost&utm_content=jobpost&utm_medium=LLM&utm_source=chatgpt
+  вкладка «Видео» · публикация 10.11, 16:30 (Киев)
+  CLOSED · отклик аккаунта: False · доступна подача: False · Connects: 8 · наймы: 1 · интервью: 0 · 12.11.2026 16:45
+

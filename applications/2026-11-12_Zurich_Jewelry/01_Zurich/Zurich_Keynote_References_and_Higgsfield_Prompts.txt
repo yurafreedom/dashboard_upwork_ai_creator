@@ -1,0 +1,47 @@
+IN PHASE | Independent AI keynote opener concept
+30 секунд для большого экрана. Учебная работа для портфолио Yuriy. Сценарий и название собственные; это не заказ AWS, SAP, Google или организатора из Цюриха.
+
+ЧТО ПОСМОТРЕТЬ
+1. Imaginary Forces — AWS re:Invent. https://imaginaryforces.com/project/aws-reinvent
+   Нажать Play у Open Keynote. Посмотреть первые 30 секунд: от нескольких слов на чёрном фоне до вида огромной сцены. Сравнить, что читается вблизи и из дальнего ряда.
+2. Becca Digital Studio — SAP NOW AI Tour. https://beccadigitalstudio.com/work/sap-now-ai-tour/
+   На странице есть полноценная заставка 1:08 и фото сцены с тремя экранами. Проследить, сколько раз один и тот же угловатый мотив меняет масштаб и функцию.
+3. Google Cloud Next ’26 × Magnopus. Запись: https://www.youtube.com/watch?v=11PBno-cJ1g
+   Раскадровка и разбор команды: https://cloud.google.com/transform/gen-ai-creativity-video-editing-next-26-weezer-garage
+   Переход от гаража к дата-центру показывает масштаб через узнаваемый образ. Для своего демо взять метод работы с ключевыми кадрами, придумав собственный образ и звук.
+4. Региональный пример, Black Frame — SAP NOW Zurich: https://blackframe.ch/sap-now-ai-tour-zurich-2025/
+   Пункт 2 — фильм для двух спикеров, показанный на большом экране во время keynote. Полезен для понимания площадки; это съёмка с людьми, не образец AI-анимации.
+
+СЦЕНАРИЙ И ЗВУК (это тайминг собственного концепта)
+00–05: темнота, макро одной прорези в графитовой пластине; тёплый импульс доходит до края и останавливается. Один сухой звук.
+05–12: более широкий боковой план; за первой пластиной ещё две. На каждой участок световой дорожки на своей высоте. Слышны два независимых ритма.
+12–19: в том же боковом ракурсе одна пластина поднимается, другая опускается. К 19-й секунде все дорожки образуют одну горизонталь. Ритмы сходятся, затем короткая пауза.
+19–26: широкий план. На первом сильном ударе после паузы один импульс проходит всю установку слева направо. Впервые зритель видит всю линию целиком. После импульса контур продолжает мягко светиться.
+26–30: монтажная склейка на титр IN PHASE, в том же месте по высоте — одна тонкая световая линия. Голос уже закончил, музыка затихает до конца файла. Титр входит в 30 секунд.
+
+ЧЕРНОВАЯ АНГЛИЙСКАЯ ОЗВУЧКА
+00–05: “A signal starts here.”
+05–12: “One system sends it. The next is still waiting.”
+12–19: “Sometimes the distance between them is only a fraction of an inch.”
+19–24: “Bring them into line, and the signal gets through.”
+24–30: без диктора, оставить место музыкальной точке и выходу спикера.
+
+HIGGSFIELD — С ЧЕГО НАЧАТЬ
+Сначала средний план установки, затем сделать его выровненный вариант редактированием первой картинки. Протестировать только переход между этими двумя картинками (4–5 с), до генерации остальных планов. Горизонталь 16:9, титры и звук делать в монтаже. Если движения нестабильны, оставить две картинки и анимировать две жёсткие маски в редакторе. Получится контролируемый механический сдвиг.
+
+01. IMAGE — мастер-кадр / состояние «разрыв»
+Wide 16:9 studio photograph of a minimal precision optical bench. Three separate thick slabs of smoked glass stand side by side, left to right, on a dark graphite plinth. Straight-on camera, almost orthographic view; a narrow gap separates each slab. A single straight amber groove runs horizontally across the face of each slab, ending flush with its sides. Each entire slab sits at a different height: the groove in the left slab is centered in frame, the middle one sits slightly lower, the right one slightly higher. The three segments visibly fail to meet. The installation fills the frame horizontally. Matte charcoal backdrop, soft white rim lighting, clear silhouettes, warm amber as the only accent. No text, logos, interface, wires or particles.
+
+02. IMAGE EDIT — финишный кадр; вход: результат 01
+Keep this exact photograph and camera. Move the middle slab straight up and the right slab straight down just enough for all three amber grooves to form a single horizontal line across the image. The left slab does not move. Keep all three slabs rigid; preserve every bevel, gap, reflection, colour and proportion. The only change is the vertical position of those two slabs. No new objects or text.
+
+03. VIDEO — ключевой переход; вход: 01 как Start, 02 как End, если режим принимает конечный кадр
+A single locked-off shot of the same optical bench. Hold the offset starting arrangement for a moment. The middle glass slab slides vertically upward while the right slab slides vertically downward. They move as two rigid pieces on precision rails, ease to a stop, and hold still as the three amber grooves meet at the same height. The left slab and the camera remain completely still. No cuts, rotation, deformation, added objects or flashing lights.
+
+04. VIDEO — начало; вход: крупный кроп левого края разрыва из 01
+Locked macro shot of the amber groove in the first smoked-glass slab. One small warm pulse travels from left to right along the existing groove. At the physical edge of the glass it stops; the gap beyond stays dark. Hold the empty gap for a beat. Glass stays rigid, studio reflections stay still. No change of shot, sparks, text or additional objects.
+
+05. VIDEO — музыкальная кульминация; вход: 02
+Straight-on wide shot, matching the supplied frame exactly. All three slabs remain perfectly still and aligned. A single bright amber pulse travels left to right once along the existing straight groove and crosses both narrow gaps without hesitation. The trail settles back to a dim amber line. Keep the full installation visible. Locked camera, no second pulse, no camera shake, no cut, no text.
+
+ПРОВЕРКА: сначала выключить звук — должно быть понятно, где сигнал теряется и почему потом проходит. Уменьшить изображение до четверти экрана — разрыв и финальный титр должны оставаться видны. Затем послушать без картинки — голос разборчив, музыкальная пауза заметна, конец не обрезан. Мастер по согласованному брифу: 3840×2160, 16:9, 25 fps, ровно 30 с включая титр. Для реального заказа вместо вымышленного названия использовать утверждённые материалы клиента; официальные логотипы поставить в монтаже из исходников.

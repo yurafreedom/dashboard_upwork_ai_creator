@@ -1,0 +1,12 @@
+{
+  "server_name": "upwork",
+  "server_url": "https://mcp.upwork.com/mcp",
+  "enabled_tools_allowlist": ["upwork__list_accounts", "upwork__get_tool_help", "upwork__get_profile", "upwork__find_jobs"],
+  "requested_timezone": "Europe/Kyiv",
+  "oauth_status": "not_verified_in_this_environment",
+  "readonly_isolation_verified": false,
+  "freelancer_account_verified": false,
+  "scheduled_run_verified": false,
+  "notification_delivery_verified": false,
+  "connection_recheck_required": true
+}

@@ -1,0 +1,24 @@
+<!doctype html>
+<html lang="ru"><head><meta charset="utf-8"><meta name="viewport" content="width=device-width,initial-scale=1"><meta name="theme-color" content="#f6f5ef"><title>Бюро · Проекты Upwork</title><link rel="icon" href="./mark.svg"><link rel="stylesheet" href="./style.css"><link rel="stylesheet" href="./practice.css"><script src="./original-brief.js" defer></script><script src="./board.js" defer></script></head>
+<body>
+<header class="mast"><div class="wrap nav"><a class="brand" href="#page-title" aria-label="Бюро, главная"><img src="./mark.svg" alt="" width="34" height="34">Бюро<span>/</span><small>Проекты</small></a><nav class="pagenav" aria-label="Разделы сайта"><a href="./" aria-current="page">Каталог</a><a href="./practice.html">Практика и рынок</a></nav></div></header>
+<main class="wrap">
+<section class="hero" aria-labelledby="page-title"><div class="intro"><p class="overline"><span></span> Upwork × AI production</p><h1 id="page-title">Проекты для<br><em>AI-креатора</em></h1><p class="lede">Заказы на съёмку с ИИ, предметные изображения и видео. Условия и задачи клиентов — по-русски.</p></div><figure class="montage"><div class="prints"><img src="./fashion.jpg" class="look" alt="Работа Юрия: модель в жакете в полный рост"><img src="./portrait.jpg" class="face" alt="Работа Юрия: женский портрет крупным планом"></div><figcaption>Из портфолио Юрия</figcaption></figure></section>
+<section id="catalog" aria-labelledby="catalog-title"><div class="sectionline"><div class="titleline"><h2 id="catalog-title">Каталог проектов</h2><span id="total" class="count">…</span></div><p id="sync"></p></div>
+<div id="file-entry" class="empty" hidden>
+<h3>Открыть подборку проектов</h3>
+<p>Карточки архива загружаются с локального сервера. Если он остановлен, дважды щёлкните «Открыть каталог.command» в папке upwork_ai_creator.</p>
+<a id="file-open" class="solid" href="http://127.0.0.1:47321/">Открыть каталог</a>
+</div>
+<div class="toolbar"><div class="tabs" role="group" aria-label="Тип проекта"><button data-kind="all" aria-pressed="true">Все проекты</button><button data-kind="video" aria-pressed="false">Видео</button><button data-kind="image" aria-pressed="false">Изображения</button></div><div class="searchtools"><label class="search"><svg viewBox="0 0 24 24" aria-hidden="true"><circle cx="10" cy="10" r="6.5"/><path d="m15 15 5 5"/></svg><input id="query" type="search" aria-label="Поиск по проектам и клиентам" placeholder="Проект или клиент"></label><select id="age" aria-label="Давность проверки или публикации"><option value="all">Весь архив</option><option value="recent">Проверено за 48 часов</option><option value="archive">Проверено более 48 ч назад</option><option value="published-recent">Опубликовано за 48 часов</option><option value="published-old">Опубликовано более 48 ч назад</option></select><select id="pay" aria-label="Тип оплаты"><option value="">Любая оплата</option><option value="fixed">Фиксированная</option><option value="hourly">Почасовая</option></select></div></div>
+<div id="review-summary" class="audit-summary" hidden></div>
+<div class="audit-tools">
+<label>Статус <select id="availability"><option value="">Все статусы</option><option value="priority">Откликнуться в ближайшие 12 ч</option><option value="open">Подача доступна</option><option value="applied">Отклик отправлен</option><option value="closed">Закрыт</option><option value="unavailable">Подача недоступна</option><option value="unknown">Требует проверки</option></select></label>
+<label>Сортировка <select id="order"><option value="priority">Сначала рекомендуемые</option><option value="score">По архивной оценке</option><option value="check">По дате проверки статуса</option><option value="cost">По стоимости отклика</option></select></label>
+</div><div id="result" class="results" role="status" aria-live="polite"></div>
+<div id="grid" class="grid"></div><div id="empty" class="empty" hidden><h3 id="empty-title"></h3><p id="empty-body"></p><button id="reset" class="solid" hidden>Сбросить фильтры</button></div>
+</section><footer><span class="footbrand">Бюро проектов</span><span>Постоянный архив проектов · Без удаления по давности · Время по Киеву</span></footer>
+</main>
+<dialog id="detail" aria-labelledby="detail-title"><div class="modaltop"><span>Карточка проекта</span><button id="close" class="close" aria-label="Закрыть карточку">×</button></div><article id="inside"></article><div class="modalfoot"><a id="source" class="solid" target="_blank" rel="noopener noreferrer">Открыть на Upwork ↗</a><button id="back" class="plain">К каталогу</button></div></dialog>
+<noscript>Чтобы открыть карточки и фильтры, включите JavaScript.</noscript>
+</body></html>

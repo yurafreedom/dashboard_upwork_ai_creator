@@ -1,0 +1,377 @@
+{
+  "from": "2026-11-10T23:42:22.733862+00:00",
+  "until": "2026-11-11T11:42:22.733862+00:00",
+  "report": "live_20261110T225714Z.md",
+  "budget": {
+    "count": 10,
+    "required": 148,
+    "balance": 48,
+    "balanceAt": "2026-11-10T23:37:59.447Z",
+    "buy": 100,
+    "baseUSD": "15.00"
+  },
+  "projects": {
+    "2119125735396851053": {
+      "reason": "Прямое совпадение с Eligion: работа в Higgsfield по фото поставщика, проверка масштаба и направления печати. Есть оплачиваемый тест.",
+      "brief": "Из материалов поставщика и оригинального рисунка сделать серию макетов одного товара для магазина/соцсетей. Удержать размеры, белую точку, расположение принта и материал в разных ракурсах.",
+      "pricing": "Hourly, предложить $40/ч. За первый SKU: два укрупнения/ракурса, PNG и JPEG, до 4 оплачиваемых часов ($160), 2 рабочих дня, одна корректировка в пределах лимита. Бюджет партии не подтверждён.",
+      "letter": "Hi NeonQueer team,\n\nA mock-up can look convincing until a letter changes shape across a fold. For your paid test, I’d take one supplier photo and your original artwork, agree the print size against a seam, then deliver two views in the same light. I work in Higgsfield; my Eligion concept shows how I check lettering and materials against the source photograph.\n\nFor the paid test, I’d quote $160 for two views of one SKU (four hours at $40/hour), delivered in two business days as high-resolution PNGs and web-ready JPEGs. Which product should we start with, and do you have a placement template or print dimensions?\n\nYuriy",
+      "demo": "Для собственной демки: чёрная сумка с лично созданной двухцветной надписью. Снять/взять свой чистый вид сумки как эталон геометрии; отдельный плоский рисунок — эталон печати. Кадр 1: фронт на нейтральном фоне. Кадр 2: та же сумка под углом на металлической вешалке. Отдать диптих и фрагмент буквы на складке.",
+      "check": "Сверить отступ до бокового шва, размер букв относительно ручек и ход линии через складку. Третий декоративный объект не нужен: покупатель должен узнавать один и тот же принт.",
+      "refs": [
+        {
+          "name": "Neon Queer — собственный каталог, Великобритания",
+          "url": "https://neonqueer.com/",
+          "use": "Посмотреть конкретные сумки и одежду клиента; сохранить контраст рисунка на ткани."
+        },
+        {
+          "name": "Ohh Deer — Candy Stripe",
+          "url": "https://ohhdeer.com/products/design-no14-candy-stripe-hardback-notebook",
+          "use": "Британский пример с геометрическим принтом: использовать полосы как наглядный тест перспективы."
+        }
+      ],
+      "answers": [
+        "Describe your recent experience with similar projects. — I created a self-directed Eligion product series in Higgsfield from packaging references. I checked the direction of the printed artwork, logo placement and material finish across a studio view and a lifestyle image.",
+        "Describe your typical design process and methods. — I separate the supplier photo, print file and style reference. I agree the artwork position on one proof, generate the second view and compare both at full size before exporting a high-resolution PNG and a web-ready JPEG."
+      ],
+      "sample": "/Users/yurasachenko/Downloads/AI_Creator/IMAGE_WORKS/Eligion_Labs_Upwork_project/generation/01_Eligion_Labs_Hero_Concept.png\n/Users/yurasachenko/Downloads/AI_Creator/IMAGE_WORKS/Eligion_Labs_Upwork_project/generation/02_Eligion_Labs_Lifestyle_Concept.png",
+      "rank": 1
+    },
+    "2118626076449939188": {
+      "reason": "Отсутствие модного видео уже не препятствие: Before the Gallery показывает посадку и материал в движении. Предложение ограничивает расплывчатый объём $750. У клиента есть предпочтения по профилю (включая JSS); подача с аккаунта доступна.",
+      "brief": "Показать компрессионные легинсы и велосипедки в движении так, чтобы покупатель понял посадку перед покупкой. Число роликов, форматы и длительность согласовать до старта.",
+      "pricing": "Fixed, предложить $750 за 2 ролика по 8–10 с в одном согласованном формате. 1) Shot list + Ключевой кадр каждого SKU — дни 1–2, $150; 2) два черновых монтажа — дни 3–5, $350; 3) одна согласованная правка, 2 мастера — дни 6–7, $250. Срок от получения эталонов; дополнительные версии оценить отдельно.",
+      "letter": "Hi Lunare team,\n\nI’d give the leggings and biker shorts one movement each. A slow step onto a low platform shows whether the waistband stays level; a side view of the shorts makes the hem easy to judge. My short apparel study, Before the Gallery, pairs an everyday gesture with a fabric close-up. It’s a useful preview of how I’d approach your product pages.\n\nFor $750, I’d propose two 8–10 second edits in one format: $150 for reference frames, $350 for the rough cuts and $250 for one revision and final exports, over seven business days. Which two colorways and placement should come first?\n\nYuriy",
+      "demo": "Нижняя ступень: девушка в однотонных легинсах делает один шаг. Отдельный план велосипедок в профиль при переносе веса; без прыжков и заявления о компрессии. Фото спереди/сбоку отвечают за высоту пояса и шов, образец материала — за блеск. Собрать общий и деталь для сравнения. В материалах Lunare есть конкретная проверка: дуги и ромбовидное пересечение под поясом. Перенести этот рисунок только с разрешённого фото именно выбранной расцветки.",
+      "check": "Остановить в начале, в момент сгиба и в финале: проверить высоту пояса, шов у колена/длину шорт. Движение не должно менять крой. Показать собственный пример, не выдавать учебную работу за заказ Lunare.",
+      "refs": [
+        {
+          "name": "Deblon Sports — Classic Leggings, Нидерланды",
+          "url": "https://deblonsports.com/nl/products/klassieke-legging-zwart",
+          "use": "Смотреть высоту талии и как читается чёрный материал без яркого принта."
+        }
+      ],
+      "answers": [
+        "Please upload relatable AI videos you’ve edited. — My relevant attachment is Before the Gallery, a 3.58-second apparel study that cuts from an everyday gesture to a fabric detail. I directed and edited the study. It is not a commissioned activewear ad.",
+        "Describe your recent experience with similar projects. — I created Before the Gallery and have studied seam placement and surface patterns in activewear references. For your leggings, I would approve the waistband and knit pattern in a still before animating the model."
+      ],
+      "sample": "/Users/yurasachenko/Downloads/Видео для женского белья/Before the Gallery/01_Before_the_Gallery_Apparel_Demo.mp4\n/Users/yurasachenko/Downloads/Видео для женского белья/Before the Gallery/03_Before_the_Gallery_Fabric_Detail.png",
+      "country": "Нидерланды (сохранённые данные клиента от 6 ноября)",
+      "rank": 2
+    },
+    "2118401767399857908": {
+      "reason": "Есть серия High Jewelry: портрет плюс отдельные детали серьги и колье. Это честный предметный пример; перенос конкретного SKU лучше дополнить сравнением с исходником.",
+      "brief": "Агентство даёт уже отретушированные фотографии украшений. Нужны коммерческие изображения на модели, где покупатель может судить о реальной длине, размере и строении изделия.",
+      "pricing": "Hourly — предложить $40/ч. Первое изделие: портрет + деталь, до 5 оплачиваемых часов ($200), 2 рабочих дня, один раунд. Бюджет всей серии неизвестен.",
+      "letter": "Hi,\n\nSince your jewelry photos are already retouched, I’d keep those as the source for the actual piece. For a drop earring, for instance, I’d set the scale from its measured length before matching the light on the ear. You could review the on-model image beside the original and immediately see whether the stone count, setting and drop are right. My High Jewelry study includes both a collection portrait and a close-up of an earring.\n\nI’d start at $40/hour, capped at five hours for one portrait and one detail in two business days. Can you supply the dimensions and your preferred model reference for the first piece?\n\nYuriy",
+      "demo": "Снять одну собственную серьгу рядом с линейкой; отдельный чистый кадр изделия отвечает за оправу, модель — за позу, а не дизайн украшения. Создать портрет ¾ и крупный план одного уха в том же свете, дать до/после с масштабной пометкой.",
+      "check": "Число камней, габарит подвески, крепление к мочке, характер отражения металла и отсутствие второй выдуманной застёжки. Если генератор меняет закрепку — оставить оригинальное изображение украшения в композиции.",
+      "refs": [
+        {
+          "name": "Bucherer Fine Jewellery — Rock Diamonds, Швейцария",
+          "url": "https://www.bucherer.com/ch/en/jewellery/bucherer-fine-jewellery/rock-diamonds",
+          "use": "Рассмотреть оправу и масштаб украшений; использовать как ориентир подачи, не как исходник клиентского SKU."
+        }
+      ],
+      "answers": [],
+      "sample": "/Users/yurasachenko/Downloads/AI_Creator/IMAGE_WORKS/SERIES_PARFUME_VELOR_&_JEWELRY_&_FASHION/HIGH_JEWELRY/sources/earring_closeup.png\n/Users/yurasachenko/Downloads/AI_Creator/IMAGE_WORKS/SERIES_PARFUME_VELOR_&_JEWELRY_&_FASHION/HIGH_JEWELRY/sources/necklace_closeup.png",
+      "rank": 3
+    },
+    "2119884904739835727": {
+      "reason": "Сильная задача на стабильность вещи; есть собственные fashion-кадры и видео про посадку. Риск: нет готового каталога мужских костюмов и в брифе открытый объём правок.",
+      "brief": "Каталожные изображения костюмов и смокингов на постоянных AI-моделях; сохранять ткань, цвет, лацканы, пуговицы и стандартные ракурсы.",
+      "pricing": "Fixed с этапами при согласованном объёме $800: 1) оплачиваемый тест: 1 костюм, 2 ракурса одного героя — 2 дня, $160; 2) ещё 2 костюма, по 2 кадра — 3 дня, $400; 3) три детали и согласование серии — 2 дня, $240. Итого 3 SKU, 9 изображений, 7 рабочих дней. Правки на соответствие утверждённым вещам, смена модели/кроя отдельно. Не принимать unlimited redesign без определения критериев.",
+      "letter": "Hi Grooms Club team,\n\nFor a groom comparing two navy jackets, the notch of the lapel and the way the cloth catches light matter more than a dramatic pose. I’d build the paid test around one suit, one model and two repeatable angles, using your garment photos to match the buttons, sleeve length and trouser break. My fashion samples show consistent styling; they’re independent studies, not a commissioned menswear catalog.\n\nI’d propose $160 for that two-day test. If approved, $640 would cover two further suits and three detail images across the set. How many SKUs should the $800 cover? I’d correct mismatches to the approved garment through sign-off; could we scope a new model or styling direction separately?\n\nYuriy",
+      "demo": "Взять собственный или разрешённый тёмно-синий пиджак и фото ярлыка цвета/фактуры. Показать на одном герое в полный рост спереди и ¾; третий кадр — соединение лацкана и воротника. Сделать лист «товар → фигура → деталь». Для демки не требуется свадебная локация.",
+      "check": "Сверить число пуговиц, угол лацкана, положение кармана, длину рукава и форму лица. Сравнивать при одной высоте камеры; разница между тканью костюма и атласом смокинга должна быть видна без фильтра.",
+      "refs": [
+        {
+          "name": "SuitShop — Navy Blue Suit Jacket, США",
+          "url": "https://suitshop.com/products/mens-navy-blue-suit-jacket/",
+          "use": "Эталон стандартного каталожного пиджака."
+        },
+        {
+          "name": "SuitShop — Navy Notch Lapel Tuxedo",
+          "url": "https://suitshop.com/products/mens-navy-notch-lapel-tuxedo-jacket/",
+          "use": "Сравнить материал лацкана и понять, какую деталь нельзя унифицировать для всей линейки."
+        }
+      ],
+      "answers": [
+        "How do you incorporate feedback and changes into your work? — I ask for one marked-up proof, separate corrections to the garment from styling changes, and get approval on the master pose before applying feedback to the series.",
+        "Describe your recent experience with similar projects. — I have created self-directed fashion editorials, a short apparel film showing fit and fabric, and product studies with reference checks. I have not delivered a commissioned men's suit catalog."
+      ],
+      "sample": "Для примера постоянного стиля приложить два ракурса; это самостоятельная серия, а не каталог костюмов.\n/Users/yurasachenko/Downloads/AI_Creator/IMAGE_WORKS/SERIES_PARFUME_VELOR_&_JEWELRY_&_FASHION/WINTER_FASHION/sources/waist_up.png\n/Users/yurasachenko/Downloads/AI_Creator/IMAGE_WORKS/SERIES_PARFUME_VELOR_&_JEWELRY_&_FASHION/WINTER_FASHION/sources/side_profile.png",
+      "rank": 4
+    },
+    "2119733949037743951": {
+      "reason": "Сразу подходят два типа подтверждённых материалов: Eligion для товара в контексте и VÉLOR для студийного света. Для подачи не требуется изображать полноценную рекламную кампанию.",
+      "brief": "Долгосрочное производство фотореалистичных товарных изображений и lifestyle-сцен, включая убедительные тени, материалы и масштаб. Начать с одного реального SKU.",
+      "pricing": "Hourly — $40/ч. 1 чистый packshot + 1 lifestyle для одного SKU: до 5 ч ($200), 2 рабочих дня от получения читаемого фото; 1 раунд в этой оценке. Число часов следующих серий пока неизвестно.",
+      "letter": "Hi,\n\nI’d use the same SKU for the studio and lifestyle views so you can judge how well they belong together. A bottle on a bathroom shelf should keep the cap height and label spacing from the packshot, while the contact shadow and reflections change to suit the room. My VÉLOR before-and-after and Eligion product study show both sides of that work.\n\nFor a first pair I’d propose $40/hour, capped at five hours, with a proof within two business days. What product category comes first, and do you have a preferred crop and an existing image the new series should match?\n\nYuriy",
+      "demo": "Собрать новую пару на собственном флаконе с помпой. Референс 1 — строго фронтальный товар, 2 — крупный план этикетки, 3 — референс комнаты только для света. Первый вид на светлом фоне, второй на каменной полке; показать оба в масштабе мобильной карточки товара.",
+      "check": "Сверить помпу, пропорции бутылки и межстрочное расстояние; на полке нужны контактная тень и предмет понятного масштаба. Не приписывать бренду вымышленный текст этикетки.",
+      "refs": [
+        {
+          "name": "Marie-Stella-Maris — Objets d’Amsterdam, Нидерланды",
+          "url": "https://marie-stella-maris.com/products/hand-soap-objets-damsterdam-300-ml",
+          "use": "Изучить масштаб помпы, рисунок этикетки и силуэт в каталоге: это региональный ориентир демо, категория продукта клиента ещё не согласована."
+        }
+      ],
+      "answers": [],
+      "sample": "/Users/yurasachenko/Downloads/new_restyle/VELOR_before_after.jpg\n/Users/yurasachenko/Downloads/AI_Creator/IMAGE_WORKS/Eligion_Labs_Upwork_project/generation/02_Eligion_Labs_Lifestyle_Concept.png",
+      "rank": 5
+    },
+    "2118662760062650627": {
+      "reason": "Ставка $40–60/ч соответствует ориентиру. Есть короткое fashion-видео и опыт таргетированной рекламы. Показывать образцы как учебные: нет доказанной рекламной эффективности именно этих креативов. Быстрые правки — только в согласованное окно. В Upwork указана полная загрузка, поэтому сначала сверить график: трёхдневная оценка относится к первой партии.",
+      "brief": "Fashion-бренду нужны варианты одних и тех же объявлений: примерка, AI-модели/голоса, изображения и ролики для Meta и TikTok. Клиент просит назвать сроки для трёх вариантов.",
+      "pricing": "Hourly — $40/ч. Один базовый вертикальный ролик до 10 с и три варианта начала на том же материале — до 9 оплачиваемых часов ($360), 3 рабочих дня. Один раунд; срочные правки и окно связи согласовать, не гарантировать круглосуточную доступность.",
+      "letter": "fast\n\nHi,\n\nI’d test three openings against the same fashion edit: the full look in motion, a close-up of the garment’s most useful detail, and the finished outfit in an everyday setting. Keeping the rest of the ad identical gives your media buyer a cleaner comparison. I use Higgsfield with GPT Image and Nano Banana for stills and Kling for motion. In earlier paid social work for businesses and personal brands, I helped clients generate $40,000 in revenue. Before the Gallery is my own apparel study; I also have fashion stills to show alongside it.\n\nI’d quote $40/hour, capped at nine hours over three business days for the first edit and three hooks. What daily overlap would let me turn a consolidated round of small edits around within a few hours?\n\nYuriy",
+      "demo": "Взять собственную вещь с реальным карманом; сделать три разных первых двух секунды — общий образ, деталь кармана, движение с этой вещью в комнате. После 2 с у всех вариантов один и тот же мастер и одинаковый CTA. Результат: три 9:16 и лист, где помечена единственная переменная.",
+      "check": "Один герой, один и тот же карман/посадка, один уровень громкости. Не заявлять результаты A/B-теста: это три тестируемых варианта и план измерения.",
+      "refs": [
+        {
+          "name": "Blissclub — leggings with pockets, Индия",
+          "url": "https://blissclub.com/pages/leggings-with-pockets",
+          "use": "Выбрать проверяемую функцию, которую можно показать одним жестом. Карман — предложенная тема примера, не факт о товаре клиента."
+        }
+      ],
+      "answers": [],
+      "sample": "/Users/yurasachenko/Downloads/Видео для женского белья/Before the Gallery/01_Before_the_Gallery_Apparel_Demo.mp4\n/Users/yurasachenko/Downloads/AI_Creator/IMAGE_WORKS/SERIES_PARFUME_VELOR_&_JEWELRY_&_FASHION/WINTER_FASHION/sources/waist_up.png",
+      "rank": 6
+    },
+    "2119220665053756505": {
+      "reason": "Здесь покупают историю и статические листы для команды, а не готовый длинный клип. Сильный клиент и возможность показать работу вне fashion; дорогая заявка, поэтому лучше приложить маленький собственный лист. Контракт отмечен full time; пилот не подтверждает готовность к такой загрузке, расписание нужно согласовать.",
+      "brief": "От трека перейти к логлайну и визуальной концепции. Сделать отдельные понятные команде листы персонажа, места и реквизита; уточнить длительность музыкального фрагмента и формат передачи.",
+      "pricing": "Hourly — $25/ч. Предложение: один фрагмент трека, логлайн + 3 листа (герой, место, реквизит) + 6 кадров истории; до 10 оплачиваемых часов ($250), 3 рабочих дня. Анимация/клип отдельно.",
+      "letter": "Hi Hervé,\n\nI’d listen for the first point where the track changes character, then build a visual decision around it. For example, a station clock might stop on the last beat of a verse while the one person waiting on the platform finally steps forward. The team would get a beat map, six story frames, and separate character, location and prop sheets to generate from. I use Higgsfield with GPT Image and Nano Banana for reference-led stills.\n\nI’d propose $25/hour, capped at ten hours for a first treatment in three business days. Which genre and section should I build around first, and who will use the sheets next?\n\nYuriy",
+      "demo": "«Последний поезд»: придумать для собственного/разрешённого 15-секундного музыкального фрагмента один переход от ожидания к решению. Шесть кадров с таймкодами, лист пальто и силуэта героя, два вида платформы, отдельный реквизит — остановившиеся часы. Это пример языка истории, а не рассказ, который клиент уже утвердил.",
+      "check": "Отметить музыкальный удар, за которым меняется действие, и проверить, можно ли по листам без устного пояснения восстановить костюм, палитру и направление движения.",
+      "refs": [
+        {
+          "name": "Aardman, Бристоль — создание клипа Coldplay «Daddy»",
+          "url": "https://aardman.com/latest-news/2019/november/behind-the-craft-coldplay-daddy/",
+          "use": "Разбор режиссёра: взять принцип простой сцены и повторяющегося визуального образа, не персонажей или кадры клипа."
+        }
+      ],
+      "answers": [],
+      "sample": "К этим примерам добавить самостоятельно сделанный лист концепции по плану ниже. /Users/yurasachenko/Downloads/AI_Creator/IMAGE_WORKS/SERIES_PARFUME_VELOR_&_JEWELRY_&_FASHION/WINTER_FASHION/sources/waist_up.png\n/Users/yurasachenko/Downloads/AI_Creator/IMAGE_WORKS/SERIES_PARFUME_VELOR_&_JEWELRY_&_FASHION/WINTER_FASHION/sources/side_profile.png",
+      "rank": 7
+    },
+    "2120046059955436310": {
+      "reason": "Прямое совпадение с коротким продуктовым видео VÉLOR. Можно предложить понятный пилот с одним действием вместо неподтверждённого объёма ежемесячной рекламы.",
+      "brief": "Создавать товарные рекламные видео для интернет-магазина. Категория SKU и цель первой версии требуют уточнения; демо ниже — пример для самостоятельной работы.",
+      "pricing": "Hourly — $27/ч; до 7 оплачиваемых часов ($189) за один черновик и финальный вертикальный ролик 8–10 с, 3 рабочих дня, 1 продукт/действие и один раунд. Для серии запросить перечень SKU.",
+      "letter": "Hi,\n\nFor a product video, I’d start with the action a shopper needs to understand. A lid opening or a handle folding into place says more in the first seconds than a slow orbit alone. I’d agree that action from your product references, lock one clear frame in Higgsfield, then edit the demonstration into a short vertical ad. My VÉLOR clip shows consistent product geometry in motion; I also have experience planning paid social creative.\n\nI’d propose $27/hour, capped at seven hours for an initial 8–10 second video over three business days. What’s the first SKU and where will shoppers see the ad?\n\nYuriy",
+      "demo": "Для самостоятельного примера выбрать собственный предмет с шарнирной крышкой (пример направления — переносной термобокс). Сначала показать закрытый объект, затем одно открытие и короткий финал. Работающие референсы: фронт и бок отвечают за форму, видео снятого вручную движения — за шарнир.",
+      "check": "Ручка и ось шарнира остаются на своих местах. Если товар невозможно физически открыть именно так, сменить действие или пользоваться собственным снятым фрагментом. Передать ролик и три стоп-кадра.",
+      "refs": [
+        {
+          "name": "FIELDBAR — Sea Boat Blue, ЮАР",
+          "url": "https://fieldbar.co.za/products/sea-boat-blue",
+          "use": "Региональный товар с понятными формой, крышкой и ручкой. Это референс демонстрации, не приписываем его магазину заказчика."
+        }
+      ],
+      "answers": [],
+      "sample": "/Users/yurasachenko/Downloads/new_restyle/04_velor_demo.mp4\n/Users/yurasachenko/Downloads/Видео для женского белья/Before the Gallery/01_Before_the_Gallery_Apparel_Demo.mp4",
+      "rank": 8
+    },
+    "2119896390712913029": {
+      "reason": "У клиента есть готовые фотографии и простой запрос на серию. Материалы VÉLOR и Eligion решают ту же задачу. При $15–20/ч и высокой прошлой конкуренции — вторая волна, только с ограниченным пилотом.",
+      "brief": "Пересобрать предоставленные product shots в одном стиле, затем подготовить изображения товара в других сценариях, включая сайт. Категория товара и число сценариев в полном брифе не указаны.",
+      "pricing": "Hourly, предложить $20/ч: один товар, 2 кадра (нейтральный и широкий для сайта), до 5 оплачиваемых часов ($100), 2 рабочих дня. Без доплаты за всю линейку и без обещания общего бюджета.",
+      "letter": "Hi,\n\nI’d start with one of your current product photos and use it in two places: a clean product view and a wider website image with room for the headline. The setting can change, but the outline, label and material should match when you switch between them. My VÉLOR before-and-after shows that comparison directly, and my Eligion study shows a product in an everyday setting.\n\nI’d quote $20/hour, capped at five hours for the first two images, with delivery in two business days. Which product should we start with, and does your website crop the hero differently on mobile?\n\nYuriy",
+      "demo": "«Один SKU — два места на сайте»: взять свою бутылку, сфотографировать анфас и снять этикетку отдельно. Сделать 1:1 каталог и широкий hero на столе кафе с местом слева для заголовка. Форму определяет исходник; фотография кафе нужна только для света. Это предлагаемая категория, клиент товар не назвал.",
+      "check": "Открыть два изображения рядом в одинаковом масштабе: высота горлышка, направление надписи и цвет совпадают. Проверить мобильный кроп: ни этикетка, ни главная деталь товара не обрезаются.",
+      "refs": [
+        {
+          "name": "fritz-kola — Original, Гамбург, Германия",
+          "url": "https://fritz-kola.com/de/produkte/kola-original",
+          "use": "На региональном примере с узнаваемой бутылкой проверить читаемость силуэта и этикетки в полном и узком кадре."
+        }
+      ],
+      "sample": "/Users/yurasachenko/Downloads/new_restyle/VELOR_before_after.jpg\n/Users/yurasachenko/Downloads/AI_Creator/IMAGE_WORKS/Eligion_Labs_Upwork_project/generation/02_Eligion_Labs_Lifestyle_Concept.png",
+      "answers": [],
+      "rank": 9
+    },
+    "2119534999359994646": {
+      "reason": "Единственный короткий предметный ролик проще оценить одним фиксом. Eligion показывает упаковку, VÉLOR — движение. На дату сохранения брифа у клиента не было подтверждённой оплаты и истории найма; эти факторы делают эту заявку менее срочной; начать только после финансирования фиксированного этапа.",
+      "brief": "Коротко представить добавку, её ингредиенты и ценность; точные заявления о продукте, хронометраж и форматы ещё нужно согласовать.",
+      "pricing": "Один fixed project $300, без дробления: один вертикальный ролик до 12 с, три плана, один раунд, 4 рабочих дня после получения исходников и утверждённого текста. Цена не предполагает серию, съёмку, озвучку или дополнительные форматы.",
+      "letter": "Hi,\n\nI’d show the package first, introduce one ingredient your team wants people to remember, then return to the same pack for the final message. I’d use your label artwork for all readable text and work from your approved wording for any product benefits. My Eligion packaging study and short VÉLOR film show how I keep a product recognizable between shots.\n\nI can offer one 12-second vertical cut for $300, including a storyboard and one revision, in four business days after receiving the assets. Which SKU, ingredient and approved product statement should the first version feature?\n\nYuriy",
+      "demo": "Новая учебная реклама: собственная банка, один подтверждённый на её этикетке ингредиент, три плана «упаковка — текстура ингредиента — упаковка». На макете использовать только фактический текст, не добавлять лечебных обещаний. Собрать 9:16 и лист сверки этикетки.",
+      "check": "Три стоп-кадра: совпадают текст, крышка, марка и цвет. На телефоне один ингредиент должен считываться сразу; без кадра «до/после» или имитации клинического результата.",
+      "refs": [
+        {
+          "name": "Astymin — официальная страница продукта, Нигерия",
+          "url": "https://astymin.com.ng/product/astymin/",
+          "use": "Посмотреть, как локально разделяют упаковку и описание продукта; утверждения конкурента не переносить."
+        }
+      ],
+      "answers": [],
+      "sample": "/Users/yurasachenko/Downloads/new_restyle/04_velor_demo.mp4\n/Users/yurasachenko/Downloads/AI_Creator/IMAGE_WORKS/Eligion_Labs_Upwork_project/generation/01_Eligion_Labs_Hero_Concept.png",
+      "rank": 10
+    }
+  },
+  "reviews": {
+    "2118343504156664322": "Нужны именно 2–3 коммерческие рекламы услуг со звуком, ведущим и финальной карточкой. Две короткие предметные работы не закрывают этот запрос.",
+    "2118527685158619349": "Для shapewear просят два года профильного опыта и бренды с результатами; Before the Gallery подтверждает визуал, но не такой послужной список.",
+    "2118084718367574520": "Не тратить Connects до подтверждения статуса: объявление недоступно этому аккаунту через MCP.",
+    "2118546899071770356": "Направление близкое, но для уже ведущего активный найм покупателя одного короткого apparel-примера мало.",
+    "2118702940489143993": "Для TRACS нужен технически верный продуктовый ролик; нет примера разреза/воздушного потока и исходной 3D-модели.",
+    "2118771800113547523": "Четыре учебных фильма с развилками за общий бюджет: много альтернативных сцен и звука на один договор.",
+    "2118707270125750531": "Нет готовой рекламной мини-драмы длительностью 3–5 минут; короткий продуктовый деморолик не показывает этот навык.",
+    "2118689225135229187": "Это преимущественно монтаж YouTube, а не съёмка реального SKU. Предметные задачи выгоднее использовать первыми.",
+    "2118507876566829315": "Уточнить оплачиваемую тестовую неделю, потребность в испанском и часы присутствия; месячный фикс не равен цене одного креатива.",
+    "2118713511681158277": "Требуют экспертного уровня Figma и смену по фиксированным часам; это не текущая сильная сторона.",
+    "2118947622151616468": "Отклик уже отправлен; повторная подача не нужна.",
+    "2118743332010445013": "Запрошены три отдельных beauty-кейса и стабильность этикетки в движении. Нынешние концепты покрывают не весь запрос.",
+    "2118401767399857908": "Есть серия High Jewelry: портрет плюс отдельные детали серьги и колье. Это честный предметный пример; перенос конкретного SKU лучше дополнить сравнением с исходником.",
+    "2118951201390294996": "Портфолио релевантно, но заказчик уже активно собеседовал и нанимал; сильнее вложить Connects в открытую роль с меньшей воронкой.",
+    "2119006724530433796": "Нужны примеры рекламных драм и результаты именно этих объявлений. $40k общей выручки клиентов не доказывают показатели AI-роликов.",
+    "2119082908326221308": "Запрашиваются 3–5 сценариев с измеренными результатами, плюс полная занятость.",
+    "2118418847792733940": "30–40 роликов в месяц и невысокая ставка: нет согласованной оплаты генераций и гарантии оплаченных часов.",
+    "2118626076449939188": "Отсутствие модного видео уже не препятствие: Before the Gallery показывает посадку и материал в движении. Предложение ограничивает расплывчатый объём $750. У клиента есть предпочтения по профилю (включая JSS); подача с аккаунта доступна.",
+    "2118506930334048770": "Полный фильм BrainHome требует персонажной непрерывности, UI и 2–3 похожих законченных работ.",
+    "2118662760062650627": "Ставка $40–60/ч соответствует ориентиру. Есть короткое fashion-видео и опыт таргетированной рекламы. Показывать образцы как учебные: нет доказанной рекламной эффективности именно этих креативов. Быстрые правки — только в согласованное окно. В Upwork указана полная загрузка, поэтому сначала сверить график: трёхдневная оценка относится к первой партии.",
+    "2118377259838969274": "Десять роликов о конкретном интерфейсе. Для такого заказа нужен пример работы с реальным screencast.",
+    "2118406294132345045": "Просят 2–3 AI-рекламы с актёром, речью и сменой вступлений; правки до утверждения при $200.",
+    "2118642852428168961": "Регулярные видео мужской косметики с оплатой за результат: нет примера с performance-метриками или расчёта объёма.",
+    "2118535726130238906": "Биржа пометила объявление закрытым. Оставлено в учебном архиве.",
+    "2118327909673470211": "Нужны два примера «до/после» именно обуви или сумок. Отложить до появления двух таких пар.",
+    "2118482796538123961": "Семь стабильных лиц, групповые композиции и исходники за $250 — расход производства непропорционален.",
+    "2119132201372276220": "Отклик уже отправлен; повторная подача не нужна.",
+    "2119156727329602326": "Биржа пометила объявление закрытым. Оставлено в учебном архиве.",
+    "2119128101439683350": "У Zailarah строгие требования к покрытию волос/шеи и 2–3 готовых fashion ads; имеющийся деморолик не показывает этот тип гардероба.",
+    "2118515640346580410": "Просят 3–5 результативных fitness-объявлений, собственную роль и конкретные показатели.",
+    "2118677676888924674": "Нужен пример британского AI-ведущего с коммерчески пригодным голосом, а не только предметного видео.",
+    "2119036575726794708": "$6–10/ч при регулярном потоке — значительно ниже выбранного ориентира.",
+    "2119172125418944468": "Преимущественно финишный монтаж wildlife-фильма. Нет законченной работы сопоставимого типа.",
+    "2119272657954499717": "Отклик уже отправлен; повторная подача не нужна.",
+    "2119203335814999173": "Отклик уже отправлен; повторная подача не нужна. Объявление закрыто.",
+    "2118875916919769347": "Рождественская витрина Shopify включает дизайн и анимацию сайта; нет готовой витрины как доказательства.",
+    "2119200952439499909": "Шесть языковых версий: без эталонных дорожек и объёма локализации риск выше, чем у одноязычного пилота.",
+    "2119329009840590632": "Требуется точное встраивание интерфейса и трекинг; похожего сложного motion-кейса нет.",
+    "2119235504321531727": "Два туристических фильма за $500. Сначала нужен travel-кейс и чёткое распределение сцен и прав на исходники.",
+    "2119204437610162578": "Поток трёхминутной рекламы обуви: нынешний демо-тайминг не подтверждает такой темп.",
+    "2119220665053756505": "Здесь покупают историю и статические листы для команды, а не готовый длинный клип. Сильный клиент и возможность показать работу вне fashion; дорогая заявка, поэтому лучше приложить маленький собственный лист. Контракт отмечен full time; пилот не подтверждает готовность к такой загрузке, расписание нужно согласовать.",
+    "2119390532512872404": "Биржа пометила объявление закрытым. Оставлено в учебном архиве.",
+    "2119091257828538324": "Нужны 2–3 демонстрации продукта с записью экрана. Есть предметный motion, но нет такого набора SaaS-демо.",
+    "2119246732453539588": "Skincare-UGC для YouTube: текущие примеры не показывают разговорный UGC и формат нужного канала.",
+    "2119386216034745110": "Нужны убедительные AI-аватары для ортопедических товаров; подтвердить речь, права и утверждённые продуктовые формулировки.",
+    "2119391248639495976": "Бюджет в заголовке не отражает $0,30 за принятый кадр; отклонённые попытки съедают экономику.",
+    "2119125735396851053": "Прямое совпадение с Eligion: работа в Higgsfield по фото поставщика, проверка масштаба и направления печати. Есть оплачиваемый тест.",
+    "2119534999359994646": "Единственный короткий предметный ролик проще оценить одним фиксом. Eligion показывает упаковку, VÉLOR — движение. На дату сохранения брифа у клиента не было подтверждённой оплаты и истории найма; эти факторы делают эту заявку менее срочной; начать только после финансирования фиксированного этапа.",
+    "2119468443067628633": "Нет законченной сюжетной драмы 60–120 с с постоянными героями.",
+    "2119500739139300485": "Для двухминутного бренд-фильма надо показать работу с голосом, сценарием и несколькими сценами; эти части не доказаны текущими демо.",
+    "2119467316490735439": "Дедлайн из брифа уже прошёл; открытая форма подачи сама по себе не возобновляет заказ.",
+    "2119463034744305620": "Месяц маркетинга клиники включает широкий набор задач; неясны объём, согласование и допустимые утверждения.",
+    "2119456683795877711": "20 роликов о переносках для кошек в неделю: производительность и устойчивое взаимодействие животного с товаром не показаны.",
+    "2119522806411655124": "Нужна регулярная серия разных форматов AI Partner; сумма $1 000 не определяет оплату единицы.",
+    "2119484215303802703": "UGC и трёхмерные рекламные истории требуют иных примеров, чем короткое вращение флакона.",
+    "2119485430779514664": "Нужны AI-двойник, разрешение и стабильная речь, при малом числе часов в месяц.",
+    "2119698761913613401": "Просят 3–5 готовых сюжетных видео. До появления такого пакета заявку не ставить в первую волну.",
+    "2119596146024475781": "Нужен подтверждённый процесс замены товара и героя в шаблоне; короткие портфолио-ролики этого не демонстрируют.",
+    "2119717327790554201": "Просят готовую рекламу с результатами; для своих демонстрационных видео нельзя назвать показатели размещения.",
+    "2119633979259501334": "Проект заточен под Arcads, пословные титры и поток озвученного UGC. Готового Arcads-примера нет.",
+    "2119694071864397608": "Реалистичные AI-видео без ясного покупаемого объёма и критериев; ниже проектов с чётким первым результатом.",
+    "2119649341151999956": "Полный музыкальный клип для арабской песни; нужны согласованные права, смысловой бриф и пример монтажа под трек.",
+    "2118286541643774133": "Полное ТЗ требует профессионального Photoshop/ретуши, реальный товар рядом с AI-результатом и цену за финальный кадр. Есть fashion-демо, но профессиональная ретушь и две пары campaign/PDP не подтверждены; пока не тратить 7 Connects.",
+    "2118079195530434641": "$15 за fashion-рекламу/shorts не оправдывают расход на отклик.",
+    "2117977604875154013": "Нужна доводка изображений на уровне профессиональной ретуши. Генеративные концепты сами по себе не показывают ручную ретушь.",
+    "2117735046136383008": "Полный бриф просит 5–10 fashion-работ и реальный товар → editorial. Отобранные концепты не доказывают такой перенос вещи. Подготовить fashion-пару до/после и только затем оценить подачу.",
+    "2117695528649002476": "PDP-подача релевантна, но в клиентской воронке уже много интервью при сравнительно низкой ставке.",
+    "2119896390712913029": "У клиента есть готовые фотографии и простой запрос на серию. Материалы VÉLOR и Eligion решают ту же задачу. При $15–20/ч и высокой прошлой конкуренции — вторая волна, только с ограниченным пилотом.",
+    "2119871622649941839": "Анимация готового персонажа за $5–15/ч; нынешние примеры не доказывают работу с персонажным ригом.",
+    "2119870433837387599": "$5 за готовый вертикальный ролик: стоимость заявки и генерации непропорциональна.",
+    "2119840788263005956": "Нужны учебные видео и воспроизводимая система, а не только готовые предметные примеры; записанного урока пока нет.",
+    "2119805282961996889": "$20 за SaaS-explainer: слишком мало для интерфейса, монтажа и согласования.",
+    "2119733949037743951": "Сразу подходят два типа подтверждённых материалов: Eligion для товара в контексте и VÉLOR для студийного света. Для подачи не требуется изображать полноценную рекламную кампанию.",
+    "2119895216225926233": "Claymation, иллюстрация и деликатный бренд похоронных услуг — иной визуальный язык. Нужен отдельный целевой кейс.",
+    "2119884904739835727": "Сильная задача на стабильность вещи; есть собственные fashion-кадры и видео про посадку. Риск: нет готового каталога мужских костюмов и в брифе открытый объём правок.",
+    "2119884524587072278": "Печатный апскейл до 60 дюймов: нужны исходники и опыт предпечатной проверки, а не только создание кадров.",
+    "2119829577884908633": "$75 за серию браслетов; стоимость заявки высока относительно бюджета. Есть более выгодные задачи на украшения.",
+    "2119724158454691796": "От клиента нужен файл для типографии; готовый предметный рендер не подтверждает допечатную подготовку.",
+    "2119712029080751951": "Биржа пометила объявление закрытым. Оставлено в учебном архиве.",
+    "2119904296413916293": "Видеоконтент для software-компании без сопоставимого примера продукта/интерфейса; сначала собрать screen-demo.",
+    "2119891144422943877": "MindSprouts просит direct-response рекламу книг; нет готовой UGC-рекламы в этом формате.",
+    "2119883162899147154": "$25 за пятиминутный аниме-фильм, без реалистичной оплаты производства.",
+    "2119879389402462164": "45 минут исторической реконструкции и множество объектов: нужен другой масштаб команды и управления сценами.",
+    "2119875210654715727": "Полная занятость за месячную ставку; не подходит для небольшого предметного пилота.",
+    "2119869664266489679": "40+ explainer-видео с одним говорящим AI-ведущим при бюджете в карточке $100.",
+    "2119845110630518607": "Нужно правдоподобное talking-head объявление с голосом; портфолио показывает немые визуальные концепты.",
+    "2119832051594882820": "$9 за AI-рекламу полного цикла не покрывают работу над концепцией, генерацией и монтажом.",
+    "2119856664568675094": "MANILAI требует ссылку на портфолио, три работы с конкретной ролью и инструментами, композитинг Photoshop/After Effects, доступность на месяцы. Изображения есть, но эти обязательные доказательства не собраны. Оставить как перспективный бренд для практики.",
+    "2119897837335574484": "AI UGC для первого экрана SaaS нуждается в хорошем экранном демо и речи, которых нет среди готовых примеров.",
+    "2119879487204059538": "Исторический YouTube требует документальной подачи и длинного монтажа. Текущее портфолио об одежде и продуктах.",
+    "2119852525802711442": "Три разных бренда за невысокую часовую вилку; до подачи нужны выделенный объём и отдельное рекламное доказательство.",
+    "2119841149289982354": "Skincare в формате AI-драмы: хорошая тема для практики, но не тот формат, который демонстрирует VÉLOR.",
+    "2119833164572486034": "До $5/ч за вымышленные новости и сериал: ставка и объём неподходящие.",
+    "2119767451612540676": "Нужны UGC/VSL и полный рекламный монтаж, а не только точный образ товара.",
+    "2119900690523033423": "В приоритете личное обучение, CapCut и производство рекламы; записанного или проведённого курса в портфолио нет.",
+    "2119807760173010728": "$15 за минутное поздравление с кинематографической постановкой.",
+    "2119716539505670100": "$50 за 90-секундный бренд-фильм; высокий расход на генерации относительно оплаты.",
+    "2119562197190064918": "Нужен регулярный ведущий для автотематики; $25 и отсутствие профильного примера.",
+    "2118758177931750533": "Направление близкое, но есть найм и интервью; прежде чем тратить Connects, нужен сравнимый кейс адаптации готовой видеорекламы.",
+    "2118781963018409402": "Масштабирование производства требует доказательства пропускной способности, не двух отдельных демороликов.",
+    "2118543968867322115": "$10 и Meta-видеопроизводство при неподтверждённой цене партии.",
+    "2118533444515839745": "Косметика подходит, но бюджет-плейсхолдер $5 и рекламный монтаж не дают основания считать это выгодным сейчас.",
+    "2119941415311830788": "Бриф просит 2–3 примера переноса украшения на AI-модель (не обязательно именного). В самом заказе — точные буквы и цепочка nameplate. В портфолио есть детали украшений, но нет проверенных пар «исходное изделие → модель». До их появления — резерв.",
+    "2119920300155955602": "Клиенту нужен чистый векторный оригинал логотипа. Портфолио предметных AI-визуалов решает другую задачу.",
+    "2119911984158489366": "100 научных иллюстраций: нужен процесс фактчекинга и контроль серии другого масштаба.",
+    "2120054259383548694": "Полная занятость и поток сюжетной DTC-рекламы; нет сравнимых проверенных примеров и подтверждённого расписания.",
+    "2120023148097900367": "Мастер-класс с виртуальным преподавателем: без речевого образца не входить в первую волну.",
+    "2119994778272414486": "$10 за минутную рекламу программного сервиса.",
+    "2119990346723060114": "$10 за рекламный ролик, повышение бюджета не подтверждено.",
+    "2119986935722294361": "Музыкальная история хоккейных фанатов за $250; нужно согласовать роли, звук и права и показать сюжетный пример.",
+    "2119967607904892884": "Запрашивают Meta-рекламу с AI-аватарами; короткое видео об одежде не подтверждает работу с говорящими ведущими.",
+    "2119954394345312079": "До пяти минут AI-видео за $50 — экономически слабее короткого согласованного пилота.",
+    "2119922274409397014": "RevGen требует конкретного процесса рекламного монтажа с Claude Code, для которого нет рабочего кейса.",
+    "2120065216817622149": "$3–12/ч при серийном Shopify-монтаже; ставка существенно ниже других открытых продуктовых задач.",
+    "2120061701452369704": "128 обучающих роликов в месяц в конкретных инструментах — другой профиль выпуска и голосовой продакшен.",
+    "2120046059955436310": "Прямое совпадение с коротким продуктовым видео VÉLOR. Можно предложить понятный пилот с одним действием вместо неподтверждённого объёма ежемесячной рекламы.",
+    "2120025659125021462": "Десятиминутный YouTube-формат при $14–17/ч; не самый выгодный старт с текущим набором примеров.",
+    "2120018224379688916": "Десять реклам за 72 часа и три примера AI ads; два коротких демо не подтверждают этот темп.",
+    "2120006407351373647": "Нужен дизайн аниме-певицы. Нет профильного character sheet в таком стиле.",
+    "2119993750892220200": "UGC, анимация и drama-темп при $8–15/ч; ниже приоритета продуктовых задач.",
+    "2119983608600784644": "Научный ведущий и длинные обучающие перебивки требуют другого доказательства, чем короткое продуктовое демо.",
+    "2119927101590173652": "15-минутный YouTube-монтаж: нет готового примера длинного повествования в этом формате.",
+    "2119998773035593476": "Проект про UGC, а текущее портфолио сильнее в предметных и fashion-сценах. Хороший резерв после разговорного теста.",
+    "2119870465463611140": "Нужны 2–3 performance ads, локализация и данные о результате, 20–30 ч/нед. Сейчас приложить честную сопоставимую подборку сложно.",
+    "2120086337433123606": "Акцент на серийной QA, NDA и 20–30 ч/нед по $8–12/ч. Для предстоящих 12 часов отдача ниже.",
+    "2120071071261276950": "Fashion с ElevenLabs требует того, чего нет в текущем беззвучном демо: речи и синхронизации.",
+    "2120158995201278422": "Запрос на физическую фотографию товара и согласование доставки, а не на AI-процесс.",
+    "2120138568556935831": "Не тратить Connects до подтверждения статуса: объявление недоступно этому аккаунту через MCP.",
+    "2120109094415284296": "Бюджет привлекателен, но прямо просят продвинутый Photoshop, композитинг и опыт Amazon. Их нельзя заменить обещанием генерации.",
+    "2119957029155989906": "AI запрещён самим клиентом; нужен специалист по ручной ретуши.",
+    "2119916905723268943": "288 пиксельно точных замен мрамора и 2–3 настоящих кейса. Одного VÉLOR для отбора недостаточно.",
+    "2118268326897186997": "Полный день и длинные философские фильмы; сначала подтвердить период оплаты и сопоставимый видеокейс.",
+    "2118218784165300728": "Семь beauty-креативов при заявленных $20: существенный риск неоплаченного объёма.",
+    "2117849160685407520": "Выбор в нишу точный, но горячая конкуренция и требование хватов товара. Желателен отдельный пример рук на конкретном SKU.",
+    "2117609879570688630": "Пять роликов еженедельно, но период оплаты $50 не определён. Не ставить выше прозрачного пилота.",
+    "2120141601746670051": "$5 за реалистичный UGC без расчёта оплачиваемого объёма.",
+    "2120140047726748119": "Два постоянных 3D-персонажа готовят вместе — сложные взаимодействия при карточке $40.",
+    "2120139709653979629": "Несколько видов рекламы за $30: слабая экономика; для аватаров ещё и нужен речевой пример.",
+    "2120130197210677718": "$10 за реалистичного ведущего, нет подходящего voice/lip-sync примера.",
+    "2120111542636978647": "$5 за законченный товарный ролик не оправдывают расходы.",
+    "2120168087550164597": "Просят 3–7 объявлений в день с AI-агентами и примеры реального темпа; доказательств такого процесса нет.",
+    "2120162741067260375": "Правильная тема для таргетолога, но уже широкая воронка собеседований, нет образца трёх реально протестированных вступлений.",
+    "2120141917117397064": "$4–8/ч и ожидание более 30 часов доступности — ниже разумной цены за precision-product работу.",
+    "2120140821370126806": "AppLovin и весовые рекламные заявления требуют опыта в конкретном канале и согласованных материалов.",
+    "2120219875639212104": "Отклик уже отправлен; повторная подача не нужна.",
+    "2120204510676795862": "Отклик уже отправлен; повторная подача не нужна.",
+    "2120179243909599715": "Сценарий мира 3026 и cinematic editing — другой вид монтажа. Не обещать подтверждённый кинематографический фильм или CapCut-навык.",
+    "2120162144882440264": "Биржа пометила объявление закрытым. Оставлено в учебном архиве.",
+    "2120136502327714263": "Раскладка тюбика для печати требует опыта допечатной подготовки, не только визуализации упаковки.",
+    "2120116236469813718": "Стратегу нужны 2–3 DTC-видео с реальными расходами и результатами. Оборот клиентов от таргета не заменяет такую статистику.",
+    "2120079644735666132": "Полная занятость и $800 без ясного периода оплаты или объёма; уступает конечным оплачиваемым пилотам.",
+    "2120204321111220695": "UGC, VSL и несколько форматов за $5 в карточке — без подтверждения реальной цены.",
+    "2120177304553104570": "Требуют родной бразильский португальский и 3–5 UGC-роликов. Эти критерии не подтверждены.",
+    "2120174004020138467": "Для франкоязычной Meta-рекламы не подтверждены язык и кейсы локализации.",
+    "2120164286665915031": "Нужны живые съёмки автора, речь на камеру и права размещения — это иной способ производства.",
+    "2119531694105836310": "$50 за финишный монтаж игрового короткого метра; нет аналогичного завершённого монтажа.",
+    "2118626115655541250": "$5 за кинематографическую сцену без понятного оплачиваемого продолжения.",
+    "2118012340177557640": "Уже шёл найм; нужны совпадение с существующим фильмом и опыт постановки массовки на красной дорожке.",
+    "2117927544518774252": "$6–10/ч за постоянный выпуск короткометражек; слабая экономика при требуемой сложности.",
+    "2116532862189970482": "$5–5,50/ч за рекламную статику и AI-фильмы даже при совпадении тематики."
+  }
+}
