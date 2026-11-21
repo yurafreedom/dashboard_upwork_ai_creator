@@ -1,6 +1,7 @@
 "use strict";
 const $ = (s) => document.querySelector(s);
 const labels = {video:"Видео", image:"Изображения", mixed:"Видео и фото", strategy:"Стратегия и обучение"};
+const aiLabels = {generation:"AI-генерация", partial:"AI частично", none:"Без AI", unset:"AI не размечен"};
 const statuses = {applied:"Отклик отправлен", closed:"Заказ закрыт", reserve:"В резерве", skip:"Низкий приоритет"};
 const icons = {
   video:'<rect x="2" y="4" width="15" height="16" rx="2"/><path d="m17 10 5-3v10l-5-3z"/>',
@@ -8,7 +9,7 @@ const icons = {
   mixed:'<rect x="3" y="5" width="16" height="15" rx="2"/><path d="m9 9 5 3-5 3zM7 2h14"/>',
   strategy:'<path d="M3 7h9l3 3h6v9H3zM7 3h9l3 4"/>'
 };
-let projects = [], kind = "all", loaded = false, warning = false, fetching = false, lastFocus = null;
+let projects = [], kind = "all", ai = "all", loaded = false, warning = false, fetching = false, lastFocus = null;
 let reviewUntil = 0;
 const dialog = $("#detail");
 function elem(tag, className, text) {
@@ -24,6 +25,16 @@ function chip(p) {
   icon.setAttribute("viewBox","0 0 24 24"); icon.setAttribute("class","ico"); icon.setAttribute("aria-hidden","true");
   icon.innerHTML = icons[type];
   tag.append(icon,labels[type]); return tag;
+}
+function aiRole(p) {return ["generation","partial","none"].includes(p.aiRole) ? p.aiRole : "unset";}
+function tags(p) {
+  const box = elem("span","tags"), role = aiRole(p);
+  const mark = elem("span","tag ai-"+role,aiLabels[role]);
+  if (p.aiNote) mark.title = p.aiNote;
+  box.append(chip(p),mark); return box;
+}
+function kindMatches(p) {
+  return kind==="all" || p.kind===kind || (p.kind==="mixed" && (kind==="video" || kind==="image"));
 }
 function score(p) {
   const el = elem("span","score");
@@ -79,7 +90,7 @@ function addPlan(container, plan) {
 }
 function buildCard(p) {
   const card = elem("article","card"), head = elem("div","mt"), h = elem("h3");
-  head.append(chip(p),score(p));
+  head.append(tags(p),score(p));
   const button = elem("button","",p.title); button.type="button"; button.setAttribute("aria-haspopup","dialog");
   button.addEventListener("click",()=>{lastFocus=button; location.hash="project-"+p.id;});
   h.append(button);
@@ -108,7 +119,8 @@ function matches(p,q) {
   const choice=$("#availability").value;
   if (choice && !(choice==="priority" ? recommended(p) : choice==="closed" ? market(p)==="closed" || terminalStates.has(p.availability?.state) : market(p)===choice)) return false;
   const haystack=[marketText(p),p.title,p.original,p.client,p.country,p.description,p.about,p.tasks.join(" "),p.status && statuses[p.status]].filter(Boolean).join(" ").toLocaleLowerCase("ru");
-  return (kind==="all" || p.kind===kind || p.kind==="mixed" || (kind==="video" && p.kind==="strategy"))
+  return kindMatches(p)
+    && (ai==="all" || aiRole(p)===ai)
     && ageMatches(p,$("#age").value)
     && (!$("#pay").value || p.payment===$("#pay").value)
     && q.split(/\s+/).filter(Boolean).every(w=>haystack.includes(w));
@@ -118,6 +130,12 @@ function render() {
   filtered.sort(compareProjects);
   $("#grid").replaceChildren(...filtered.map(buildCard));
   $("#total").textContent=projects.length;
+  const base={all:"Любая",...aiLabels,unset:"Не размечено"}, inKind=projects.filter(kindMatches);
+  for(const b of document.querySelectorAll("button[data-ai]")) {
+    const n=b.dataset.ai==="all" ? inKind.length : inKind.filter(p=>aiRole(p)===b.dataset.ai).length;
+    b.textContent=base[b.dataset.ai]+" · "+n;
+    if(b.dataset.ai==="unset") b.hidden=!projects.some(p=>aiRole(p)==="unset");
+  }
   $("#result").textContent="Показано проектов: "+filtered.length+" из "+projects.length;
   $("#empty").hidden=!!filtered.length;
   $("#reset").hidden=!projects.length;
@@ -132,7 +150,7 @@ function section(title,paragraphs,cls="") {
 }
 function showDetail(p) {
   const head=elem("div","mt"), title=elem("h2","",p.title);
-  head.append(chip(p),score(p)); title.id="detail-title";
+  head.append(tags(p),score(p)); title.id="detail-title";
   const facts=elem("div","facts");
   for(const fact of [p.budget, payment(p),marketText(p)]) {
     if(fact) facts.append(elem("span","",fact));
@@ -144,9 +162,10 @@ function showDetail(p) {
   const customer=section("О клиенте на дату сохранения брифа",[[p.client,p.country].filter(Boolean).join(" · "),p.about,p.history,p.activity]);
   const pay=section("Условия и риски на дату сохранения брифа",[p.payment==="hourly"?"Общий бюджет не подтверждён. "+p.budget+".":null,p.risk]);
   const questions=section("Что уточнить у клиента",[p.question],"question");
+  const aiPart=section("Роль AI в заказе",[aiLabels[aiRole(p)]+(p.aiNote?" · "+p.aiNote:"")]);
   const dates=elem("p","original","Данные сохранены на "+stamp(p.checked)+" по Киеву"+(p.published?" · Опубликовано "+p.published+" по Киеву":""));
   const inside=$("#inside");
-  inside.replaceChildren(head,title,elem("p","original",p.original),facts,dates,originalBrief(p),brief,customer,pay,questions);
+  inside.replaceChildren(head,title,elem("p","original",p.original),facts,dates,originalBrief(p),brief,aiPart,customer,pay,questions);
   const a=p.availability;
   if(a?.state){
     const activity=[["Наймов",a.hires],["Интервью",a.interviews],["Офферов",a.offers],["Приглашений",a.invites]].filter(([,v])=>v!=null).map(([k,v])=>k+" "+v);
@@ -182,6 +201,8 @@ function compareProjects(a,b) {
   const mode=$("#order").value;
   const byScore=(Number.isFinite(b.score)?b.score:-1)-(Number.isFinite(a.score)?a.score:-1);
   const byTime=(b.availability?.at||"").localeCompare(a.availability?.at||"");
+  const seen=p=>Date.parse(p.publishedAt||p.firstSeen||p.checked)||0;
+  if(mode==="new")return (seen(b)-seen(a))||byScore;
   if(mode==="check")return byTime||byScore;
   if(mode==="score")return byScore||byTime;
   if(mode==="cost"){
@@ -213,9 +234,15 @@ async function refresh() {
   } finally {fetching=false;}
 }
 function selectKind(value) {
-  kind = ["video", "image"].includes(value) ? value : "all";
-  for(const tab of document.querySelectorAll(".tabs button")) {
+  kind = ["video", "image", "strategy"].includes(value) ? value : "all";
+  for(const tab of document.querySelectorAll("button[data-kind]")) {
     tab.setAttribute("aria-pressed", String(tab.dataset.kind === kind));
+  }
+}
+function selectAi(value) {
+  ai = ["generation", "partial", "none", "unset"].includes(value) ? value : "all";
+  for(const tab of document.querySelectorAll("button[data-ai]")) {
+    tab.setAttribute("aria-pressed", String(tab.dataset.ai === ai));
   }
 }
 function openFromFinder() {
@@ -237,12 +264,21 @@ function openFromFinder() {
 function startCatalog() {
   const params=new URLSearchParams(location.search);
   selectKind(params.get("type"));
+  selectAi(params.get("ai"));
+  for(const b of document.querySelectorAll("button[data-ai]")) b.addEventListener("click",()=>{
+    selectAi(b.dataset.ai);
+    const url = new URL(location.href);
+    if (ai === "all") url.searchParams.delete("ai");
+    else url.searchParams.set("ai", ai);
+    history.replaceState(null, "", url.pathname + url.search + url.hash);
+    render();
+  });
   for(const id of ["availability","order"]){
     const select=$("#"+id);
     if([...select.options].some(o=>o.value===params.get(id))) select.value=params.get(id);
     select.addEventListener("change",()=>{const u=new URL(location.href);u.searchParams.set(id,select.value);history.replaceState(null,"",u);render();});
   }
-  for(const b of document.querySelectorAll(".tabs button")) b.addEventListener("click",()=>{
+  for(const b of document.querySelectorAll("button[data-kind]")) b.addEventListener("click",()=>{
     selectKind(b.dataset.kind);
     const url = new URL(location.href);
     if (kind === "all") url.searchParams.delete("type");
@@ -251,7 +287,7 @@ function startCatalog() {
     render();
   });
   $("#query").addEventListener("input",render); $("#pay").addEventListener("change",render); $("#age").addEventListener("change",render);
-  $("#reset").addEventListener("click",()=>{$("#query").value="";$("#pay").value="";$("#age").value="all";$("#availability").value="";$("#order").value="priority";const u=new URL(location.href);u.searchParams.delete("availability");u.searchParams.delete("order");history.replaceState(null,"",u);document.querySelector("[data-kind=all]").click();});
+  $("#reset").addEventListener("click",()=>{$("#query").value="";$("#pay").value="";$("#age").value="all";$("#availability").value="";$("#order").value="new";const u=new URL(location.href);u.searchParams.delete("availability");u.searchParams.delete("order");history.replaceState(null,"",u);document.querySelector("[data-ai=all]").click();document.querySelector("[data-kind=all]").click();});
   $("#close").addEventListener("click",closeDetail); $("#back").addEventListener("click",closeDetail);
   dialog.addEventListener("cancel",e=>{e.preventDefault();closeDetail();});
   dialog.addEventListener("click",e=>{

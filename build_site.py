@@ -16,6 +16,7 @@ from catalog import catalog
 BASE = Path(__file__).resolve().parent
 ASSETS = ('index.html', 'practice.html', 'board.js', 'practice.js', 'original-brief.js',
           'style.css', 'practice.css', 'portrait.jpg', 'fashion.jpg', 'mark.svg')
+AI_ROLES = ('generation', 'partial', 'none')
 SECRET = re.compile(r'(?:gh[pousr]_[A-Za-z0-9_]{30,}|github_pat_[A-Za-z0-9_]{30,}|sk-[A-Za-z0-9_-]{24,}|-----BEGIN [A-Z ]*PRIVATE KEY-----)')
 
 
@@ -36,6 +37,8 @@ def validate(base=BASE):
         raise ValueError('Empty catalog or duplicate project IDs')
     if not all(valid(c) and has_english_brief(c) for c in rows):
         raise ValueError('Every project needs its original client description and English version')
+    if any(c.get('aiRole') not in (None, *AI_ROLES) for c in rows):
+        raise ValueError('aiRole must be generation, partial or none')
     practice = json.loads((base / 'data/practice.json').read_text())
     ids = {c['id'] for c in rows}
     practices = practice['projects']
@@ -98,6 +101,7 @@ def build(base=BASE, output=None):
                 'savedProposals': sum(bool(p.get('applicationPlan')) for p in data['projects']),
                 'originalDescriptions': {'full': sum(p['originalDescription']['quality'] == 'full' for p in data['projects']),
                                          'excerpt': sum(p['originalDescription']['quality'] == 'excerpt' for p in data['projects'])},
+                'aiRoles': {role: sum(p.get('aiRole') == role for p in data['projects']) for role in AI_ROLES},
                 'catalogSha256': hashlib.sha256((output / 'api/projects.json').read_bytes()).hexdigest()}
     (output / 'version.json').write_text(json.dumps(manifest, ensure_ascii=False, indent=2) + '\n')
     return manifest

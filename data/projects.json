@@ -33,7 +33,8 @@
         "retrievedAt": "2026-11-10T23:11:31+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118527685158619349",
@@ -68,7 +69,8 @@
         "retrievedAt": "2026-11-10T22:58:41+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118084718367574520",
@@ -103,7 +105,8 @@
         "retrievedAt": "2026-11-06T19:07:31+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118546899071770356",
@@ -139,7 +142,8 @@
         "retrievedAt": "2026-11-10T22:58:27+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118702940489143993",
@@ -174,7 +178,8 @@
         "retrievedAt": "2026-11-10T23:08:12+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118771800113547523",
@@ -209,7 +214,8 @@
         "retrievedAt": "2026-11-10T23:11:58+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118707270125750531",
@@ -243,7 +249,8 @@
         "retrievedAt": "2026-11-10T23:12:12+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118689225135229187",
@@ -277,7 +284,9 @@
         "retrievedAt": "2026-11-10T23:12:27+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "AI-видео — одна из нескольких специализаций"
     },
     {
       "id": "2118507876566829315",
@@ -311,7 +320,8 @@
         "retrievedAt": "2026-11-10T23:12:41+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118713511681158277",
@@ -345,7 +355,8 @@
         "retrievedAt": "2026-11-10T23:12:55+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118947622151616468",
@@ -380,7 +391,8 @@
         "retrievedAt": "2026-11-10T23:06:31+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118743332010445013",
@@ -416,7 +428,8 @@
         "retrievedAt": "2026-11-10T23:07:00+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118401767399857908",
@@ -452,7 +465,8 @@
         "retrievedAt": "2026-11-10T23:07:15+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118951201390294996",
@@ -488,7 +502,8 @@
         "retrievedAt": "2026-11-10T22:58:13+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119006724530433796",
@@ -523,7 +538,8 @@
         "retrievedAt": "2026-11-10T23:13:10+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119082908326221308",
@@ -558,7 +574,9 @@
         "retrievedAt": "2026-11-10T23:13:24+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Стратег: ставит задачи монтажёрам и AI-видео, сам не производит"
     },
     {
       "id": "2118418847792733940",
@@ -593,7 +611,8 @@
         "retrievedAt": "2026-11-10T23:13:38+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118626076449939188",
@@ -628,7 +647,8 @@
         "retrievedAt": "2026-11-11T11:20:18+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118506930334048770",
@@ -662,7 +682,8 @@
         "retrievedAt": "2026-11-10T23:13:52+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118662760062650627",
@@ -696,7 +717,8 @@
         "retrievedAt": "2026-11-10T23:14:06+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118377259838969274",
@@ -730,7 +752,9 @@
         "retrievedAt": "2026-11-10T23:14:21+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Монтаж сырого материала AI-инструментами"
     },
     {
       "id": "2118406294132345045",
@@ -764,7 +788,8 @@
         "retrievedAt": "2026-11-10T23:14:35+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118642852428168961",
@@ -798,7 +823,8 @@
         "retrievedAt": "2026-11-10T23:14:49+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118535726130238906",
@@ -832,7 +858,8 @@
         "retrievedAt": "2026-11-10T23:07:29+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118327909673470211",
@@ -866,7 +893,9 @@
         "retrievedAt": "2026-11-10T23:07:43+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "AI допустим только для фото моделей; товар менять нельзя"
     },
     {
       "id": "2118482796538123961",
@@ -900,7 +929,8 @@
         "retrievedAt": "2026-11-10T23:09:08+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119132201372276220",
@@ -937,7 +967,9 @@
         "retrievedAt": "2026-11-10T23:06:17+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Финализация готового AI-клипа: цвет, апскейл, экспорт"
     },
     {
       "id": "2119156727329602326",
@@ -974,7 +1006,9 @@
         "retrievedAt": "2026-11-10T23:15:04+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none",
+      "aiNote": "AI — продукт клиента; нужны 3D-мир и монтаж"
     },
     {
       "id": "2119128101439683350",
@@ -1011,7 +1045,8 @@
         "retrievedAt": "2026-11-10T22:59:52+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118515640346580410",
@@ -1047,7 +1082,8 @@
         "retrievedAt": "2026-11-10T23:15:18+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2118677676888924674",
@@ -1083,7 +1119,8 @@
         "retrievedAt": "2026-11-10T23:15:32+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119036575726794708",
@@ -1119,7 +1156,8 @@
         "retrievedAt": "2026-11-10T23:15:46+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119172125418944468",
@@ -1155,7 +1193,8 @@
         "retrievedAt": "2026-11-10T23:16:00+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119272657954499717",
@@ -1192,7 +1231,8 @@
         "retrievedAt": "2026-11-10T23:06:03+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119203335814999173",
@@ -1229,7 +1269,8 @@
         "retrievedAt": "2026-11-10T23:05:49+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118875916919769347",
@@ -1265,7 +1306,8 @@
         "retrievedAt": "2026-11-10T23:16:14+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119200952439499909",
@@ -1301,7 +1343,8 @@
         "retrievedAt": "2026-11-10T23:16:29+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119329009840590632",
@@ -1337,7 +1380,8 @@
         "retrievedAt": "2026-11-10T23:16:43+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119235504321531727",
@@ -1373,7 +1417,8 @@
         "retrievedAt": "2026-11-10T23:16:58+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119204437610162578",
@@ -1409,7 +1454,8 @@
         "retrievedAt": "2026-11-10T23:17:12+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119220665053756505",
@@ -1445,7 +1491,8 @@
         "retrievedAt": "2026-11-10T23:06:46+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119390532512872404",
@@ -1483,7 +1530,8 @@
         "retrievedAt": "2026-11-10T23:17:26+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119091257828538324",
@@ -1520,7 +1568,9 @@
         "retrievedAt": "2026-11-10T23:17:40+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none",
+      "aiNote": "AI — продукт клиента, а не способ производства"
     },
     {
       "id": "2119246732453539588",
@@ -1556,7 +1606,8 @@
         "retrievedAt": "2026-11-10T23:17:54+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119386216034745110",
@@ -1593,7 +1644,8 @@
         "retrievedAt": "2026-11-10T23:18:08+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119391248639495976",
@@ -1630,7 +1682,8 @@
         "source": "Upwork · get",
         "language": "en"
       },
-      "statusChecked": "2026-11-21T13:43:57+00:00"
+      "statusChecked": "2026-11-21T13:43:57+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2119125735396851053",
@@ -1667,7 +1720,8 @@
         "retrievedAt": "2026-11-10T22:57:44+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119534999359994646",
@@ -1704,7 +1758,8 @@
         "retrievedAt": "2026-11-10T23:18:36+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119468443067628633",
@@ -1743,7 +1798,8 @@
         "retrievedAt": "2026-11-10T23:09:23+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119500739139300485",
@@ -1781,7 +1837,8 @@
         "retrievedAt": "2026-11-10T23:18:51+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119467316490735439",
@@ -1818,7 +1875,9 @@
         "retrievedAt": "2026-11-10T23:19:05+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Перемонтаж UGC и AI-озвучка"
     },
     {
       "id": "2119463034744305620",
@@ -1856,7 +1915,8 @@
         "retrievedAt": "2026-11-10T23:19:19+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119456683795877711",
@@ -1894,7 +1954,8 @@
         "retrievedAt": "2026-11-10T23:19:34+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119522806411655124",
@@ -1931,7 +1992,9 @@
         "retrievedAt": "2026-11-10T23:19:48+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Монтаж с AI-инструментами в процессе"
     },
     {
       "id": "2119484215303802703",
@@ -1968,7 +2031,8 @@
         "retrievedAt": "2026-11-10T23:20:02+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119485430779514664",
@@ -2005,7 +2069,8 @@
         "retrievedAt": "2026-11-10T23:20:17+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119698761913613401",
@@ -2043,7 +2108,8 @@
         "retrievedAt": "2026-11-10T23:08:26+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119596146024475781",
@@ -2081,7 +2147,8 @@
         "retrievedAt": "2026-11-10T23:37:45+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119717327790554201",
@@ -2118,7 +2185,8 @@
         "retrievedAt": "2026-11-10T22:59:38+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119633979259501334",
@@ -2155,7 +2223,8 @@
         "retrievedAt": "2026-11-10T23:09:37+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119694071864397608",
@@ -2192,7 +2261,8 @@
         "retrievedAt": "2026-11-10T23:20:31+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119649341151999956",
@@ -2229,7 +2299,8 @@
         "retrievedAt": "2026-11-10T23:20:45+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118286541643774133",
@@ -2262,7 +2333,8 @@
         "retrievedAt": "2026-11-10T23:01:04+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118079195530434641",
@@ -2295,7 +2367,8 @@
         "retrievedAt": "2026-11-10T23:20:59+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2117977604875154013",
@@ -2328,7 +2401,9 @@
         "retrievedAt": "2026-11-10T23:01:18+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Ретушь AI-съёмки агентства"
     },
     {
       "id": "2117735046136383008",
@@ -2361,7 +2436,8 @@
         "retrievedAt": "2026-11-10T23:01:32+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2117695528649002476",
@@ -2394,7 +2470,8 @@
         "retrievedAt": "2026-11-10T23:00:49+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119896390712913029",
@@ -2429,7 +2506,8 @@
         "retrievedAt": "2026-11-10T23:00:21+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119871622649941839",
@@ -2462,7 +2540,8 @@
         "retrievedAt": "2026-11-10T23:21:13+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119870433837387599",
@@ -2496,7 +2575,8 @@
         "retrievedAt": "2026-11-10T23:01:46+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119840788263005956",
@@ -2530,7 +2610,9 @@
         "retrievedAt": "2026-11-10T23:21:27+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Обучение: записать уроки по AI-производству"
     },
     {
       "id": "2119805282961996889",
@@ -2563,7 +2645,9 @@
         "retrievedAt": "2026-11-10T23:21:42+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none",
+      "aiNote": "AI — продукт клиента, а не способ производства"
     },
     {
       "id": "2119733949037743951",
@@ -2598,7 +2682,8 @@
         "retrievedAt": "2026-11-10T23:00:35+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119895216225926233",
@@ -2632,7 +2717,8 @@
         "retrievedAt": "2026-11-10T23:21:56+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119884904739835727",
@@ -2670,7 +2756,8 @@
         "retrievedAt": "2026-11-11T11:19:48+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119884524587072278",
@@ -2703,7 +2790,9 @@
         "retrievedAt": "2026-11-10T23:22:10+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Увеличение готовых AI-изображений для печати"
     },
     {
       "id": "2119829577884908633",
@@ -2736,7 +2825,8 @@
         "retrievedAt": "2026-11-10T23:02:01+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119724158454691796",
@@ -2770,7 +2860,9 @@
         "retrievedAt": "2026-11-10T23:22:24+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Перерисовать AI-картинку в файл для печати"
     },
     {
       "id": "2119712029080751951",
@@ -2804,7 +2896,9 @@
         "retrievedAt": "2026-11-10T23:22:38+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Улучшение готовых фото AI-инструментами и ретушью"
     },
     {
       "id": "2119904296413916293",
@@ -2838,7 +2932,8 @@
         "retrievedAt": "2026-11-10T23:22:52+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119891144422943877",
@@ -2871,7 +2966,8 @@
         "retrievedAt": "2026-11-10T23:23:06+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119883162899147154",
@@ -2904,7 +3000,8 @@
         "retrievedAt": "2026-11-10T23:23:21+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119879389402462164",
@@ -2937,7 +3034,8 @@
         "retrievedAt": "2026-11-10T23:23:35+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119875210654715727",
@@ -2970,7 +3068,8 @@
         "retrievedAt": "2026-11-10T23:23:49+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119869664266489679",
@@ -3004,7 +3103,8 @@
         "retrievedAt": "2026-11-10T23:24:03+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119845110630518607",
@@ -3037,7 +3137,9 @@
         "retrievedAt": "2026-11-10T23:24:18+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Монтаж говорящей головы AI-инструментами"
     },
     {
       "id": "2119832051594882820",
@@ -3071,7 +3173,8 @@
         "retrievedAt": "2026-11-10T23:24:32+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119856664568675094",
@@ -3104,7 +3207,8 @@
         "retrievedAt": "2026-11-10T22:59:24+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119897837335574484",
@@ -3137,7 +3241,8 @@
         "retrievedAt": "2026-11-10T23:24:46+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119879487204059538",
@@ -3170,7 +3275,8 @@
         "retrievedAt": "2026-11-10T23:07:58+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119852525802711442",
@@ -3203,7 +3309,9 @@
         "retrievedAt": "2026-11-10T23:25:00+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "AI-инструменты в помощь, основа — контент для соцсетей"
     },
     {
       "id": "2119841149289982354",
@@ -3236,7 +3344,8 @@
         "retrievedAt": "2026-11-10T23:25:14+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119833164572486034",
@@ -3270,7 +3379,8 @@
         "retrievedAt": "2026-11-10T23:25:28+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119767451612540676",
@@ -3303,7 +3413,8 @@
         "retrievedAt": "2026-11-10T23:09:51+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119900690523033423",
@@ -3341,7 +3452,8 @@
         "retrievedAt": "2026-11-10T23:25:42+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119807760173010728",
@@ -3374,7 +3486,8 @@
         "retrievedAt": "2026-11-10T23:25:56+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119716539505670100",
@@ -3407,7 +3520,8 @@
         "retrievedAt": "2026-11-10T23:26:11+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119562197190064918",
@@ -3440,7 +3554,8 @@
         "retrievedAt": "2026-11-10T23:26:25+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118758177931750533",
@@ -3473,7 +3588,8 @@
         "retrievedAt": "2026-11-10T23:10:20+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118781963018409402",
@@ -3506,7 +3622,9 @@
         "retrievedAt": "2026-11-10T23:26:39+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Автоматизация выпуска AI-контента, не сами ролики"
     },
     {
       "id": "2118543968867322115",
@@ -3539,7 +3657,8 @@
         "retrievedAt": "2026-11-10T23:10:34+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118533444515839745",
@@ -3572,7 +3691,8 @@
         "retrievedAt": "2026-11-10T23:26:53+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119941415311830788",
@@ -3608,7 +3728,8 @@
         "retrievedAt": "2026-11-10T22:56:23+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119920300155955602",
@@ -3642,7 +3763,9 @@
         "retrievedAt": "2026-11-10T23:27:08+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Перевести AI-концепты в вектор"
     },
     {
       "id": "2119911984158489366",
@@ -3675,7 +3798,8 @@
         "retrievedAt": "2026-11-10T23:27:22+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120054259383548694",
@@ -3712,7 +3836,8 @@
         "retrievedAt": "2026-11-10T23:27:36+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120023148097900367",
@@ -3746,7 +3871,8 @@
         "retrievedAt": "2026-11-10T23:10:48+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119994778272414486",
@@ -3779,7 +3905,8 @@
         "retrievedAt": "2026-11-10T23:27:50+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119990346723060114",
@@ -3812,7 +3939,8 @@
         "retrievedAt": "2026-11-10T23:28:04+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119986935722294361",
@@ -3848,7 +3976,8 @@
         "retrievedAt": "2026-11-10T23:28:19+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119967607904892884",
@@ -3883,7 +4012,8 @@
         "retrievedAt": "2026-11-10T23:28:33+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119954394345312079",
@@ -3916,7 +4046,8 @@
         "retrievedAt": "2026-11-10T23:28:48+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119922274409397014",
@@ -3949,7 +4080,9 @@
         "retrievedAt": "2026-11-10T23:29:02+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Монтаж в процессе на Claude Code; AI-контент — часть работы"
     },
     {
       "id": "2120065216817622149",
@@ -3982,7 +4115,8 @@
         "retrievedAt": "2026-11-10T23:11:02+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120061701452369704",
@@ -4015,7 +4149,8 @@
         "retrievedAt": "2026-11-10T23:29:16+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120046059955436310",
@@ -4048,7 +4183,8 @@
         "retrievedAt": "2026-11-10T23:11:16+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120025659125021462",
@@ -4081,7 +4217,8 @@
         "retrievedAt": "2026-11-10T23:29:30+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120018224379688916",
@@ -4117,7 +4254,8 @@
         "retrievedAt": "2026-11-10T23:29:44+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120006407351373647",
@@ -4152,7 +4290,8 @@
         "retrievedAt": "2026-11-10T23:29:58+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119993750892220200",
@@ -4185,7 +4324,8 @@
         "retrievedAt": "2026-11-10T23:30:12+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119983608600784644",
@@ -4218,7 +4358,8 @@
         "retrievedAt": "2026-11-10T23:30:27+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119927101590173652",
@@ -4251,7 +4392,9 @@
         "retrievedAt": "2026-11-10T23:30:41+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Сборка ролика из AI-визуалов; кто генерирует — не сказано"
     },
     {
       "id": "2119998773035593476",
@@ -4284,7 +4427,8 @@
         "retrievedAt": "2026-11-10T23:30:55+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119870465463611140",
@@ -4320,7 +4464,8 @@
         "retrievedAt": "2026-11-10T23:08:53+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120086337433123606",
@@ -4357,7 +4502,9 @@
         "retrievedAt": "2026-11-10T22:59:10+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Проверка качества AI-изображений"
     },
     {
       "id": "2120071071261276950",
@@ -4390,7 +4537,8 @@
         "retrievedAt": "2026-11-10T23:31:09+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120158995201278422",
@@ -4423,7 +4571,8 @@
         "retrievedAt": "2026-11-10T23:31:23+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120138568556935831",
@@ -4456,7 +4605,8 @@
         "retrievedAt": "2026-11-10T15:07:23+00:00",
         "source": "Upwork · search",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120109094415284296",
@@ -4492,7 +4642,8 @@
         "retrievedAt": "2026-11-10T22:58:55+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119957029155989906",
@@ -4528,7 +4679,9 @@
         "retrievedAt": "2026-11-10T23:31:51+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none",
+      "aiNote": "AI запрещён клиентом"
     },
     {
       "id": "2119916905723268943",
@@ -4565,7 +4718,8 @@
         "retrievedAt": "2026-11-10T23:32:05+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2118268326897186997",
@@ -4598,7 +4752,9 @@
         "retrievedAt": "2026-11-10T23:32:20+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Монтаж; AI-производство только предстоит выстроить"
     },
     {
       "id": "2118218784165300728",
@@ -4631,7 +4787,8 @@
         "retrievedAt": "2026-11-10T23:02:15+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2117849160685407520",
@@ -4664,7 +4821,8 @@
         "retrievedAt": "2026-11-10T23:05:06+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2117609879570688630",
@@ -4697,7 +4855,8 @@
         "retrievedAt": "2026-11-10T23:32:34+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120141601746670051",
@@ -4730,7 +4889,8 @@
         "retrievedAt": "2026-11-10T23:32:48+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120140047726748119",
@@ -4763,7 +4923,8 @@
         "retrievedAt": "2026-11-10T23:33:02+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120139709653979629",
@@ -4796,7 +4957,8 @@
         "retrievedAt": "2026-11-10T23:10:06+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120130197210677718",
@@ -4829,7 +4991,8 @@
         "retrievedAt": "2026-11-10T23:33:16+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120111542636978647",
@@ -4862,7 +5025,8 @@
         "retrievedAt": "2026-11-10T23:05:20+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120168087550164597",
@@ -4898,7 +5062,8 @@
         "retrievedAt": "2026-11-12T14:44:40+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120162741067260375",
@@ -4931,7 +5096,8 @@
         "retrievedAt": "2026-11-12T14:45:08+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120141917117397064",
@@ -4968,7 +5134,8 @@
         "retrievedAt": "2026-11-10T23:05:35+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120140821370126806",
@@ -5001,7 +5168,8 @@
         "retrievedAt": "2026-11-10T23:33:58+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120219875639212104",
@@ -5039,7 +5207,8 @@
         "retrievedAt": "2026-11-12T14:42:59+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120204510676795862",
@@ -5077,7 +5246,8 @@
         "retrievedAt": "2026-11-12T14:51:59+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120179243909599715",
@@ -5113,7 +5283,8 @@
         "retrievedAt": "2026-11-12T14:43:57+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120162144882440264",
@@ -5147,7 +5318,8 @@
         "retrievedAt": "2026-11-12T14:45:23+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120136502327714263",
@@ -5183,7 +5355,8 @@
         "retrievedAt": "2026-11-10T23:34:41+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120116236469813718",
@@ -5220,7 +5393,9 @@
         "retrievedAt": "2026-11-10T23:34:55+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Брифы и сценарии, в том числе для AI-ведущего"
     },
     {
       "id": "2120079644735666132",
@@ -5253,7 +5428,8 @@
         "retrievedAt": "2026-11-10T23:35:09+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120204321111220695",
@@ -5286,7 +5462,8 @@
         "retrievedAt": "2026-11-12T14:43:28+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120177304553104570",
@@ -5323,7 +5500,8 @@
         "retrievedAt": "2026-11-12T14:44:11+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120174004020138467",
@@ -5356,7 +5534,8 @@
         "retrievedAt": "2026-11-12T14:44:25+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120164286665915031",
@@ -5392,7 +5571,9 @@
         "retrievedAt": "2026-11-12T14:52:14+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none",
+      "aiNote": "AI — продукт клиента, а не способ производства"
     },
     {
       "id": "2119531694105836310",
@@ -5427,7 +5608,8 @@
         "retrievedAt": "2026-11-10T23:36:20+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118626115655541250",
@@ -5460,7 +5642,8 @@
         "retrievedAt": "2026-11-10T23:36:34+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118012340177557640",
@@ -5493,7 +5676,8 @@
         "retrievedAt": "2026-11-10T23:36:48+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2117927544518774252",
@@ -5526,7 +5710,8 @@
         "retrievedAt": "2026-11-10T23:37:03+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2116532862189970482",
@@ -5559,7 +5744,8 @@
         "retrievedAt": "2026-11-10T23:37:17+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118555375329583618",
@@ -5592,7 +5778,9 @@
         "retrievedAt": "2026-11-14T12:41:38.301000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none",
+      "aiNote": "AI — продукт клиента; нужна экспертиза в моде"
     },
     {
       "id": "2120364293644165591",
@@ -5636,7 +5824,8 @@
         "retrievedAt": "2026-11-12T15:03:58+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120312376271830645",
@@ -5669,7 +5858,8 @@
         "retrievedAt": "2026-11-12T14:39:23+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120306923626298997",
@@ -5712,7 +5902,8 @@
         "retrievedAt": "2026-11-12T15:05:25+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120283541632717293",
@@ -5745,7 +5936,8 @@
         "retrievedAt": "2026-11-12T14:51:45+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120273879662067317",
@@ -5778,7 +5970,8 @@
         "retrievedAt": "2026-11-12T14:42:31+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120271730860336314",
@@ -5821,7 +6014,8 @@
         "retrievedAt": "2026-11-12T14:42:45+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120457691288282298",
@@ -5864,7 +6058,9 @@
         "retrievedAt": "2026-11-12T14:36:16+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Исправление готовых AI-роликов перед запуском"
     },
     {
       "id": "2120449728825064087",
@@ -5897,7 +6093,8 @@
         "retrievedAt": "2026-11-12T14:36:45+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120445200402431315",
@@ -5940,7 +6137,8 @@
         "retrievedAt": "2026-11-12T14:36:59+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120432788640081082",
@@ -5973,7 +6171,8 @@
         "retrievedAt": "2026-11-12T14:37:13+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120419670408476744",
@@ -6016,7 +6215,8 @@
         "retrievedAt": "2026-11-12T14:37:43+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120414343367229045",
@@ -6049,7 +6249,9 @@
         "retrievedAt": "2026-11-12T14:37:57+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Монтаж для YouTube-канала; AI — в скобках заголовка"
     },
     {
       "id": "2120411325286530387",
@@ -6082,7 +6284,8 @@
         "retrievedAt": "2026-11-12T14:38:12+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120398078140458170",
@@ -6115,7 +6318,8 @@
         "retrievedAt": "2026-11-12T14:38:26+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120432508195633815",
@@ -6158,7 +6362,8 @@
         "retrievedAt": "2026-11-12T14:37:28+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120407019329425901",
@@ -6191,7 +6396,8 @@
         "retrievedAt": "2026-11-12T15:04:12+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120370600950440407",
@@ -6224,7 +6430,9 @@
         "retrievedAt": "2026-11-12T18:05:55+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Свет и цвет на готовых фото; AI как инструмент"
     },
     {
       "id": "2120276974865891798",
@@ -6257,7 +6465,9 @@
         "retrievedAt": "2026-11-12T14:42:16+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none",
+      "aiNote": "Лицензирование готовых фото вместо съёмки или AI"
     },
     {
       "id": "2120243630755199048",
@@ -6290,7 +6500,8 @@
         "retrievedAt": "2026-11-12T15:05:10+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120456897942262253",
@@ -6334,7 +6545,8 @@
         "retrievedAt": "2026-11-12T14:36:30+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2118174838239022576",
@@ -6367,7 +6579,8 @@
         "retrievedAt": "2026-11-14T12:42:20.935000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2115592655668641477",
@@ -6400,7 +6613,8 @@
         "retrievedAt": "2026-11-14T12:44:07.151000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2107911122128782488",
@@ -6433,7 +6647,8 @@
         "retrievedAt": "2026-11-14T12:45:10.952000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2102805386968906616",
@@ -6466,7 +6681,8 @@
         "retrievedAt": "2026-11-14T12:45:32.176000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120168288133293242",
@@ -6509,7 +6725,8 @@
         "retrievedAt": "2026-11-12T14:50:43+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120112035962027637",
@@ -6552,7 +6769,8 @@
         "retrievedAt": "2026-11-11T10:09:58+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120038896476714964",
@@ -6585,7 +6803,8 @@
         "retrievedAt": "2026-11-14T12:40:12.673000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2119549096828222553",
@@ -6618,7 +6837,8 @@
         "retrievedAt": "2026-11-14T12:40:54.789000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2119508207251165007",
@@ -6651,7 +6871,8 @@
         "retrievedAt": "2026-11-14T12:41:16.151000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2117777482429065228",
@@ -6684,7 +6905,8 @@
         "retrievedAt": "2026-11-14T12:42:42.664000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2117740554780937901",
@@ -6717,7 +6939,9 @@
         "retrievedAt": "2026-11-14T12:43:03.792000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none",
+      "aiNote": "AI запрещён: заменить AI-картинки реальными фото"
     },
     {
       "id": "2117607111627128871",
@@ -6750,7 +6974,9 @@
         "retrievedAt": "2026-11-14T12:43:24.818000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "AI-инструменты входят в набор навыков, основа — дизайн и монтаж"
     },
     {
       "id": "2117263283289008758",
@@ -6783,7 +7009,8 @@
         "retrievedAt": "2026-11-14T12:43:45.838000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120499055998267039",
@@ -6819,7 +7046,8 @@
         "retrievedAt": "2026-11-12T14:34:49+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120468288008009800",
@@ -6856,7 +7084,8 @@
         "retrievedAt": "2026-11-12T14:36:01+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120512622672482797",
@@ -6892,7 +7121,8 @@
         "retrievedAt": "2026-11-12T14:34:05+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120490811749301877",
@@ -6928,7 +7158,8 @@
         "retrievedAt": "2026-11-12T14:35:18+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120471308097700310",
@@ -6964,7 +7195,8 @@
         "retrievedAt": "2026-11-12T14:35:47+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120510494620139990",
@@ -7000,7 +7232,9 @@
         "retrievedAt": "2026-11-12T14:46:36+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "AI-редактирование — плюс, не требование"
     },
     {
       "id": "2120500423641070231",
@@ -7036,7 +7270,8 @@
         "retrievedAt": "2026-11-12T14:47:05+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120492526063325677",
@@ -7072,7 +7307,8 @@
         "retrievedAt": "2026-11-12T14:35:03+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120499845704426682",
@@ -7108,7 +7344,8 @@
         "retrievedAt": "2026-11-12T14:34:34+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120479727160651423",
@@ -7144,7 +7381,8 @@
         "retrievedAt": "2026-11-12T14:35:32+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120502328097247725",
@@ -7178,7 +7416,9 @@
         "retrievedAt": "2026-11-12T14:46:50+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none",
+      "aiNote": "AI запрещён клиентом"
     },
     {
       "id": "2120410125458206367",
@@ -7211,7 +7451,8 @@
         "retrievedAt": "2026-11-12T14:48:03+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120516571671817887",
@@ -7244,7 +7485,8 @@
         "retrievedAt": "2026-11-12T14:33:51+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2115500081259949201",
@@ -7277,7 +7519,8 @@
         "retrievedAt": "2026-11-14T12:44:28.602000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2112814302279861709",
@@ -7310,7 +7553,8 @@
         "retrievedAt": "2026-11-14T12:44:49.706000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2101460554573560694",
@@ -7343,7 +7587,8 @@
         "retrievedAt": "2026-11-14T12:45:53.449000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120545125497109143",
@@ -7377,7 +7622,8 @@
         "retrievedAt": "2026-11-12T14:32:09+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120332181556143290",
@@ -7411,7 +7657,8 @@
         "retrievedAt": "2026-11-12T14:52:28+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120528307007144406",
@@ -7445,7 +7692,8 @@
         "retrievedAt": "2026-11-12T14:32:53+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120557886893145427",
@@ -7481,7 +7729,8 @@
         "retrievedAt": "2026-11-12T14:31:54+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120271424020238819",
@@ -7515,7 +7764,8 @@
         "retrievedAt": "2026-11-12T14:49:45+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120463756316262870",
@@ -7549,7 +7799,8 @@
         "retrievedAt": "2026-11-12T14:47:34+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120564115818305168",
@@ -7585,7 +7836,8 @@
         "retrievedAt": "2026-11-12T14:30:42+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120568085246368684",
@@ -7621,7 +7873,8 @@
         "retrievedAt": "2026-11-12T14:30:13+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120466430243372661",
@@ -7655,7 +7908,8 @@
         "retrievedAt": "2026-11-12T14:47:19+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120523645654400629",
@@ -7689,7 +7943,8 @@
         "retrievedAt": "2026-11-12T14:33:22+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120188237544423029",
@@ -7723,7 +7978,8 @@
         "retrievedAt": "2026-11-12T14:50:28+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120586997212486233",
@@ -7759,7 +8015,8 @@
         "retrievedAt": "2026-11-12T15:04:27+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120563970045487276",
@@ -7793,7 +8050,8 @@
         "retrievedAt": "2026-11-12T14:51:30+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120565114370513836",
@@ -7827,7 +8085,9 @@
         "retrievedAt": "2026-11-12T14:30:28+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Стратег: брифы и руководство AI-монтажёрами"
     },
     {
       "id": "2120530561076555423",
@@ -7864,7 +8124,8 @@
         "retrievedAt": "2026-11-12T14:32:38+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120580202970633872",
@@ -7898,7 +8159,8 @@
         "retrievedAt": "2026-11-12T14:29:59+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120561360055719568",
@@ -7934,7 +8196,8 @@
         "retrievedAt": "2026-11-12T14:31:10+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120583045236762796",
@@ -7971,7 +8234,8 @@
         "retrievedAt": "2026-11-12T14:29:45+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120551846104797677",
@@ -8005,7 +8269,8 @@
         "retrievedAt": "2026-11-12T14:46:07+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120560060026810321",
@@ -8039,7 +8304,8 @@
         "retrievedAt": "2026-11-12T14:31:39+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120206579280880826",
@@ -8075,7 +8341,8 @@
         "retrievedAt": "2026-11-12T15:03:29+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120531322853916277",
@@ -8111,7 +8378,8 @@
         "retrievedAt": "2026-11-12T14:32:24+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120523663108947283",
@@ -8147,7 +8415,8 @@
         "retrievedAt": "2026-11-12T14:33:07+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120560135753013849",
@@ -8181,7 +8450,8 @@
         "retrievedAt": "2026-11-12T14:31:25+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120512120069034477",
@@ -8215,7 +8485,8 @@
         "retrievedAt": "2026-11-12T14:34:20+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120565667841721286",
@@ -8252,7 +8523,8 @@
         "retrievedAt": "2026-11-12T14:45:52+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120463054171514042",
@@ -8288,7 +8560,8 @@
         "retrievedAt": "2026-11-12T14:47:48+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120326221082542550",
@@ -8324,7 +8597,9 @@
         "retrievedAt": "2026-11-12T14:49:16+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none",
+      "aiNote": "AI запрещён клиентом"
     },
     {
       "id": "2120316029588535959",
@@ -8360,7 +8635,8 @@
         "retrievedAt": "2026-11-12T14:39:09+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120680184763046851",
@@ -8396,7 +8672,8 @@
         "retrievedAt": "2026-11-12T14:28:46+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120518211294378056",
@@ -8432,7 +8709,8 @@
         "retrievedAt": "2026-11-12T14:33:36+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120287417247989365",
@@ -8468,7 +8746,8 @@
         "retrievedAt": "2026-11-12T14:41:48+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120201548659499479",
@@ -8504,7 +8783,8 @@
         "retrievedAt": "2026-11-12T14:43:42+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120325666503279062",
@@ -8540,7 +8820,8 @@
         "retrievedAt": "2026-11-12T14:38:55+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120815059481551984",
@@ -8576,7 +8857,8 @@
         "retrievedAt": "2026-11-12T14:28:03+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120867541648840186",
@@ -8608,7 +8890,8 @@
         "retrievedAt": "2026-11-12T14:26:51+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120858670523913722",
@@ -8644,7 +8927,8 @@
         "retrievedAt": "2026-11-12T14:51:16+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120821115158946928",
@@ -8679,7 +8963,8 @@
         "retrievedAt": "2026-11-12T14:27:34+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120818791056315898",
@@ -8711,7 +8996,8 @@
         "retrievedAt": "2026-11-12T14:27:48+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120707144654315342",
@@ -8746,7 +9032,8 @@
         "retrievedAt": "2026-11-12T14:25:57+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120633631683828675",
@@ -8778,7 +9065,8 @@
         "retrievedAt": "2026-11-12T14:29:16+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120878089402768324",
@@ -8814,7 +9102,8 @@
         "retrievedAt": "2026-11-12T16:35:50+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120865776052424251",
@@ -8847,7 +9136,8 @@
         "retrievedAt": "2026-11-12T14:27:06+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120750521594844666",
@@ -8883,7 +9173,8 @@
         "source": "Upwork · get",
         "language": "en"
       },
-      "statusChecked": "2026-11-21T13:43:57+00:00"
+      "statusChecked": "2026-11-21T13:43:57+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2120329052184334819",
@@ -8918,7 +9209,8 @@
         "retrievedAt": "2026-11-12T14:38:40+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120287558760210903",
@@ -8953,7 +9245,8 @@
         "retrievedAt": "2026-11-12T14:39:38+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120782870914174992",
@@ -8986,7 +9279,8 @@
         "retrievedAt": "2026-11-12T14:45:37+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120729405649216624",
@@ -9021,7 +9315,8 @@
         "retrievedAt": "2026-11-12T15:03:43+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120677671001345595",
@@ -9055,7 +9350,8 @@
         "retrievedAt": "2026-11-12T14:29:01+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120537148047965523",
@@ -9087,7 +9383,8 @@
         "retrievedAt": "2026-11-12T14:46:21+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120941969827207323",
@@ -9119,7 +9416,8 @@
         "retrievedAt": "2026-11-12T19:04:35+00:00",
         "source": "Upwork · search",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120923025318776848",
@@ -9152,7 +9450,8 @@
         "retrievedAt": "2026-11-14T12:35:02.264000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120884382555346426",
@@ -9185,7 +9484,9 @@
         "retrievedAt": "2026-11-14T12:38:27.688000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Метод на выбор исполнителя: Photoshop или AI"
     },
     {
       "id": "2120931846730703984",
@@ -9217,7 +9518,8 @@
         "retrievedAt": "2026-11-14T12:34:33.512000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120925052095647291",
@@ -9249,7 +9551,8 @@
         "retrievedAt": "2026-11-14T12:34:47.826000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120912923817829488",
@@ -9281,7 +9584,9 @@
         "retrievedAt": "2026-11-14T12:37:45.297000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Монтаж стока и AI lip-sync"
     },
     {
       "id": "2120909902511771664",
@@ -9313,7 +9618,8 @@
         "retrievedAt": "2026-11-14T12:38:06.557000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120867102991797819",
@@ -9346,7 +9652,9 @@
         "source": "Upwork · get",
         "translationEn": "Hello,\n\nI’m launching a faceless YouTube channel featuring an AI avatar speaking directly to the camera. The channel is for viewers aged 55 and over. I’m looking for a video editor who can make each video engaging and easy to follow.\n\nWhat I provide\n- The voice-over\n- Footage of the AI avatar speaking to the camera\n\nYour role\n- Add illustrations, images and B-roll that directly relate to what the narrator says.\n- Alternate between the full-screen avatar, full-screen visuals and a picture-in-picture avatar.\n- Use subtle zooms and smooth transitions. Display key words on screen.\n- Add clearly legible subtitles.\n- Add unobtrusive background music and a few sound effects.\n- Keep viewers engaged with a visual change roughly every 10 to 20 seconds.\n\nThe style I’m looking for (important for this audience)\n- Simple, clean, calm editing without aggressive effects\n- No flashing or overly fast transitions\n- Standard lettering with good contrast that’s easy to read\n\nAll footage, images and music must be royalty-free because the channel will be monetized.\n\nProject details\n- Video length: 10 to 15 minutes\n- Volume: 2 to 4 videos per week\n- Turnaround: 24 to 48 hours per video\n- Format: 16:9, 1080p\n- Audience: French viewers\n\nWe’ll start with one paid test video. If it goes well, this will become regular, long-term work.\n\nIn your proposal, please include:\n1. Your price per video\n2. Your usual turnaround time\n3. One or two examples of similar edits (YouTube videos with plenty of B-roll, in a documentary or educational style)\n4. The footage and music libraries you use (optional)\n\nAn example of the editing style is also attached.\n\nTo show that you’ve read the posting, start your proposal with the word “Avatar”.\n\nSee you soon,\n\nKind regards",
         "language": "fr"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "AI-аватар даёт клиент; нужны монтаж и иллюстрации"
     },
     {
       "id": "2120917848033497104",
@@ -9378,7 +9686,8 @@
         "retrievedAt": "2026-11-14T12:35:16.744000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120747736308553210",
@@ -9410,7 +9719,8 @@
         "retrievedAt": "2026-11-14T12:39:30.928000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120753770389519266",
@@ -9444,7 +9754,8 @@
         "retrievedAt": "2026-11-12T19:06:00+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120950241938169678",
@@ -9479,7 +9790,8 @@
         "retrievedAt": "2026-11-12T19:06:47+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120832610480724123",
@@ -9513,7 +9825,8 @@
         "retrievedAt": "2026-11-12T19:07:54+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120872009592377360",
@@ -9547,7 +9860,8 @@
         "retrievedAt": "2026-11-12T19:08:08+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120886104581379578",
@@ -9581,7 +9895,9 @@
         "retrievedAt": "2026-11-12T19:08:22+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Монтаж трейлера с AI-заменой фона"
     },
     {
       "id": "2120681822374517699",
@@ -9615,7 +9931,8 @@
         "retrievedAt": "2026-11-12T19:08:37+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120896591295471438",
@@ -9649,7 +9966,8 @@
         "retrievedAt": "2026-11-12T19:08:51+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120920455046188603",
@@ -9684,7 +10002,8 @@
         "retrievedAt": "2026-11-12T19:09:05+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120890206417796002",
@@ -9718,7 +10037,8 @@
         "retrievedAt": "2026-11-12T19:09:33+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120863246954221115",
@@ -9750,7 +10070,8 @@
         "retrievedAt": "2026-11-14T12:38:48.878000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121053053064995952",
@@ -9784,7 +10105,8 @@
         "retrievedAt": "2026-11-13T13:16:50+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120989696780876706",
@@ -9818,7 +10140,8 @@
         "retrievedAt": "2026-11-13T13:18:18+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121205027611523049",
@@ -9851,7 +10174,8 @@
         "retrievedAt": "2026-11-14T12:31:41.844000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121189274306610940",
@@ -9883,7 +10207,9 @@
         "retrievedAt": "2026-11-14T12:31:56.110000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Дизайн изделия; AI — для эскизов и рендеров"
     },
     {
       "id": "2121112131041680323",
@@ -9917,7 +10243,8 @@
         "retrievedAt": "2026-11-13T13:17:48+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121047976681051642",
@@ -9949,7 +10276,9 @@
         "retrievedAt": "2026-11-14T12:33:36.778000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none",
+      "aiNote": "AI — продукт клиента, а не способ производства"
     },
     {
       "id": "2121023256448361584",
@@ -9983,7 +10312,8 @@
         "retrievedAt": "2026-11-13T13:16:35+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120988924936666018",
@@ -10015,7 +10345,8 @@
         "retrievedAt": "2026-11-14T12:33:51.004000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120977545711215728",
@@ -10047,7 +10378,9 @@
         "retrievedAt": "2026-11-14T12:34:05.354000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Настройка локальной AI-студии, не производство"
     },
     {
       "id": "2121198762566323657",
@@ -10082,7 +10415,8 @@
         "retrievedAt": "2026-11-13T13:17:19+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121155678810184400",
@@ -10116,7 +10450,8 @@
         "retrievedAt": "2026-11-13T13:17:04+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121123260325731024",
@@ -10151,7 +10486,8 @@
         "retrievedAt": "2026-11-13T13:16:10+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121121968037693180",
@@ -10186,7 +10522,8 @@
         "retrievedAt": "2026-11-13T13:17:34+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121096290117154752",
@@ -10221,7 +10558,8 @@
         "retrievedAt": "2026-11-13T13:18:32+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121081875402542651",
@@ -10253,7 +10591,8 @@
         "retrievedAt": "2026-11-14T12:33:07.174000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2121079471363645262",
@@ -10285,7 +10624,9 @@
         "retrievedAt": "2026-11-14T12:33:22.539000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Композитинг; AI — на усмотрение исполнителя"
     },
     {
       "id": "2121066262457126928",
@@ -10319,7 +10660,8 @@
         "retrievedAt": "2026-11-13T13:18:03+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121209491810596841",
@@ -10351,7 +10693,8 @@
         "retrievedAt": "2026-11-14T12:31:27.646000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121139577470715644",
@@ -10383,7 +10726,8 @@
         "retrievedAt": "2026-11-14T12:32:53.007000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121177492484189428",
@@ -10415,7 +10759,8 @@
         "retrievedAt": "2026-11-14T12:32:38.700000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121226082934126528",
@@ -10450,7 +10795,8 @@
         "retrievedAt": "2026-11-13T15:42:20+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121250904372213696",
@@ -10486,7 +10832,8 @@
         "source": "Upwork · get",
         "language": "en"
       },
-      "statusChecked": "2026-11-20T17:42:36+00:00"
+      "statusChecked": "2026-11-20T17:42:36+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2121159111032309500",
@@ -10521,7 +10868,8 @@
         "retrievedAt": "2026-11-13T15:43:05+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2118545643796321977",
@@ -10553,7 +10901,8 @@
         "retrievedAt": "2026-11-14T12:41:59.716000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2120968733885359216",
@@ -10589,7 +10938,8 @@
         "retrievedAt": "2026-11-13T15:42:06+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2121190755294798220",
@@ -10624,7 +10974,9 @@
         "retrievedAt": "2026-11-13T15:43:20+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Проверка качества и мелкие правки AI-инструментами"
     },
     {
       "id": "2120675076560838862",
@@ -10659,7 +11011,8 @@
         "retrievedAt": "2026-11-13T15:42:50+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2120888854060897786",
@@ -10695,7 +11048,8 @@
         "retrievedAt": "2026-11-13T15:42:36+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2119960979905908559",
@@ -10727,7 +11081,8 @@
         "retrievedAt": "2026-11-14T12:40:33.607000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121252743921834704",
@@ -10762,7 +11117,8 @@
         "source": "Upwork · get",
         "language": "en"
       },
-      "statusChecked": "2026-11-14T21:22:47+00:00"
+      "statusChecked": "2026-11-14T21:22:47+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2121293750898039504",
@@ -10796,7 +11152,8 @@
         "retrievedAt": "2026-11-13T19:02:27+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2121313769028250868",
@@ -10830,7 +11187,8 @@
         "retrievedAt": "2026-11-13T19:01:29+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121257813501251017",
@@ -10862,7 +11220,9 @@
         "retrievedAt": "2026-11-14T12:30:59.377000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "AI-реклама вместе с SEO и текстами"
     },
     {
       "id": "2121280093161754057",
@@ -10894,7 +11254,9 @@
         "retrievedAt": "2026-11-14T12:30:16.484000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none",
+      "aiNote": "AI-генерация нежелательна, нужна ручная фотоманипуляция"
     },
     {
       "id": "2121311206634655177",
@@ -10928,7 +11290,8 @@
         "retrievedAt": "2026-11-13T19:01:58+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121196910601759988",
@@ -10962,7 +11325,8 @@
         "retrievedAt": "2026-11-13T19:02:57+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121304502477060032",
@@ -10997,7 +11361,8 @@
         "source": "Upwork · get",
         "language": "en"
       },
-      "statusChecked": "2026-11-14T13:57:21+00:00"
+      "statusChecked": "2026-11-14T13:57:21+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2121275177841260480",
@@ -11029,7 +11394,8 @@
         "retrievedAt": "2026-11-14T12:30:30.814000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121223213308770240",
@@ -11063,7 +11429,8 @@
         "retrievedAt": "2026-11-13T19:02:12+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2121262233140770793",
@@ -11095,7 +11462,8 @@
         "retrievedAt": "2026-11-14T12:30:45.026000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121248537513474025",
@@ -11129,7 +11497,8 @@
         "retrievedAt": "2026-11-13T19:02:43+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121249338646509545",
@@ -11161,7 +11530,8 @@
         "retrievedAt": "2026-11-14T12:31:13.393000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121248854179507444",
@@ -11195,7 +11565,8 @@
         "retrievedAt": "2026-11-13T19:00:59+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121314486511601404",
@@ -11229,7 +11600,9 @@
         "retrievedAt": "2026-11-13T19:03:12+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Монтаж и звук для готового AI-футажа клиента"
     },
     {
       "id": "2121485754807547160",
@@ -11264,7 +11637,8 @@
         "source": "Upwork · get",
         "language": "en"
       },
-      "statusChecked": "2026-11-20T19:06:23+00:00"
+      "statusChecked": "2026-11-20T19:06:23+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2121444794541826744",
@@ -11296,7 +11670,8 @@
         "retrievedAt": "2026-11-14T12:29:33.411000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2121343294614581152",
@@ -11330,7 +11705,8 @@
         "retrievedAt": "2026-11-14T10:44:06+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121290005568785865",
@@ -11362,7 +11738,9 @@
         "retrievedAt": "2026-11-14T12:30:02.212000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "AI-монтаж разрешён, если результат выглядит реальным"
     },
     {
       "id": "2121280231106988501",
@@ -11396,7 +11774,8 @@
         "retrievedAt": "2026-11-14T10:09:47+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121270406704400124",
@@ -11430,7 +11809,8 @@
         "retrievedAt": "2026-11-14T10:47:42+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121188908271704784",
@@ -11462,7 +11842,9 @@
         "retrievedAt": "2026-11-14T12:32:10.311000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "Правка готовых постов AI-инструментами"
     },
     {
       "id": "2120748707369663394",
@@ -11494,7 +11876,9 @@
         "retrievedAt": "2026-11-14T12:39:09.894000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none",
+      "aiNote": "AI упомянут только в проверке на внимательность"
     },
     {
       "id": "2121406850643627057",
@@ -11528,7 +11912,8 @@
         "retrievedAt": "2026-11-14T10:26:19+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121364611969344184",
@@ -11562,7 +11947,8 @@
         "retrievedAt": "2026-11-14T10:26:05+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2121350172304837681",
@@ -11596,7 +11982,8 @@
         "retrievedAt": "2026-11-14T10:25:51+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none"
     },
     {
       "id": "2121348871365954609",
@@ -11630,7 +12017,8 @@
         "retrievedAt": "2026-11-14T10:43:36+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121345068496155231",
@@ -11662,7 +12050,9 @@
         "retrievedAt": "2026-11-14T12:29:47.690000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "none",
+      "aiNote": "AI запрещён клиентом"
     },
     {
       "id": "2120980242400230306",
@@ -11696,7 +12086,9 @@
         "retrievedAt": "2026-11-14T10:25:36+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "partial",
+      "aiNote": "AI-сцены уже готовы; нужны моушн и сборка, AI допустим"
     },
     {
       "id": "2121514920687920881",
@@ -11728,7 +12120,8 @@
         "retrievedAt": "2026-11-14T12:27:38.976000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121505472848113568",
@@ -11760,7 +12153,8 @@
         "retrievedAt": "2026-11-14T12:27:53.251000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121501132559443697",
@@ -11793,7 +12187,9 @@
         "source": "Upwork · get",
         "language": "en"
       },
-      "statusChecked": "2026-11-14T13:57:21+00:00"
+      "statusChecked": "2026-11-14T13:57:21+00:00",
+      "aiRole": "partial",
+      "aiNote": "Роль не только про AI: монтаж, съёмка или AI — что быстрее"
     },
     {
       "id": "2121500816651940447",
@@ -11826,7 +12222,8 @@
         "source": "Upwork · get",
         "language": "en"
       },
-      "statusChecked": "2026-11-15T08:06:02+00:00"
+      "statusChecked": "2026-11-15T08:06:02+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2121493723764329521",
@@ -11858,7 +12255,8 @@
         "retrievedAt": "2026-11-14T12:28:35.699000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121485624822890749",
@@ -11890,7 +12288,8 @@
         "retrievedAt": "2026-11-14T12:28:50.009000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121484896206418527",
@@ -11922,7 +12321,8 @@
         "retrievedAt": "2026-11-14T12:29:04.846000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121471116521075295",
@@ -11954,7 +12354,8 @@
         "retrievedAt": "2026-11-14T12:29:19.060000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121182049152846293",
@@ -11989,7 +12390,8 @@
         "source": "Upwork · get",
         "language": "en"
       },
-      "statusChecked": "2026-11-14T13:57:21+00:00"
+      "statusChecked": "2026-11-14T13:57:21+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2121179330438104828",
@@ -12021,7 +12423,8 @@
         "retrievedAt": "2026-11-14T12:32:24.554000+00:00",
         "source": "Upwork · get",
         "language": "en"
-      }
+      },
+      "aiRole": "generation"
     },
     {
       "id": "2121588073699900365",
@@ -12059,7 +12462,8 @@
       "checked": "2026-11-14T13:57:21+00:00",
       "firstSeen": "2026-11-14T13:57:21+00:00",
       "sourceReport": "live_20261114T135721Z.md",
-      "statusChecked": "2026-11-15T08:06:02+00:00"
+      "statusChecked": "2026-11-15T08:06:02+00:00",
+      "aiRole": "none"
     },
     {
       "id": "2121592048773598257",
@@ -12096,7 +12500,9 @@
       "checked": "2026-11-14T13:57:21+00:00",
       "firstSeen": "2026-11-14T13:57:21+00:00",
       "sourceReport": "live_20261114T135721Z.md",
-      "statusChecked": "2026-11-14T21:22:47+00:00"
+      "statusChecked": "2026-11-14T21:22:47+00:00",
+      "aiRole": "none",
+      "aiNote": "AI запрещён клиентом"
     },
     {
       "id": "2121558866489028512",
@@ -12134,7 +12540,8 @@
       "checked": "2026-11-14T13:57:21+00:00",
       "firstSeen": "2026-11-14T13:57:21+00:00",
       "sourceReport": "live_20261114T135721Z.md",
-      "statusChecked": "2026-11-14T21:22:47+00:00"
+      "statusChecked": "2026-11-14T21:22:47+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2121521165853887537",
@@ -12171,7 +12578,8 @@
       },
       "checked": "2026-11-14T13:57:21+00:00",
       "firstSeen": "2026-11-14T13:57:21+00:00",
-      "sourceReport": "live_20261114T135721Z.md"
+      "sourceReport": "live_20261114T135721Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121585172240969632",
@@ -12208,7 +12616,9 @@
       },
       "checked": "2026-11-14T13:57:21+00:00",
       "firstSeen": "2026-11-14T13:57:21+00:00",
-      "sourceReport": "live_20261114T135721Z.md"
+      "sourceReport": "live_20261114T135721Z.md",
+      "aiRole": "none",
+      "aiNote": "AI запрещён клиентом"
     },
     {
       "id": "2121586012754325408",
@@ -12246,7 +12656,8 @@
       "checked": "2026-11-14T13:57:21+00:00",
       "firstSeen": "2026-11-14T13:57:21+00:00",
       "sourceReport": "live_20261114T135721Z.md",
-      "statusChecked": "2026-11-14T21:22:47+00:00"
+      "statusChecked": "2026-11-14T21:22:47+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2121558337021063072",
@@ -12280,7 +12691,9 @@
       },
       "checked": "2026-11-14T13:57:21+00:00",
       "firstSeen": "2026-11-14T13:57:21+00:00",
-      "sourceReport": "live_20261114T135721Z.md"
+      "sourceReport": "live_20261114T135721Z.md",
+      "aiRole": "partial",
+      "aiNote": "Правка фона в готовом видео AI-инструментом"
     },
     {
       "id": "2121545076365423199",
@@ -12314,7 +12727,8 @@
       },
       "checked": "2026-11-14T13:57:21+00:00",
       "firstSeen": "2026-11-14T13:57:21+00:00",
-      "sourceReport": "live_20261114T135721Z.md"
+      "sourceReport": "live_20261114T135721Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121543507384107261",
@@ -12351,7 +12765,8 @@
       },
       "checked": "2026-11-14T13:57:21+00:00",
       "firstSeen": "2026-11-14T13:57:21+00:00",
-      "sourceReport": "live_20261114T135721Z.md"
+      "sourceReport": "live_20261114T135721Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121427462956278456",
@@ -12387,7 +12802,8 @@
       },
       "checked": "2026-11-14T13:57:21+00:00",
       "firstSeen": "2026-11-14T13:57:21+00:00",
-      "sourceReport": "live_20261114T135721Z.md"
+      "sourceReport": "live_20261114T135721Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2121295012257466108",
@@ -12423,7 +12839,9 @@
       },
       "checked": "2026-11-14T13:57:21+00:00",
       "firstSeen": "2026-11-14T13:57:21+00:00",
-      "sourceReport": "live_20261114T135721Z.md"
+      "sourceReport": "live_20261114T135721Z.md",
+      "aiRole": "partial",
+      "aiNote": "AI-инструменты допустимы, основа — дизайн и 3D"
     },
     {
       "id": "2121662642133857560",
@@ -12461,7 +12879,9 @@
       "checked": "2026-11-14T21:22:47+00:00",
       "firstSeen": "2026-11-14T21:22:47+00:00",
       "sourceReport": "live_20261114T212247Z.md",
-      "statusChecked": "2026-11-15T08:06:02+00:00"
+      "statusChecked": "2026-11-15T08:06:02+00:00",
+      "aiRole": "none",
+      "aiNote": "AI упомянут как нежелательный вид кожи"
     },
     {
       "id": "2121639970558607613",
@@ -12496,7 +12916,8 @@
       },
       "checked": "2026-11-14T21:22:47+00:00",
       "firstSeen": "2026-11-14T21:22:47+00:00",
-      "sourceReport": "live_20261114T212247Z.md"
+      "sourceReport": "live_20261114T212247Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2121609900156281528",
@@ -12533,7 +12954,8 @@
       },
       "checked": "2026-11-14T21:22:47+00:00",
       "firstSeen": "2026-11-14T21:22:47+00:00",
-      "sourceReport": "live_20261114T212247Z.md"
+      "sourceReport": "live_20261114T212247Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121686049375289597",
@@ -12570,7 +12992,8 @@
       },
       "checked": "2026-11-14T21:22:47+00:00",
       "firstSeen": "2026-11-14T21:22:47+00:00",
-      "sourceReport": "live_20261114T212247Z.md"
+      "sourceReport": "live_20261114T212247Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2121654600075011825",
@@ -12607,7 +13030,8 @@
       },
       "checked": "2026-11-14T21:22:47+00:00",
       "firstSeen": "2026-11-14T21:22:47+00:00",
-      "sourceReport": "live_20261114T212247Z.md"
+      "sourceReport": "live_20261114T212247Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121653731028825368",
@@ -12645,7 +13069,8 @@
       "checked": "2026-11-14T21:22:47+00:00",
       "firstSeen": "2026-11-14T21:22:47+00:00",
       "sourceReport": "live_20261114T212247Z.md",
-      "statusChecked": "2026-11-20T17:42:36+00:00"
+      "statusChecked": "2026-11-20T17:42:36+00:00",
+      "aiRole": "none"
     },
     {
       "id": "2121318920363371764",
@@ -12682,7 +13107,8 @@
       },
       "checked": "2026-11-14T21:22:47+00:00",
       "firstSeen": "2026-11-14T21:22:47+00:00",
-      "sourceReport": "live_20261114T212247Z.md"
+      "sourceReport": "live_20261114T212247Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2121616440102587441",
@@ -12719,7 +13145,8 @@
       },
       "checked": "2026-11-14T21:22:47+00:00",
       "firstSeen": "2026-11-14T21:22:47+00:00",
-      "sourceReport": "live_20261114T212247Z.md"
+      "sourceReport": "live_20261114T212247Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121664885687019249",
@@ -12754,7 +13181,8 @@
       },
       "checked": "2026-11-14T21:22:47+00:00",
       "firstSeen": "2026-11-14T21:22:47+00:00",
-      "sourceReport": "live_20261114T212247Z.md"
+      "sourceReport": "live_20261114T212247Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121710104688158449",
@@ -12789,7 +13217,8 @@
       },
       "checked": "2026-11-14T21:22:47+00:00",
       "firstSeen": "2026-11-14T21:22:47+00:00",
-      "sourceReport": "live_20261114T212247Z.md"
+      "sourceReport": "live_20261114T212247Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121694592685879200",
@@ -12823,7 +13252,8 @@
       },
       "checked": "2026-11-14T21:22:47+00:00",
       "firstSeen": "2026-11-14T21:22:47+00:00",
-      "sourceReport": "live_20261114T212247Z.md"
+      "sourceReport": "live_20261114T212247Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121666460575953503",
@@ -12858,7 +13288,8 @@
       },
       "checked": "2026-11-14T21:22:47+00:00",
       "firstSeen": "2026-11-14T21:22:47+00:00",
-      "sourceReport": "live_20261114T212247Z.md"
+      "sourceReport": "live_20261114T212247Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121672354657137944",
@@ -12895,7 +13326,9 @@
       },
       "checked": "2026-11-14T21:22:47+00:00",
       "firstSeen": "2026-11-14T21:22:47+00:00",
-      "sourceReport": "live_20261114T212247Z.md"
+      "sourceReport": "live_20261114T212247Z.md",
+      "aiRole": "partial",
+      "aiNote": "Ролики об AI-приложении; про AI-инструменты спрашивают, но не требуют"
     },
     {
       "id": "2121647135729055000",
@@ -12929,7 +13362,8 @@
       },
       "checked": "2026-11-14T21:22:47+00:00",
       "firstSeen": "2026-11-14T21:22:47+00:00",
-      "sourceReport": "live_20261114T212247Z.md"
+      "sourceReport": "live_20261114T212247Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121612639650641176",
@@ -12964,7 +13398,9 @@
       },
       "checked": "2026-11-14T21:22:47+00:00",
       "firstSeen": "2026-11-14T21:22:47+00:00",
-      "sourceReport": "live_20261114T212247Z.md"
+      "sourceReport": "live_20261114T212247Z.md",
+      "aiRole": "partial",
+      "aiNote": "Проверка качества AI-видео носителем языка"
     },
     {
       "id": "2121624354965645041",
@@ -12998,7 +13434,8 @@
       },
       "checked": "2026-11-14T21:22:47+00:00",
       "firstSeen": "2026-11-14T21:22:47+00:00",
-      "sourceReport": "live_20261114T212247Z.md"
+      "sourceReport": "live_20261114T212247Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2121864336787597041",
@@ -13036,7 +13473,8 @@
       },
       "checked": "2026-11-15T08:06:02+00:00",
       "firstSeen": "2026-11-15T08:06:02+00:00",
-      "sourceReport": "live_20261115T080602Z.md"
+      "sourceReport": "live_20261115T080602Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121719957688087832",
@@ -13073,7 +13511,8 @@
       },
       "checked": "2026-11-15T08:06:02+00:00",
       "firstSeen": "2026-11-15T08:06:02+00:00",
-      "sourceReport": "live_20261115T080602Z.md"
+      "sourceReport": "live_20261115T080602Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121718915677192445",
@@ -13110,7 +13549,8 @@
       },
       "checked": "2026-11-15T08:06:02+00:00",
       "firstSeen": "2026-11-15T08:06:02+00:00",
-      "sourceReport": "live_20261115T080602Z.md"
+      "sourceReport": "live_20261115T080602Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121466097112350973",
@@ -13145,7 +13585,8 @@
       },
       "checked": "2026-11-15T08:06:02+00:00",
       "firstSeen": "2026-11-15T08:06:02+00:00",
-      "sourceReport": "live_20261115T080602Z.md"
+      "sourceReport": "live_20261115T080602Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121315322703034345",
@@ -13180,7 +13621,9 @@
       },
       "checked": "2026-11-15T08:06:02+00:00",
       "firstSeen": "2026-11-15T08:06:02+00:00",
-      "sourceReport": "live_20261115T080602Z.md"
+      "sourceReport": "live_20261115T080602Z.md",
+      "aiRole": "partial",
+      "aiNote": "Опыт с AI-инструментами в требованиях, основа — дизайн страниц"
     },
     {
       "id": "2121786201693512376",
@@ -13217,7 +13660,8 @@
       },
       "checked": "2026-11-15T08:06:02+00:00",
       "firstSeen": "2026-11-15T08:06:02+00:00",
-      "sourceReport": "live_20261115T080602Z.md"
+      "sourceReport": "live_20261115T080602Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121823951868618481",
@@ -13254,7 +13698,8 @@
       },
       "checked": "2026-11-15T08:06:02+00:00",
       "firstSeen": "2026-11-15T08:06:02+00:00",
-      "sourceReport": "live_20261115T080602Z.md"
+      "sourceReport": "live_20261115T080602Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2121857040007259889",
@@ -13290,7 +13735,9 @@
       "checked": "2026-11-15T08:06:02+00:00",
       "firstSeen": "2026-11-15T08:06:02+00:00",
       "sourceReport": "live_20261115T080602Z.md",
-      "statusChecked": "2026-11-20T19:06:23+00:00"
+      "statusChecked": "2026-11-20T19:06:23+00:00",
+      "aiRole": "none",
+      "aiNote": "AI запрещён клиентом"
     },
     {
       "id": "2121777747187106045",
@@ -13325,7 +13772,9 @@
       },
       "checked": "2026-11-15T08:06:02+00:00",
       "firstSeen": "2026-11-15T08:06:02+00:00",
-      "sourceReport": "live_20261115T080602Z.md"
+      "sourceReport": "live_20261115T080602Z.md",
+      "aiRole": "none",
+      "aiNote": "AI запрещён клиентом"
     },
     {
       "id": "2121432098982949471",
@@ -13362,7 +13811,8 @@
       },
       "checked": "2026-11-15T08:06:02+00:00",
       "firstSeen": "2026-11-15T08:06:02+00:00",
-      "sourceReport": "live_20261115T080602Z.md"
+      "sourceReport": "live_20261115T080602Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121392905771049656",
@@ -13399,7 +13849,8 @@
       },
       "checked": "2026-11-15T08:06:02+00:00",
       "firstSeen": "2026-11-15T08:06:02+00:00",
-      "sourceReport": "live_20261115T080602Z.md"
+      "sourceReport": "live_20261115T080602Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121326971238151448",
@@ -13436,7 +13887,8 @@
       },
       "checked": "2026-11-15T08:06:02+00:00",
       "firstSeen": "2026-11-15T08:06:02+00:00",
-      "sourceReport": "live_20261115T080602Z.md"
+      "sourceReport": "live_20261115T080602Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122146690189980456",
@@ -13474,7 +13926,8 @@
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
       "sourceReport": "live_20261116T213347Z.md",
-      "statusChecked": "2026-11-21T13:43:57+00:00"
+      "statusChecked": "2026-11-21T13:43:57+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2121888019692290301",
@@ -13509,7 +13962,9 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "none",
+      "aiNote": "Партнёрства с креаторами, не производство контента"
     },
     {
       "id": "2122394850821784617",
@@ -13543,7 +13998,8 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2122376519960085545",
@@ -13580,7 +14036,9 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "none",
+      "aiNote": "AI упомянут как нежелательный вид результата"
     },
     {
       "id": "2122355326135230919",
@@ -13615,7 +14073,8 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2122352296115407921",
@@ -13649,7 +14108,8 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2122329164128213662",
@@ -13683,7 +14143,8 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2122441451543163688",
@@ -13718,7 +14179,9 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "none",
+      "aiNote": "AI упомянут только в проверке на внимательность"
     },
     {
       "id": "2122415275740087337",
@@ -13753,7 +14216,8 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2122385655462027719",
@@ -13790,7 +14254,8 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122348352045282088",
@@ -13827,7 +14292,8 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122294185842448014",
@@ -13862,7 +14328,8 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2122357076230674062",
@@ -13899,7 +14366,8 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122397326590970929",
@@ -13936,7 +14404,8 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122066773073300529",
@@ -13971,7 +14440,8 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121963475014710552",
@@ -14008,7 +14478,8 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122441043567407912",
@@ -14043,7 +14514,8 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122430042152364229",
@@ -14078,7 +14550,8 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122420178825516686",
@@ -14113,7 +14586,8 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122410830928732615",
@@ -14150,7 +14624,8 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122409162780465822",
@@ -14185,7 +14660,8 @@
       },
       "checked": "2026-11-16T21:33:47+00:00",
       "firstSeen": "2026-11-16T21:33:47+00:00",
-      "sourceReport": "live_20261116T213347Z.md"
+      "sourceReport": "live_20261116T213347Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122451808757213381",
@@ -14221,7 +14697,8 @@
       },
       "checked": "2026-11-17T11:00:33+00:00",
       "firstSeen": "2026-11-17T11:00:33+00:00",
-      "sourceReport": "live_20261117T110033Z.md"
+      "sourceReport": "live_20261117T110033Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122076584714814505",
@@ -14258,7 +14735,8 @@
       "checked": "2026-11-17T11:00:33+00:00",
       "firstSeen": "2026-11-17T11:00:33+00:00",
       "sourceReport": "live_20261117T110033Z.md",
-      "statusChecked": "2026-11-21T13:57:53+00:00"
+      "statusChecked": "2026-11-21T13:57:53+00:00",
+      "aiRole": "none"
     },
     {
       "id": "2121961609867922481",
@@ -14294,7 +14772,8 @@
       },
       "checked": "2026-11-17T11:00:33+00:00",
       "firstSeen": "2026-11-17T11:00:33+00:00",
-      "sourceReport": "live_20261117T110033Z.md"
+      "sourceReport": "live_20261117T110033Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2121961587169129055",
@@ -14333,7 +14812,8 @@
       "checked": "2026-11-17T11:00:33+00:00",
       "firstSeen": "2026-11-17T11:00:33+00:00",
       "sourceReport": "live_20261117T110033Z.md",
-      "statusChecked": "2026-11-21T13:57:53+00:00"
+      "statusChecked": "2026-11-21T13:57:53+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2122605133806363079",
@@ -14371,7 +14851,8 @@
       },
       "checked": "2026-11-17T11:00:33+00:00",
       "firstSeen": "2026-11-17T11:00:33+00:00",
-      "sourceReport": "live_20261117T110033Z.md"
+      "sourceReport": "live_20261117T110033Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122373030987163845",
@@ -14409,7 +14890,8 @@
       },
       "checked": "2026-11-17T11:00:33+00:00",
       "firstSeen": "2026-11-17T11:00:33+00:00",
-      "sourceReport": "live_20261117T110033Z.md"
+      "sourceReport": "live_20261117T110033Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2122019504701672497",
@@ -14447,7 +14929,9 @@
       },
       "checked": "2026-11-17T11:00:33+00:00",
       "firstSeen": "2026-11-17T11:00:33+00:00",
-      "sourceReport": "live_20261117T110033Z.md"
+      "sourceReport": "live_20261117T110033Z.md",
+      "aiRole": "none",
+      "aiNote": "«AI» здесь — формат файла Adobe Illustrator"
     },
     {
       "id": "2122400150387881240",
@@ -14485,7 +14969,8 @@
       },
       "checked": "2026-11-17T11:00:33+00:00",
       "firstSeen": "2026-11-17T11:00:33+00:00",
-      "sourceReport": "live_20261117T110033Z.md"
+      "sourceReport": "live_20261117T110033Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121982668833486104",
@@ -14521,7 +15006,8 @@
       },
       "checked": "2026-11-17T11:00:33+00:00",
       "firstSeen": "2026-11-17T11:00:33+00:00",
-      "sourceReport": "live_20261117T110033Z.md"
+      "sourceReport": "live_20261117T110033Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2122573611915798725",
@@ -14557,7 +15043,8 @@
       },
       "checked": "2026-11-17T11:00:33+00:00",
       "firstSeen": "2026-11-17T11:00:33+00:00",
-      "sourceReport": "live_20261117T110033Z.md"
+      "sourceReport": "live_20261117T110033Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122126378825008169",
@@ -14595,7 +15082,9 @@
       },
       "checked": "2026-11-17T11:00:33+00:00",
       "firstSeen": "2026-11-17T11:00:33+00:00",
-      "sourceReport": "live_20261117T110033Z.md"
+      "sourceReport": "live_20261117T110033Z.md",
+      "aiRole": "partial",
+      "aiNote": "AI-инструменты по ситуации, основа — монтаж"
     },
     {
       "id": "2122657096666518080",
@@ -14633,7 +15122,8 @@
       },
       "checked": "2026-11-17T15:56:38+00:00",
       "firstSeen": "2026-11-17T15:56:38+00:00",
-      "sourceReport": "live_20261117T155638Z.md"
+      "sourceReport": "live_20261117T155638Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122653152247923753",
@@ -14670,7 +15160,8 @@
       },
       "checked": "2026-11-17T15:56:38+00:00",
       "firstSeen": "2026-11-17T15:56:38+00:00",
-      "sourceReport": "live_20261117T155638Z.md"
+      "sourceReport": "live_20261117T155638Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122626026504739486",
@@ -14708,7 +15199,8 @@
       },
       "checked": "2026-11-17T15:56:38+00:00",
       "firstSeen": "2026-11-17T15:56:38+00:00",
-      "sourceReport": "live_20261117T155638Z.md"
+      "sourceReport": "live_20261117T155638Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122717514899644870",
@@ -14746,7 +15238,9 @@
       },
       "checked": "2026-11-17T15:56:38+00:00",
       "firstSeen": "2026-11-17T15:56:38+00:00",
-      "sourceReport": "live_20261117T155638Z.md"
+      "sourceReport": "live_20261117T155638Z.md",
+      "aiRole": "none",
+      "aiNote": "AI почти запрещён: фото должны остаться подлинными"
     },
     {
       "id": "2122610864031757295",
@@ -14783,7 +15277,8 @@
       },
       "checked": "2026-11-17T15:56:38+00:00",
       "firstSeen": "2026-11-17T15:56:38+00:00",
-      "sourceReport": "live_20261117T155638Z.md"
+      "sourceReport": "live_20261117T155638Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122640177184660126",
@@ -14821,7 +15316,8 @@
       },
       "checked": "2026-11-17T15:56:38+00:00",
       "firstSeen": "2026-11-17T15:56:38+00:00",
-      "sourceReport": "live_20261117T155638Z.md"
+      "sourceReport": "live_20261117T155638Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122676379112169926",
@@ -14859,7 +15355,8 @@
       },
       "checked": "2026-11-17T15:56:38+00:00",
       "firstSeen": "2026-11-17T15:56:38+00:00",
-      "sourceReport": "live_20261117T155638Z.md"
+      "sourceReport": "live_20261117T155638Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122475784293682225",
@@ -14894,7 +15391,8 @@
       },
       "checked": "2026-11-17T15:56:38+00:00",
       "firstSeen": "2026-11-17T15:56:38+00:00",
-      "sourceReport": "live_20261117T155638Z.md"
+      "sourceReport": "live_20261117T155638Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2122635471696282665",
@@ -14931,7 +15429,8 @@
       },
       "checked": "2026-11-17T15:56:38+00:00",
       "firstSeen": "2026-11-17T15:56:38+00:00",
-      "sourceReport": "live_20261117T155638Z.md"
+      "sourceReport": "live_20261117T155638Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122668257056383430",
@@ -14968,7 +15467,8 @@
       },
       "checked": "2026-11-17T15:56:38+00:00",
       "firstSeen": "2026-11-17T15:56:38+00:00",
-      "sourceReport": "live_20261117T155638Z.md"
+      "sourceReport": "live_20261117T155638Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122630333496301198",
@@ -15005,7 +15505,9 @@
       },
       "checked": "2026-11-17T15:56:38+00:00",
       "firstSeen": "2026-11-17T15:56:38+00:00",
-      "sourceReport": "live_20261117T155638Z.md"
+      "sourceReport": "live_20261117T155638Z.md",
+      "aiRole": "none",
+      "aiNote": "AI — продукт клиента, а не способ производства"
     },
     {
       "id": "2122713400121418183",
@@ -15041,7 +15543,8 @@
       },
       "checked": "2026-11-17T19:00:08+00:00",
       "firstSeen": "2026-11-17T19:00:08+00:00",
-      "sourceReport": "live_20261117T190008Z.md"
+      "sourceReport": "live_20261117T190008Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122753406912435854",
@@ -15077,7 +15580,9 @@
       },
       "checked": "2026-11-17T19:00:08+00:00",
       "firstSeen": "2026-11-17T19:00:08+00:00",
-      "sourceReport": "live_20261117T190008Z.md"
+      "sourceReport": "live_20261117T190008Z.md",
+      "aiRole": "none",
+      "aiNote": "AI упомянут только в проверке на внимательность"
     },
     {
       "id": "2122739573029857477",
@@ -15116,7 +15621,8 @@
       "checked": "2026-11-17T19:00:08+00:00",
       "firstSeen": "2026-11-17T19:00:08+00:00",
       "sourceReport": "live_20261117T190008Z.md",
-      "statusChecked": "2026-11-18T19:05:37+00:00"
+      "statusChecked": "2026-11-18T19:05:37+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2122764552504367774",
@@ -15155,7 +15661,9 @@
       },
       "checked": "2026-11-17T19:00:08+00:00",
       "firstSeen": "2026-11-17T19:00:08+00:00",
-      "sourceReport": "live_20261117T190008Z.md"
+      "sourceReport": "live_20261117T190008Z.md",
+      "aiRole": "none",
+      "aiNote": "AI-сцены нежелательны, нужен подлинный материал"
     },
     {
       "id": "2122397913645171753",
@@ -15191,7 +15699,8 @@
       },
       "checked": "2026-11-17T19:00:08+00:00",
       "firstSeen": "2026-11-17T19:00:08+00:00",
-      "sourceReport": "live_20261117T190008Z.md"
+      "sourceReport": "live_20261117T190008Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122652632009073095",
@@ -15227,7 +15736,9 @@
       },
       "checked": "2026-11-17T19:00:08+00:00",
       "firstSeen": "2026-11-17T19:00:08+00:00",
-      "sourceReport": "live_20261117T190008Z.md"
+      "sourceReport": "live_20261117T190008Z.md",
+      "aiRole": "none",
+      "aiNote": "AI запрещён: перерисовать AI-картинку вручную"
     },
     {
       "id": "2122322433797777605",
@@ -15266,7 +15777,8 @@
       },
       "checked": "2026-11-17T19:00:08+00:00",
       "firstSeen": "2026-11-17T19:00:08+00:00",
-      "sourceReport": "live_20261117T190008Z.md"
+      "sourceReport": "live_20261117T190008Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122735225058877894",
@@ -15305,7 +15817,8 @@
       "checked": "2026-11-17T19:00:08+00:00",
       "firstSeen": "2026-11-17T19:00:08+00:00",
       "sourceReport": "live_20261117T190008Z.md",
-      "statusChecked": "2026-11-18T19:05:37+00:00"
+      "statusChecked": "2026-11-18T19:05:37+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2122500793702279365",
@@ -15343,7 +15856,8 @@
       },
       "checked": "2026-11-17T19:00:08+00:00",
       "firstSeen": "2026-11-17T19:00:08+00:00",
-      "sourceReport": "live_20261117T190008Z.md"
+      "sourceReport": "live_20261117T190008Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122716922956288576",
@@ -15382,7 +15896,8 @@
       },
       "checked": "2026-11-17T19:00:08+00:00",
       "firstSeen": "2026-11-17T19:00:08+00:00",
-      "sourceReport": "live_20261117T190008Z.md"
+      "sourceReport": "live_20261117T190008Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2122705034382695070",
@@ -15418,7 +15933,8 @@
       },
       "checked": "2026-11-17T19:00:08+00:00",
       "firstSeen": "2026-11-17T19:00:08+00:00",
-      "sourceReport": "live_20261117T190008Z.md"
+      "sourceReport": "live_20261117T190008Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122703959286604230",
@@ -15457,7 +15973,8 @@
       },
       "checked": "2026-11-17T19:00:08+00:00",
       "firstSeen": "2026-11-17T19:00:08+00:00",
-      "sourceReport": "live_20261117T190008Z.md"
+      "sourceReport": "live_20261117T190008Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2123129202157281734",
@@ -15495,7 +16012,8 @@
       "checked": "2026-11-18T19:05:37+00:00",
       "firstSeen": "2026-11-18T19:05:37+00:00",
       "sourceReport": "live_20261118T190537Z.md",
-      "statusChecked": "2026-11-21T13:43:57+00:00"
+      "statusChecked": "2026-11-21T13:43:57+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2123100327160773642",
@@ -15541,7 +16059,8 @@
       },
       "checked": "2026-11-18T19:05:37+00:00",
       "firstSeen": "2026-11-18T19:05:37+00:00",
-      "sourceReport": "live_20261118T190537Z.md"
+      "sourceReport": "live_20261118T190537Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2123111440590234055",
@@ -15578,7 +16097,8 @@
       },
       "checked": "2026-11-18T19:05:37+00:00",
       "firstSeen": "2026-11-18T19:05:37+00:00",
-      "sourceReport": "live_20261118T190537Z.md"
+      "sourceReport": "live_20261118T190537Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2123110344669754351",
@@ -15615,7 +16135,8 @@
       },
       "checked": "2026-11-18T19:05:37+00:00",
       "firstSeen": "2026-11-18T19:05:37+00:00",
-      "sourceReport": "live_20261118T190537Z.md"
+      "sourceReport": "live_20261118T190537Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122848049403288222",
@@ -15652,7 +16173,8 @@
       },
       "checked": "2026-11-18T19:05:37+00:00",
       "firstSeen": "2026-11-18T19:05:37+00:00",
-      "sourceReport": "live_20261118T190537Z.md"
+      "sourceReport": "live_20261118T190537Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123129596637536711",
@@ -15699,7 +16221,8 @@
       },
       "checked": "2026-11-18T19:05:37+00:00",
       "firstSeen": "2026-11-18T19:05:37+00:00",
-      "sourceReport": "live_20261118T190537Z.md"
+      "sourceReport": "live_20261118T190537Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123127378223758346",
@@ -15736,7 +16259,9 @@
       },
       "checked": "2026-11-18T19:05:37+00:00",
       "firstSeen": "2026-11-18T19:05:37+00:00",
-      "sourceReport": "live_20261118T190537Z.md"
+      "sourceReport": "live_20261118T190537Z.md",
+      "aiRole": "none",
+      "aiNote": "AI — продукт клиента, а не способ производства"
     },
     {
       "id": "2123122634300349086",
@@ -15772,7 +16297,9 @@
       },
       "checked": "2026-11-18T19:05:37+00:00",
       "firstSeen": "2026-11-18T19:05:37+00:00",
-      "sourceReport": "live_20261118T190537Z.md"
+      "sourceReport": "live_20261118T190537Z.md",
+      "aiRole": "partial",
+      "aiNote": "Монтаж и публикация готовых AI-клипов"
     },
     {
       "id": "2123105237870860958",
@@ -15809,7 +16336,8 @@
       "checked": "2026-11-18T19:05:37+00:00",
       "firstSeen": "2026-11-18T19:05:37+00:00",
       "sourceReport": "live_20261118T190537Z.md",
-      "statusChecked": "2026-11-20T17:42:36+00:00"
+      "statusChecked": "2026-11-20T17:42:36+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2123070597658573922",
@@ -15845,7 +16373,8 @@
       },
       "checked": "2026-11-18T19:05:37+00:00",
       "firstSeen": "2026-11-18T19:05:37+00:00",
-      "sourceReport": "live_20261118T190537Z.md"
+      "sourceReport": "live_20261118T190537Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122795184954271941",
@@ -15881,7 +16410,9 @@
       },
       "checked": "2026-11-18T19:05:37+00:00",
       "firstSeen": "2026-11-18T19:05:37+00:00",
-      "sourceReport": "live_20261118T190537Z.md"
+      "sourceReport": "live_20261118T190537Z.md",
+      "aiRole": "partial",
+      "aiNote": "Монтаж подкаста; Higgsfield — дополнительно"
     },
     {
       "id": "2123046547682631893",
@@ -15927,7 +16458,8 @@
       },
       "checked": "2026-11-18T19:05:37+00:00",
       "firstSeen": "2026-11-18T19:05:37+00:00",
-      "sourceReport": "live_20261118T190537Z.md"
+      "sourceReport": "live_20261118T190537Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122994722356091550",
@@ -15974,7 +16506,8 @@
       },
       "checked": "2026-11-18T19:05:37+00:00",
       "firstSeen": "2026-11-18T19:05:37+00:00",
-      "sourceReport": "live_20261118T190537Z.md"
+      "sourceReport": "live_20261118T190537Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123109444619854278",
@@ -16011,7 +16544,8 @@
       },
       "checked": "2026-11-18T19:05:37+00:00",
       "firstSeen": "2026-11-18T19:05:37+00:00",
-      "sourceReport": "live_20261118T190537Z.md"
+      "sourceReport": "live_20261118T190537Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2123053673126034530",
@@ -16058,7 +16592,8 @@
       },
       "checked": "2026-11-18T19:05:37+00:00",
       "firstSeen": "2026-11-18T19:05:37+00:00",
-      "sourceReport": "live_20261118T190537Z.md"
+      "sourceReport": "live_20261118T190537Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123030425652158918",
@@ -16106,7 +16641,8 @@
       "checked": "2026-11-18T19:05:37+00:00",
       "firstSeen": "2026-11-18T19:05:37+00:00",
       "sourceReport": "live_20261118T190537Z.md",
-      "statusChecked": "2026-11-20T19:06:23+00:00"
+      "statusChecked": "2026-11-20T19:06:23+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2123029737460916679",
@@ -16143,7 +16679,8 @@
       },
       "checked": "2026-11-18T19:05:37+00:00",
       "firstSeen": "2026-11-18T19:05:37+00:00",
-      "sourceReport": "live_20261118T190537Z.md"
+      "sourceReport": "live_20261118T190537Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123393733862816778",
@@ -16191,7 +16728,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123470145790637039",
@@ -16239,7 +16777,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123714280908878831",
@@ -16288,7 +16827,9 @@
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
       "sourceReport": "live_20261120T174236Z.md",
-      "statusChecked": "2026-11-21T13:57:53+00:00"
+      "statusChecked": "2026-11-21T13:57:53+00:00",
+      "aiRole": "partial",
+      "aiNote": "Ретушь и проверка AI-изображений"
     },
     {
       "id": "2123497849236773534",
@@ -16336,7 +16877,9 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "none",
+      "aiNote": "AI — продукт клиента, а не способ производства"
     },
     {
       "id": "2123678292947493318",
@@ -16384,7 +16927,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123423076685118474",
@@ -16432,7 +16976,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123569767603118293",
@@ -16480,7 +17025,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123724331183790750",
@@ -16528,7 +17074,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2123585127455128674",
@@ -16565,7 +17112,8 @@
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
       "sourceReport": "live_20261120T174236Z.md",
-      "statusChecked": "2026-11-21T13:57:53+00:00"
+      "statusChecked": "2026-11-21T13:57:53+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2123485820455246494",
@@ -16601,7 +17149,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123584230770532807",
@@ -16637,7 +17186,9 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "none",
+      "aiNote": "AI — продукт клиента, а не способ производства"
     },
     {
       "id": "2123659500307276231",
@@ -16673,7 +17224,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123485850893803974",
@@ -16709,7 +17261,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123453316246797410",
@@ -16745,7 +17298,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123370928229195989",
@@ -16781,7 +17335,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123338934880590494",
@@ -16817,7 +17372,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123697050396589066",
@@ -16853,7 +17409,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123310961247379911",
@@ -16889,7 +17446,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123250684601308814",
@@ -16925,7 +17483,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123031003217722378",
@@ -16961,7 +17520,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122886456532527301",
@@ -16997,7 +17557,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2118242693624539415",
@@ -17033,7 +17594,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2117318191628435953",
@@ -17069,7 +17631,9 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "none",
+      "aiNote": "Съёмка реального товара"
     },
     {
       "id": "2116847317322966066",
@@ -17105,7 +17669,9 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "partial",
+      "aiNote": "Исправить AI-изображения в Photoshop и собрать новые сцены"
     },
     {
       "id": "2115857465854038774",
@@ -17141,7 +17707,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2115427357145562821",
@@ -17177,7 +17744,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2114849546529799877",
@@ -17213,7 +17781,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2112030124672784975",
@@ -17249,7 +17818,9 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "partial",
+      "aiNote": "Вёрстка книги из AI-иллюстраций"
     },
     {
       "id": "2089700588431451093",
@@ -17285,7 +17856,8 @@
       },
       "checked": "2026-11-20T17:42:36+00:00",
       "firstSeen": "2026-11-20T17:42:36+00:00",
-      "sourceReport": "live_20261120T174236Z.md"
+      "sourceReport": "live_20261120T174236Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123848946189263303",
@@ -17333,7 +17905,8 @@
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
       "sourceReport": "live_20261120T190623Z.md",
-      "statusChecked": "2026-11-21T13:43:57+00:00"
+      "statusChecked": "2026-11-21T13:43:57+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2123839221711961098",
@@ -17381,7 +17954,8 @@
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
       "sourceReport": "live_20261120T190623Z.md",
-      "statusChecked": "2026-11-21T13:57:53+00:00"
+      "statusChecked": "2026-11-21T13:57:53+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2123839821469152239",
@@ -17428,7 +18002,8 @@
       },
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
-      "sourceReport": "live_20261120T190623Z.md"
+      "sourceReport": "live_20261120T190623Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123853911537098965",
@@ -17476,7 +18051,8 @@
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
       "sourceReport": "live_20261120T190623Z.md",
-      "statusChecked": "2026-11-21T13:43:57+00:00"
+      "statusChecked": "2026-11-21T13:43:57+00:00",
+      "aiRole": "generation"
     },
     {
       "id": "2123185747355785886",
@@ -17523,7 +18099,9 @@
       },
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
-      "sourceReport": "live_20261120T190623Z.md"
+      "sourceReport": "live_20261120T190623Z.md",
+      "aiRole": "none",
+      "aiNote": "AI — продукт клиента, а не способ производства"
     },
     {
       "id": "2123779861512708550",
@@ -17570,7 +18148,8 @@
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
       "sourceReport": "live_20261120T190623Z.md",
-      "statusChecked": "2026-11-21T13:57:53+00:00"
+      "statusChecked": "2026-11-21T13:57:53+00:00",
+      "aiRole": "none"
     },
     {
       "id": "2123227912558876302",
@@ -17616,7 +18195,8 @@
       },
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
-      "sourceReport": "live_20261120T190623Z.md"
+      "sourceReport": "live_20261120T190623Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2123078275603299338",
@@ -17651,7 +18231,9 @@
       },
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
-      "sourceReport": "live_20261120T190623Z.md"
+      "sourceReport": "live_20261120T190623Z.md",
+      "aiRole": "none",
+      "aiNote": "AI — продукт клиента, а не способ производства"
     },
     {
       "id": "2122924393772868038",
@@ -17686,7 +18268,9 @@
       },
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
-      "sourceReport": "live_20261120T190623Z.md"
+      "sourceReport": "live_20261120T190623Z.md",
+      "aiRole": "none",
+      "aiNote": "AI — продукт клиента, а не способ производства"
     },
     {
       "id": "2121897594082058936",
@@ -17722,7 +18306,8 @@
       },
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
-      "sourceReport": "live_20261120T190623Z.md"
+      "sourceReport": "live_20261120T190623Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2121335692192932536",
@@ -17757,7 +18342,8 @@
       },
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
-      "sourceReport": "live_20261120T190623Z.md"
+      "sourceReport": "live_20261120T190623Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2116788602693089732",
@@ -17792,7 +18378,9 @@
       },
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
-      "sourceReport": "live_20261120T190623Z.md"
+      "sourceReport": "live_20261120T190623Z.md",
+      "aiRole": "none",
+      "aiNote": "AI запрещён клиентом"
     },
     {
       "id": "2115292962753738991",
@@ -17827,7 +18415,8 @@
       },
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
-      "sourceReport": "live_20261120T190623Z.md"
+      "sourceReport": "live_20261120T190623Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2114684381095936298",
@@ -17862,7 +18451,8 @@
       },
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
-      "sourceReport": "live_20261120T190623Z.md"
+      "sourceReport": "live_20261120T190623Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123110541848476770",
@@ -17897,7 +18487,8 @@
       },
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
-      "sourceReport": "live_20261120T190623Z.md"
+      "sourceReport": "live_20261120T190623Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123003633507754438",
@@ -17932,7 +18523,8 @@
       },
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
-      "sourceReport": "live_20261120T190623Z.md"
+      "sourceReport": "live_20261120T190623Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122795313118058126",
@@ -17967,7 +18559,8 @@
       },
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
-      "sourceReport": "live_20261120T190623Z.md"
+      "sourceReport": "live_20261120T190623Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2119033668456922477",
@@ -18002,7 +18595,8 @@
       },
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
-      "sourceReport": "live_20261120T190623Z.md"
+      "sourceReport": "live_20261120T190623Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2118309495664197377",
@@ -18037,7 +18631,8 @@
       },
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
-      "sourceReport": "live_20261120T190623Z.md"
+      "sourceReport": "live_20261120T190623Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2117770887533610528",
@@ -18072,7 +18667,8 @@
       },
       "checked": "2026-11-20T19:06:23+00:00",
       "firstSeen": "2026-11-20T19:06:23+00:00",
-      "sourceReport": "live_20261120T190623Z.md"
+      "sourceReport": "live_20261120T190623Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2124005105894351303",
@@ -18109,7 +18705,8 @@
       },
       "checked": "2026-11-21T13:43:57+00:00",
       "firstSeen": "2026-11-21T13:43:57+00:00",
-      "sourceReport": "live_20261121T134357Z.md"
+      "sourceReport": "live_20261121T134357Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123900824307629154",
@@ -18147,7 +18744,8 @@
       },
       "checked": "2026-11-21T13:43:57+00:00",
       "firstSeen": "2026-11-21T13:43:57+00:00",
-      "sourceReport": "live_20261121T134357Z.md"
+      "sourceReport": "live_20261121T134357Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2124134061567924894",
@@ -18185,7 +18783,8 @@
       },
       "checked": "2026-11-21T13:43:57+00:00",
       "firstSeen": "2026-11-21T13:43:57+00:00",
-      "sourceReport": "live_20261121T134357Z.md"
+      "sourceReport": "live_20261121T134357Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123885625188744202",
@@ -18222,7 +18821,8 @@
       },
       "checked": "2026-11-21T13:43:57+00:00",
       "firstSeen": "2026-11-21T13:43:57+00:00",
-      "sourceReport": "live_20261121T134357Z.md"
+      "sourceReport": "live_20261121T134357Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2123974220136833478",
@@ -18260,7 +18860,8 @@
       },
       "checked": "2026-11-21T13:43:57+00:00",
       "firstSeen": "2026-11-21T13:43:57+00:00",
-      "sourceReport": "live_20261121T134357Z.md"
+      "sourceReport": "live_20261121T134357Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123906415560948746",
@@ -18297,7 +18898,8 @@
       },
       "checked": "2026-11-21T13:43:57+00:00",
       "firstSeen": "2026-11-21T13:43:57+00:00",
-      "sourceReport": "live_20261121T134357Z.md"
+      "sourceReport": "live_20261121T134357Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2124132965997011399",
@@ -18335,7 +18937,8 @@
       },
       "checked": "2026-11-21T13:43:57+00:00",
       "firstSeen": "2026-11-21T13:43:57+00:00",
-      "sourceReport": "live_20261121T134357Z.md"
+      "sourceReport": "live_20261121T134357Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123815574638043349",
@@ -18374,7 +18977,8 @@
       },
       "checked": "2026-11-21T13:43:57+00:00",
       "firstSeen": "2026-11-21T13:43:57+00:00",
-      "sourceReport": "live_20261121T134357Z.md"
+      "sourceReport": "live_20261121T134357Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2124102587807310037",
@@ -18409,7 +19013,8 @@
       },
       "checked": "2026-11-21T13:43:57+00:00",
       "firstSeen": "2026-11-21T13:43:57+00:00",
-      "sourceReport": "live_20261121T134357Z.md"
+      "sourceReport": "live_20261121T134357Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2124008913607088798",
@@ -18444,7 +19049,8 @@
       },
       "checked": "2026-11-21T13:43:57+00:00",
       "firstSeen": "2026-11-21T13:43:57+00:00",
-      "sourceReport": "live_20261121T134357Z.md"
+      "sourceReport": "live_20261121T134357Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123904117747243678",
@@ -18480,7 +19086,9 @@
       },
       "checked": "2026-11-21T13:43:57+00:00",
       "firstSeen": "2026-11-21T13:43:57+00:00",
-      "sourceReport": "live_20261121T134357Z.md"
+      "sourceReport": "live_20261121T134357Z.md",
+      "aiRole": "partial",
+      "aiNote": "Моушн-режиссура для AI-пайплайна монтажа"
     },
     {
       "id": "2123839972883439829",
@@ -18516,7 +19124,8 @@
       },
       "checked": "2026-11-21T13:43:57+00:00",
       "firstSeen": "2026-11-21T13:43:57+00:00",
-      "sourceReport": "live_20261121T134357Z.md"
+      "sourceReport": "live_20261121T134357Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2124136132589961907",
@@ -18562,7 +19171,8 @@
       },
       "checked": "2026-11-21T13:57:53+00:00",
       "firstSeen": "2026-11-21T13:57:53+00:00",
-      "sourceReport": "live_20261121T135753Z.md"
+      "sourceReport": "live_20261121T135753Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123829199415243759",
@@ -18608,7 +19218,8 @@
       },
       "checked": "2026-11-21T13:57:53+00:00",
       "firstSeen": "2026-11-21T13:57:53+00:00",
-      "sourceReport": "live_20261121T135753Z.md"
+      "sourceReport": "live_20261121T135753Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2123814746396484039",
@@ -18654,7 +19265,9 @@
       },
       "checked": "2026-11-21T13:57:53+00:00",
       "firstSeen": "2026-11-21T13:57:53+00:00",
-      "sourceReport": "live_20261121T135753Z.md"
+      "sourceReport": "live_20261121T135753Z.md",
+      "aiRole": "partial",
+      "aiNote": "AI допустим с проверкой точности товара"
     },
     {
       "id": "2123906273902780871",
@@ -18700,7 +19313,8 @@
       },
       "checked": "2026-11-21T13:57:53+00:00",
       "firstSeen": "2026-11-21T13:57:53+00:00",
-      "sourceReport": "live_20261121T135753Z.md"
+      "sourceReport": "live_20261121T135753Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2122243038491821097",
@@ -18735,7 +19349,8 @@
       },
       "checked": "2026-11-21T13:57:53+00:00",
       "firstSeen": "2026-11-21T13:57:53+00:00",
-      "sourceReport": "live_20261121T135753Z.md"
+      "sourceReport": "live_20261121T135753Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2123396577907368391",
@@ -18770,7 +19385,8 @@
       },
       "checked": "2026-11-21T13:57:53+00:00",
       "firstSeen": "2026-11-21T13:57:53+00:00",
-      "sourceReport": "live_20261121T135753Z.md"
+      "sourceReport": "live_20261121T135753Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2123389701993004130",
@@ -18804,7 +19420,8 @@
       },
       "checked": "2026-11-21T13:57:53+00:00",
       "firstSeen": "2026-11-21T13:57:53+00:00",
-      "sourceReport": "live_20261121T135753Z.md"
+      "sourceReport": "live_20261121T135753Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2121898239898321149",
@@ -18839,7 +19456,8 @@
       },
       "checked": "2026-11-21T13:57:53+00:00",
       "firstSeen": "2026-11-21T13:57:53+00:00",
-      "sourceReport": "live_20261121T135753Z.md"
+      "sourceReport": "live_20261121T135753Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2123352729011610054",
@@ -18874,7 +19492,8 @@
       },
       "checked": "2026-11-21T13:57:53+00:00",
       "firstSeen": "2026-11-21T13:57:53+00:00",
-      "sourceReport": "live_20261121T135753Z.md"
+      "sourceReport": "live_20261121T135753Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2123198124061286855",
@@ -18909,7 +19528,8 @@
       },
       "checked": "2026-11-21T13:57:53+00:00",
       "firstSeen": "2026-11-21T13:57:53+00:00",
-      "sourceReport": "live_20261121T135753Z.md"
+      "sourceReport": "live_20261121T135753Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2122682728674824768",
@@ -18944,7 +19564,8 @@
       },
       "checked": "2026-11-21T13:57:53+00:00",
       "firstSeen": "2026-11-21T13:57:53+00:00",
-      "sourceReport": "live_20261121T135753Z.md"
+      "sourceReport": "live_20261121T135753Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122675963677644430",
@@ -18979,7 +19600,8 @@
       },
       "checked": "2026-11-21T13:57:53+00:00",
       "firstSeen": "2026-11-21T13:57:53+00:00",
-      "sourceReport": "live_20261121T135753Z.md"
+      "sourceReport": "live_20261121T135753Z.md",
+      "aiRole": "generation"
     },
     {
       "id": "2122397627020665287",
@@ -19014,7 +19636,8 @@
       },
       "checked": "2026-11-21T13:57:53+00:00",
       "firstSeen": "2026-11-21T13:57:53+00:00",
-      "sourceReport": "live_20261121T135753Z.md"
+      "sourceReport": "live_20261121T135753Z.md",
+      "aiRole": "none"
     },
     {
       "id": "2122386377929323800",
@@ -19049,7 +19672,9 @@
       },
       "checked": "2026-11-21T13:57:53+00:00",
       "firstSeen": "2026-11-21T13:57:53+00:00",
-      "sourceReport": "live_20261121T135753Z.md"
+      "sourceReport": "live_20261121T135753Z.md",
+      "aiRole": "partial",
+      "aiNote": "Руководитель монтажа: внедрять AI-инструменты в процесс"
     },
     {
       "id": "2121992811947190001",
@@ -19084,7 +19709,8 @@
       },
       "checked": "2026-11-21T13:57:53+00:00",
       "firstSeen": "2026-11-21T13:57:53+00:00",
-      "sourceReport": "live_20261121T135753Z.md"
+      "sourceReport": "live_20261121T135753Z.md",
+      "aiRole": "none"
     }
   ],
   "updated": "2026-11-21T13:57:53+00:00",

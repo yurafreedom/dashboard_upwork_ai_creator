@@ -3,6 +3,7 @@ import json
 import subprocess
 import tempfile
 import unittest
+from datetime import datetime, timezone
 from pathlib import Path
 
 from archive_store import build_catalog, merge_original
@@ -27,6 +28,22 @@ class PublicationTests(unittest.TestCase):
                 self.assertNotRegex((out / name).read_text(), r'''["']/api/''')
             self.assertFalse((out / 'connection_status.json').exists())
             self.assertEqual(len(list((BASE / 'reports').glob('live_*.md'))), len(list((out / 'reports').glob('live_*.md'))))
+
+    def test_ai_role_survives_a_later_report_and_is_counted(self):
+        sample = copy.deepcopy(validate()[0]['projects'][0])
+        sample.update(aiRole='partial', aiNote='Монтаж готового AI-материала')
+        later = {k: v for k, v in sample.items() if k not in ('aiRole', 'aiNote', 'checked', 'firstSeen', 'sourceReport')}
+        with tempfile.TemporaryDirectory() as temp:
+            base = Path(temp)
+            (base / 'reports').mkdir()
+            (base / 'data').mkdir()
+            (base / 'data/projects.json').write_text(json.dumps({'projects': [sample]}))
+            (base / 'reports/live_20990101T000000Z.md').write_text('```project-cards\n' + json.dumps([later]) + '\n```\n')
+            card = build_catalog(base, now=datetime(2100, 1, 1, tzinfo=timezone.utc))['projects'][0]
+            self.assertEqual((card['aiRole'], card['aiNote']), ('partial', 'Монтаж готового AI-материала'))
+        with tempfile.TemporaryDirectory() as temp:
+            manifest = build(output=Path(temp) / 'dashboard_upwork_ai_creator')
+            self.assertEqual(sum(manifest['aiRoles'].values()), manifest['projects'])
 
     def test_future_card_needs_english_original(self):
         sample = copy.deepcopy(validate()[0]['projects'][0])

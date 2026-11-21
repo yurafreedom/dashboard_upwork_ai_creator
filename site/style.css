@@ -821,3 +821,13 @@ body:has(dialog[open]) {
 @media(max-width:540px){.audit-tools label{width:100%;justify-content:space-between}}
 
 .audit-summary{border-left:3px solid currentColor;padding:.6rem 1rem;margin:1rem 0}.audit-summary p{margin:.3rem 0}.audit-summary a{display:inline-block;margin-right:1.3rem}.application-copy p{white-space:pre-line}
+
+.aibar {display:flex; flex-wrap:wrap; align-items:center; gap:8px 14px; margin:0 0 6px}
+.aibar-label {font-size:13px; font-weight:600; color:#384d40}
+.tabs {flex-wrap:wrap}
+.aibar-hint {flex-basis:100%; max-width:900px; font-size:12px; line-height:1.55; color:#657269}
+.tags {display:flex; flex-wrap:wrap; gap:6px}
+.tag.ai-generation {background:var(--lime); color:#2c3d14}
+.tag.ai-partial {background:transparent; box-shadow:inset 0 0 0 1px #c3cbb3; color:#4b5a44}
+.tag.ai-none {background:#ecebe4; color:#6a6f66}
+.tag.ai-unset {background:transparent; box-shadow:inset 0 0 0 1px #d9dbce; color:#7b8278}
