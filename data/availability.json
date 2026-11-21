@@ -2028,19 +2028,7 @@
       "verifiedPayment": null
     },
     "2120138568556935831": {
-      "at": "2026-11-10T23:31:37.373Z",
-      "state": null,
-      "applied": null,
-      "canApply": null,
-      "cost": null,
-      "hires": null,
-      "interviews": null,
-      "offers": null,
-      "invites": null,
-      "slots": null,
-      "proposals": null,
-      "location": null,
-      "verifiedPayment": null,
+      "at": "2026-11-21T14:01:53.057Z",
       "error": "PERMISSION"
     },
     "2119957029155989906": {
@@ -3629,15 +3617,18 @@
       "invites": 62
     },
     "2123714280908878831": {
-      "at": "2026-11-20T17:45:26.368Z",
+      "at": "2026-11-21T14:01:24.652Z",
       "state": "ACTIVE",
-      "canApply": false,
       "applied": false,
+      "canApply": false,
       "cost": 17,
       "hires": 0,
       "interviews": 2,
+      "invites": 0,
       "offers": 0,
-      "invites": 0
+      "proposals": "15 to 20",
+      "location": "NLD",
+      "verifiedPayment": true
     },
     "2123497849236773534": {
       "at": "2026-11-20T17:45:43.804Z",
@@ -3709,16 +3700,16 @@
       "verifiedPayment": true
     },
     "2123839221711961098": {
-      "at": "2026-11-20T19:07:52.616Z",
+      "at": "2026-11-21T14:01:09.951Z",
       "state": "ACTIVE",
       "applied": false,
       "canApply": false,
-      "cost": 12,
+      "cost": 15,
       "hires": 0,
-      "interviews": 1,
+      "interviews": 4,
       "invites": 4,
       "offers": 0,
-      "proposals": "20 to 50",
+      "proposals": "50+",
       "location": "United States",
       "verifiedPayment": true
     },
@@ -3916,6 +3907,66 @@
       "proposals": "10 to 15",
       "location": "Colombia",
       "verifiedPayment": true
+    },
+    "2124136132589961907": {
+      "at": "2026-11-21T13:59:31.928Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 8,
+      "hires": 0,
+      "interviews": 0,
+      "invites": 1,
+      "offers": 0,
+      "proposals": "Fewer than 5",
+      "location": "Nigeria",
+      "verifiedPayment": true
+    },
+    "2123829199415243759": {
+      "at": "2026-11-21T13:59:54.607Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": true,
+      "cost": 7,
+      "hires": 0,
+      "interviews": 0,
+      "invites": 0,
+      "offers": 0,
+      "proposals": "20 to 50",
+      "location": "Iceland",
+      "verifiedPayment": true
+    },
+    "2123814746396484039": {
+      "at": "2026-11-21T14:00:09.250Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 22,
+      "hires": 0,
+      "interviews": 0,
+      "invites": 0,
+      "offers": 0,
+      "proposals": "50+",
+      "location": "United States",
+      "verifiedPayment": true
+    },
+    "2123906273902780871": {
+      "at": "2026-11-21T14:00:23.940Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 11,
+      "hires": 0,
+      "interviews": 0,
+      "invites": 0,
+      "offers": 0,
+      "proposals": "20 to 50",
+      "location": "United States",
+      "verifiedPayment": true
+    },
+    "2120941969827207323": {
+      "at": "2026-11-21T14:01:38.926Z",
+      "error": "PERMISSION"
     }
   },
   "latestManualPublicationWindowCheck": {
