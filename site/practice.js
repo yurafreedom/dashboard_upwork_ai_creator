@@ -12,7 +12,8 @@ function openReport(id,scroll=true){
  box.replaceChildren(actions,el("p","eyebrow",p?.group||"Разбор ещё не подготовлен"),el("h2","",c.title),el("p","subtle",`${c.client}${c.country?" · "+c.country:""} · Данные на ${stamp(c.checked)} по Киеву`));
  box.append(originalBrief(c),section("Краткое описание задачи",[c.description,...c.tasks],"li"));
  box.append(section("Зачем это клиенту",[c.about,c.history,c.activity].filter(Boolean)));
- box.append(section("Условия и неопределённость",[c.budget+(c.payment==="hourly"?" · Общий бюджет не подтверждён":""),c.risk,c.question]));
+ const unknownBudget = c.payment === "hourly" && c.paidScopeConfirmed !== true;
+ box.append(section("Условия и неопределённость",[c.budget+(unknownBudget?" · Общий бюджет не подтверждён":""),c.risk,c.question]));
  if(c.applicationPlan){const a=c.applicationPlan;const next=section("Новая демка именно для этого отклика",[a.brief,a.demo,a.check]);next.classList.add("demobox");for(const r of a.refs){const line=el("p","",r.use+" ");const l=link(r.name,r.url,"plain");l.target="_blank";l.rel="noopener noreferrer";line.append(l);next.append(line);}next.append(link("Открыть цену и Cover Letter →","./#project-"+c.id,"plain"));box.append(next);}
  if(p){
   const demo=section("Предлагаемое демо для практики",[p.demo,p.scopeNote]);demo.classList.add("demobox");box.append(demo);

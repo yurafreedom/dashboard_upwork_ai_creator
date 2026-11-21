@@ -160,7 +160,8 @@ function showDetail(p) {
   for(const task of p.tasks) list.append(elem("li","",task));
   brief.append(list);
   const customer=section("О клиенте на дату сохранения брифа",[[p.client,p.country].filter(Boolean).join(" · "),p.about,p.history,p.activity]);
-  const pay=section("Условия и риски на дату сохранения брифа",[p.payment==="hourly"?"Общий бюджет не подтверждён. "+p.budget+".":null,p.risk]);
+  const unknownBudget = p.payment === "hourly" && p.paidScopeConfirmed !== true;
+  const pay=section("Условия и риски на дату сохранения брифа",[unknownBudget?"Общий бюджет не подтверждён. "+p.budget+".":null,p.risk]);
   const questions=section("Что уточнить у клиента",[p.question],"question");
   const aiPart=section("Роль AI в заказе",[aiLabels[aiRole(p)]+(p.aiNote?" · "+p.aiNote:"")]);
   const dates=elem("p","original","Данные сохранены на "+stamp(p.checked)+" по Киеву"+(p.published?" · Опубликовано "+p.published+" по Киеву":""));
