@@ -4064,6 +4064,102 @@
       "offers": 0,
       "proposals": "Fewer than 5",
       "location": "Egypt"
+    },
+    "2124294487595219978": {
+      "at": "2026-11-22T10:50:45.100Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 20,
+      "hires": 0,
+      "interviews": 0,
+      "invites": 0,
+      "offers": 0,
+      "proposals": "50+"
+    },
+    "2124246413082812871": {
+      "at": "2026-11-22T10:49:47.738Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 8,
+      "hires": 0,
+      "interviews": 0,
+      "invites": 1,
+      "offers": 0,
+      "proposals": "20 to 50"
+    },
+    "2124212144664848520": {
+      "at": "2026-11-22T10:51:11.362Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 12,
+      "hires": 0,
+      "interviews": 1,
+      "invites": 1,
+      "offers": 0,
+      "proposals": "20 to 50"
+    },
+    "2124190298651419079": {
+      "at": "2026-11-22T10:48:41.386Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 13,
+      "hires": 0,
+      "interviews": 0,
+      "invites": 0,
+      "offers": 0,
+      "proposals": "20 to 50"
+    },
+    "2124226291753165013": {
+      "at": "2026-11-22T10:50:03.817Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 11,
+      "hires": 0,
+      "interviews": 8,
+      "invites": 23,
+      "offers": 0,
+      "proposals": "10 to 15"
+    },
+    "2124095309550299272": {
+      "at": "2026-11-22T10:49:26.348Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 13,
+      "hires": 0,
+      "interviews": 0,
+      "invites": 0,
+      "offers": 0,
+      "proposals": "20 to 50"
+    },
+    "2123980656756007125": {
+      "at": "2026-11-22T10:50:21.071Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 8,
+      "hires": 0,
+      "interviews": 1,
+      "invites": 2,
+      "offers": 0,
+      "proposals": "5 to 10"
+    },
+    "2123778134494149730": {
+      "at": "2026-11-22T10:49:06.006Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 9,
+      "hires": 0,
+      "interviews": 0,
+      "invites": 1,
+      "offers": 0,
+      "proposals": "10 to 15"
     }
   },
   "latestManualPublicationWindowCheck": {
