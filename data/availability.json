@@ -2028,7 +2028,7 @@
       "verifiedPayment": null
     },
     "2120138568556935831": {
-      "at": "2026-11-21T19:02:53.140Z",
+      "at": "2026-11-23T14:09:56.561Z",
       "error": "PERMISSION"
     },
     "2119957029155989906": {
@@ -3965,7 +3965,7 @@
       "verifiedPayment": true
     },
     "2120941969827207323": {
-      "at": "2026-11-21T19:02:23.940Z",
+      "at": "2026-11-23T14:09:20.590Z",
       "error": "PERMISSION"
     },
     "2124210611712652271": {
@@ -4446,6 +4446,101 @@
       "hires": 0,
       "interviews": 1,
       "invites": 1,
+      "offers": 0,
+      "proposals": "20 to 50"
+    },
+    "2124790547007632367": {
+      "at": "2026-11-23T14:07:21.014Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 14,
+      "hires": 0,
+      "interviews": 6,
+      "invites": 10,
+      "offers": 0,
+      "proposals": "20 to 50"
+    },
+    "2124828534118424789": {
+      "at": "2026-11-23T14:07:06.655Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 22,
+      "hires": 0,
+      "interviews": 0,
+      "invites": 0,
+      "offers": 0,
+      "proposals": "20 to 50"
+    },
+    "2124808306077424171": {
+      "at": "2026-11-23T14:08:30.380Z",
+      "error": "UPSTREAM"
+    },
+    "2124862775003994782": {
+      "at": "2026-11-23T14:07:41.684Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 11,
+      "hires": 0,
+      "interviews": 0,
+      "invites": 0,
+      "offers": 0
+    },
+    "2124860599949255111": {
+      "at": "2026-11-23T14:06:31.003Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 8,
+      "hires": 0,
+      "interviews": 1,
+      "invites": 11,
+      "offers": 0,
+      "proposals": "Fewer than 5"
+    },
+    "2124799657741671070": {
+      "at": "2026-11-23T14:05:49.346Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 9,
+      "hires": 0,
+      "interviews": 1,
+      "invites": 1,
+      "offers": 0,
+      "proposals": "Fewer than 5"
+    },
+    "2124814529666113275": {
+      "at": "2026-11-23T14:08:44.651Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 12,
+      "hires": 0,
+      "interviews": 0,
+      "invites": 0,
+      "offers": 0,
+      "proposals": "10 to 15"
+    },
+    "2122955646881305152": {
+      "at": "2026-11-23T14:05:20.881Z",
+      "applied": true
+    },
+    "2121498876035560031": {
+      "at": "2026-11-23T14:05:20.881Z",
+      "applied": true
+    },
+    "2124583506527876079": {
+      "at": "2026-11-23T14:06:45.555Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 20,
+      "hires": 2,
+      "interviews": 10,
+      "invites": 11,
       "offers": 0,
       "proposals": "20 to 50"
     }
