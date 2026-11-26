@@ -5056,6 +5056,108 @@
       "offers": 0,
       "proposals": "50+",
       "verifiedPayment": true
+    },
+    "2125850863581279405": {
+      "at": "2026-11-26T08:04:07.231Z",
+      "error": "UPSTREAM"
+    },
+    "2125805887062214732": {
+      "at": "2026-11-26T08:03:39.002Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 9,
+      "hires": 0,
+      "interviews": 0,
+      "invites": 0,
+      "offers": 0,
+      "proposals": "Fewer than 5"
+    },
+    "2125743476114085848": {
+      "at": "2026-11-26T08:03:53.444Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 8,
+      "hires": 0,
+      "interviews": 0,
+      "invites": 0,
+      "offers": 0,
+      "proposals": "Fewer than 5"
+    },
+    "2125741412592015320": {
+      "at": "2026-11-26T08:02:56.555Z",
+      "error": "UPSTREAM"
+    },
+    "2125674996861917144": {
+      "at": "2026-11-26T08:02:28.569Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 22,
+      "hires": 0,
+      "interviews": 0,
+      "invites": 0,
+      "offers": 0,
+      "proposals": "50+",
+      "verifiedPayment": true
+    },
+    "2125699808384669656": {
+      "at": "2026-11-26T08:02:42.631Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 14,
+      "hires": 0,
+      "interviews": 2,
+      "invites": 6,
+      "offers": 0,
+      "proposals": "20 to 50",
+      "verifiedPayment": true
+    },
+    "2125848413783511806": {
+      "at": "2026-11-26T08:03:11.048Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 8,
+      "hires": 0,
+      "interviews": 0,
+      "invites": 0,
+      "offers": 0,
+      "proposals": "Fewer than 5",
+      "verifiedPayment": true
+    },
+    "2125800436753899754": {
+      "at": "2026-11-26T08:02:04.406Z",
+      "state": "UNKNOWN",
+      "stateNote": "Стан публікації не зафіксовано, можливість подання перевірена окремо.",
+      "applied": false,
+      "canApply": false,
+      "cost": 13,
+      "hires": 0,
+      "interviews": 4,
+      "invites": 9,
+      "offers": 0,
+      "proposals": "20 to 50",
+      "verifiedPayment": true
+    },
+    "2125764863664338093": {
+      "at": "2026-11-26T08:04:21.754Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 10,
+      "hires": 0,
+      "interviews": 1,
+      "invites": 0,
+      "offers": 0,
+      "proposals": "10 to 15",
+      "verifiedPayment": true
+    },
+    "2125751586513901528": {
+      "at": "2026-11-26T08:03:24.743Z",
+      "error": "UPSTREAM"
     }
   },
   "latestManualPublicationWindowCheck": {
