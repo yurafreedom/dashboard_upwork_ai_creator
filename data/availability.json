@@ -5257,6 +5257,94 @@
     "2125865252996109520": {
       "at": "2026-11-26T15:00:35.301Z",
       "error": "TRANSPORT"
+    },
+    "2125734292018583512": {
+      "at": "2026-11-26T18:58:51.145Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": true,
+      "cost": 10,
+      "interviews": 0,
+      "hires": 0,
+      "invites": 0,
+      "offers": 0,
+      "proposals": "20 to 50"
+    },
+    "2125992756441829178": {
+      "at": "2026-11-26T18:59:20.108Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": true,
+      "cost": 19,
+      "interviews": 2,
+      "hires": 0,
+      "invites": 1,
+      "offers": 0,
+      "proposals": "20 to 50",
+      "verifiedPayment": true
+    },
+    "2126019053111789513": {
+      "at": "2026-11-26T18:59:49.700Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": true,
+      "cost": 9,
+      "interviews": 0,
+      "hires": 0,
+      "invites": 2,
+      "offers": 0,
+      "proposals": "5 to 10"
+    },
+    "2126024789931472023": {
+      "at": "2026-11-26T18:59:05.569Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": true,
+      "cost": 11,
+      "interviews": 0,
+      "hires": 0,
+      "invites": 0,
+      "offers": 0,
+      "proposals": "Fewer than 5",
+      "verifiedPayment": true
+    },
+    "2125999401203668576": {
+      "at": "2026-11-26T18:59:34.861Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": true,
+      "cost": 8,
+      "interviews": 13,
+      "hires": 0,
+      "invites": 30,
+      "offers": 0,
+      "proposals": "20 to 50",
+      "verifiedPayment": true
+    },
+    "2125992391478660922": {
+      "at": "2026-11-26T19:00:21.781Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": true,
+      "cost": 8,
+      "interviews": 0,
+      "hires": 1,
+      "invites": 1,
+      "offers": 0,
+      "proposals": "Fewer than 5",
+      "verifiedPayment": true
+    },
+    "2125979878114740074": {
+      "at": "2026-11-26T19:00:35.834Z",
+      "error": "UPSTREAM"
+    },
+    "2126014767138747543": {
+      "at": "2026-11-26T19:00:49.861Z",
+      "error": "UPSTREAM"
+    },
+    "2125959709947119561": {
+      "at": "2026-11-26T19:01:03.822Z",
+      "error": "UPSTREAM"
     }
   },
   "latestManualPublicationWindowCheck": {
