@@ -5158,6 +5158,105 @@
     "2125751586513901528": {
       "at": "2026-11-26T08:03:24.743Z",
       "error": "UPSTREAM"
+    },
+    "2125941726622713932": {
+      "at": "2026-11-26T14:43:06.989Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 7,
+      "interviews": 0,
+      "hires": 0,
+      "invites": 0,
+      "offers": 0,
+      "proposals": "10 to 15",
+      "verifiedPayment": true
+    },
+    "2125938289295106282": {
+      "at": "2026-11-26T14:27:49.819Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 10,
+      "interviews": 1,
+      "hires": 0,
+      "invites": 5,
+      "offers": 0,
+      "proposals": "20 to 50",
+      "verifiedPayment": true
+    },
+    "2125920301522290764": {
+      "at": "2026-11-26T14:28:04.886Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 19,
+      "interviews": 3,
+      "hires": 0,
+      "invites": 3,
+      "offers": 0,
+      "proposals": "20 to 50",
+      "verifiedPayment": true
+    },
+    "2125875204542906209": {
+      "at": "2026-11-26T14:28:19.520Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 22,
+      "interviews": 0,
+      "hires": 0,
+      "invites": 0,
+      "offers": 0,
+      "proposals": "50+",
+      "verifiedPayment": true
+    },
+    "2125923299402864600": {
+      "at": "2026-11-26T15:00:50.119Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 14,
+      "interviews": 7,
+      "hires": 0,
+      "invites": 7,
+      "offers": 0,
+      "proposals": "20 to 50",
+      "verifiedPayment": true
+    },
+    "2125915651529122026": {
+      "at": "2026-11-26T14:42:52.403Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 13,
+      "interviews": 3,
+      "hires": 0,
+      "invites": 5,
+      "offers": 0,
+      "proposals": "20 to 50",
+      "verifiedPayment": true
+    },
+    "2125892388918252752": {
+      "at": "2026-11-26T15:01:04.190Z",
+      "error": "UPSTREAM"
+    },
+    "2125868876643488510": {
+      "at": "2026-11-26T15:01:18.893Z",
+      "state": "ACTIVE",
+      "applied": false,
+      "canApply": false,
+      "cost": 8,
+      "interviews": 0,
+      "hires": 1,
+      "invites": 1,
+      "offers": 0,
+      "proposals": "15 to 20",
+      "verifiedPayment": true
+    },
+    "2125865252996109520": {
+      "at": "2026-11-26T15:00:35.301Z",
+      "error": "TRANSPORT"
     }
   },
   "latestManualPublicationWindowCheck": {
