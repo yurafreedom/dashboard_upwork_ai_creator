@@ -13,7 +13,7 @@ function originalBrief(project) {
   if (description?.text) {
     const label = document.createElement("small");
     const date = new Date(description.retrievedAt).toLocaleDateString("ru-RU", {timeZone: "Europe/Kyiv"});
-    label.textContent = (description.quality === "full" ? "Полный текст" : "Фрагмент из поиска") + " · Upwork · " + date;
+    label.textContent = (description.quality === "full" ? "Полный текст" : "Фрагмент описания") + " · Upwork · " + date;
     panel.append(label);
     const body = document.createElement("div");
     body.className = "original-brief-text";
